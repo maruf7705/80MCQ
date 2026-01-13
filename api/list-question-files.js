@@ -61,9 +61,11 @@ export default async function handler(req, res) {
             'next.config.js'
         ]
 
-        // Filter for ONLY questions.json
+        // Filter for any .json file that is NOT in the exclude list
         const questionFiles = files.filter(file => {
-            return file.name.toLowerCase() === 'questions.json'
+            const isJson = file.name.toLowerCase().endsWith('.json')
+            const isExcluded = excludeFiles.includes(file.name)
+            return isJson && !isExcluded
         })
 
         // Format the file list
