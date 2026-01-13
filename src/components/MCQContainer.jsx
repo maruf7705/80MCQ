@@ -88,23 +88,47 @@ function MCQContainer({ questions, studentName, questionFile = 'questions.json' 
   }, [currentQuestionIndex])
 
   const calculateScore = useCallback(() => {
-    if (!questions || !Array.isArray(questions)) return { score: 0, correct: 0, wrong: 0, attempted: 0, total: 0 }
+    if (!questions || !Array.isArray(questions)) return { score: 0, correct: 0, wrong: 0, attempted: 0, total: 0, subjectStats: {} }
 
     let correct = 0
     let wrong = 0
+    const subjectStats = {}
 
     questions.forEach(q => {
+      const subject = q.subject || 'General'
+      if (!subjectStats[subject]) {
+        subjectStats[subject] = { correct: 0, wrong: 0, attempted: 0, total: 0 }
+      }
+      subjectStats[subject].total++
+
       const selected = answers[q.id]
       if (!selected) return
+
+      subjectStats[subject].attempted++
       if (selected === q.correctOptionId) {
         correct++
+        subjectStats[subject].correct++
       } else {
         wrong++
+        subjectStats[subject].wrong++
       }
     })
 
+    // Calculate percentages for each subject
+    Object.keys(subjectStats).forEach(subject => {
+      const stats = subjectStats[subject]
+      stats.percentage = stats.total > 0 ? Math.round((stats.correct / stats.total) * 100) : 0
+    })
+
     const score = Math.max(correct * MARK_PER_QUESTION - wrong * NEGATIVE_MARKING, 0)
-    return { score, correct, wrong, attempted: correct + wrong, total: questions.length }
+    return {
+      score,
+      correct,
+      wrong,
+      attempted: correct + wrong,
+      total: questions.length,
+      subjectStats
+    }
   }, [questions, answers])
 
   const handleSubmit = useCallback(async () => {

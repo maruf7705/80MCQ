@@ -6,10 +6,20 @@ import PerformanceChart from './PerformanceChart'
 import './ResultSummary.css'
 
 function ResultSummary({ questions, answers, studentName, score, onRestart, questionFile, submissionStatus }) {
-  const { score: totalScore, correct, wrong, attempted, total } = score
+  const { score: totalScore, correct, wrong, attempted, total, subjectStats = {} } = score
   const accuracy = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : 0
   const unanswered = total - attempted
   const pass = totalScore >= 60.0
+
+  const subjectNames = {
+    'Biology': 'Biology',
+    'Chemistry': 'রসায়ন',
+    'ICT': 'আইসিটি',
+    'Physics': 'পদার্থবিজ্ঞান',
+    'General': 'সাধারণ'
+  }
+
+  // ... (rest of the state and hooks)
 
   // Initialize expanded questions with wrong answers
   const [expandedQuestions, setExpandedQuestions] = useState(() => {
@@ -142,6 +152,48 @@ function ResultSummary({ questions, answers, studentName, score, onRestart, ques
             unanswered={unanswered}
           />
         </div>
+
+        {/* Subject-wise Analysis Section */}
+        {Object.keys(subjectStats).length > 0 && (
+          <div className="subject-analysis">
+            <h2 className="subject-analysis-title bengali">
+              <span className="analysis-icon">📊</span>
+              বিষয়ভিত্তিক পারদর্শিতা বিশ্লেষণ
+            </h2>
+            <div className="subject-grid">
+              {Object.entries(subjectStats).map(([subject, stats]) => (
+                <div key={subject} className="subject-card">
+                  <div className="subject-card-header">
+                    <span className="subject-name bengali">{subjectNames[subject] || subject}</span>
+                    <span className={`subject-percent ${stats.percentage >= 80 ? 'high' : stats.percentage >= 50 ? 'mid' : 'low'}`}>
+                      {stats.percentage}%
+                    </span>
+                  </div>
+                  <div className="subject-progress-container">
+                    <div
+                      className={`subject-progress-bar ${stats.percentage >= 80 ? 'high' : stats.percentage >= 50 ? 'mid' : 'low'}`}
+                      style={{ width: `${stats.percentage}%` }}
+                    ></div>
+                  </div>
+                  <div className="subject-metrics">
+                    <div className="metric-box correct">
+                      <span className="metric-icon">✓</span>
+                      <span className="metric-value">{stats.correct}</span>
+                    </div>
+                    <div className="metric-box wrong">
+                      <span className="metric-icon">X</span>
+                      <span className="metric-value">{stats.wrong}</span>
+                    </div>
+                    <div className="metric-box skipped">
+                      <span className="metric-icon">📝</span>
+                      <span className="metric-value">{stats.total - stats.attempted}</span>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
 
         <div className="stats-grid">
           <div className="stat-item correct-stat">
