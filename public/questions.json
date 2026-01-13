@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "subject": "Physics",
+    "topic": "Work, Power and Energy",
+    "question": "একটি কণার উপর $\\vec{F}=(-2\\hat{i}+3\\hat{j}+3\\hat{k})$ নিউটন বল প্রয়োগের ফলে কণাটি $(3,-4,-2)$ বিন্দু থেকে $(-2,3,5)$ বিন্দুতে স্থানান্তরিত হয়। বল কর্তৃক সম্পাদিত কাজের পরিমাণ কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "52 J",
+      "b": "59 J",
+      "c": "48 J",
+      "d": "54 J"
+    },
+    "correctAnswer": "a",
+    "explanation": "সরণ, $\\vec{r} = r_2 - r_1 = (-2-3)\\hat{i} + (3-(-4))\\hat{j} + (5-(-2))\\hat{k} = -5\\hat{i} + 7\\hat{j} + 7\\hat{k}$। কাজ $W = \\vec{F} \\cdot \\vec{r} = (-2)(-5) + (3)(7) + (3)(7) = 10 + 21 + 21 = 52 J$। [cite: 13, 710]"
+  },
+  {
+    "id": 2,
+    "subject": "Physics",
+    "topic": "Motion",
+    "question": "$196~ms^{-1}$ বেগে একটি পাথরকে উপরে নিক্ষেপ করা হলো। 10 sec পরে পাথরটির বেগ কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$0~ms^{-1}$",
+      "b": "$9.8~ms^{-1}$",
+      "c": "$49~ms^{-1}$",
+      "d": "$98~ms^{-1}$"
+    },
+    "correctAnswer": "d",
+    "explanation": "আমরা জানি, $v = u - gt = 196 - (9.8 \\times 10) = 196 - 98 = 98~ms^{-1}$। [cite: 16, 717]"
+  },
+  {
+    "id": 3,
+    "subject": "Physics",
+    "topic": "Work, Power and Energy",
+    "question": "একটি গাড়ি $10~ms^{-1}$ গতিতে চলছে। কত গতিতে চালালে গাড়িটির গতিশক্তি দ্বিগুণ হবে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$40.1~ms^{-1}$",
+      "b": "$10~ms^{-1}$",
+      "c": "$100~ms^{-1}$",
+      "d": "$14.1~ms^{-1}$"
+    },
+    "correctAnswer": "d",
+    "explanation": "গতিশক্তি $E_k \\propto v^2$। যদি গতিশক্তি দ্বিগুণ হয় ($2E_k$), তবে বেগ হবে $\\sqrt{2}$ গুণ। $v_2 = \\sqrt{2} \\times 10 = 1.414 \\times 10 = 14.14~ms^{-1}$। [cite: 25, 719]"
+  },
+  {
+    "id": 4,
+    "subject": "Physics",
+    "topic": "Physical World and Measurement",
+    "question": "কৌণিক বেগের মাত্রা সমীকরণ-",
+    "hasDiagram": false,
+    "options": {
+      "a": "$MLT^{-1}$",
+      "b": "$LT^{-1}$",
+      "c": "$LT^{-2}$",
+      "d": "$T^{-1}$"
+    },
+    "correctAnswer": "d",
+    "explanation": "কৌণিক বেগ $\\omega = \\frac{\\theta}{t}$। কোণের কোনো মাত্রা নেই, তাই মাত্রা $T^{-1}$। [cite: 30, 726]"
+  },
+  {
+    "id": 5,
+    "subject": "Physics",
+    "topic": "Gravitation",
+    "question": "কোন বস্তুর উৎক্ষেপণ বেগ মুক্তিবেগের চেয়ে বেশি হলে বস্তুটি-",
+    "hasDiagram": false,
+    "options": {
+      "a": "উপগ্রহে পরিণত হবে",
+      "b": "পরাবৃত্তাকার পথে পৃথিবী ছেড়ে যাবে",
+      "c": "পৃথিবীতে ফিরে আসবে",
+      "d": "অধিবৃত্তাকার পথে পৃথিবী ছেড়ে যাবে"
+    },
+    "correctAnswer": "d",
+    "explanation": "উৎক্ষেপণ বেগ মুক্তিবেগের চেয়ে বেশি হলে ($v > v_e$), বস্তুটি অধিবৃত্তাকার (Hyperbolic) পথে পৃথিবী ছেড়ে চলে যায়। [cite: 34, 695]"
+  },
+  {
+    "id": 6,
+    "subject": "Physics",
+    "topic": "Structural Properties of Matter",
+    "question": "একটি রডের ইয়ং এর গুণাঙ্ক $Y=2\\times10^{11}Nm^{-2}$ এবং তার উপর 200 N বল প্রয়োগ করা হলে রডের প্রস্থচ্ছেদ $0.1~cm^{2}$ এবং দৈর্ঘ্য পরিবর্তন $\\Delta L=0.2~mm$ হয়। রডের প্রাথমিক দৈর্ঘ্য কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "1.0 m",
+      "b": "0.2 m",
+      "c": "0.5 m",
+      "d": "2.0 m"
+    },
+    "correctAnswer": "d",
+    "explanation": "আমরা জানি $Y = \\frac{FL}{A\\Delta L}$ বা $L = \\frac{YA\\Delta L}{F}$। মান বসালে: $L = \\frac{2\\times10^{11} \\times 0.1\\times10^{-4} \\times 0.2\\times10^{-3}}{200} = 2.0 m$। [cite: 39, 728]"
+  },
+  {
+    "id": 7,
+    "subject": "Physics",
+    "topic": "Ideal Gas and Kinetic Theory",
+    "question": "$27^{\\circ}C$ তাপমাত্রায় ও $6\\times10^{5}$ Pa চাপে কোন গ্যাসের আয়তন $100~cm^{3}$ হলে, $77^{\\circ}C$ তাপমাত্রা ও $10^{6}$ Pa চাপে এর আয়তন কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$60~cm^{3}$",
+      "b": "$70~cm^{3}$",
+      "c": "$75~cm^{3}$",
+      "d": "$80~cm^{3}$"
+    },
+    "correctAnswer": "b",
+    "explanation": "সূত্র $\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}$। $V_2 = \\frac{P_1V_1T_2}{P_2T_1} = \\frac{6\\times10^5 \\times 100 \\times 350}{10^6 \\times 300} = 70~cm^3$। [cite: 40, 731]"
+  },
+  {
+    "id": 8,
+    "subject": "Physics",
+    "topic": "Atomic Physics",
+    "question": "বোর মডেল অনুসারে, n-তম কক্ষপথে ইলেকট্রনের মোট শক্তি $E_{n}$ হলে, নিচের কোনটি সঠিক?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$E_{n}\\propto\\frac{1}{n}$",
+      "b": "$E_{n}\\propto\\frac{1}{n^{2}}$",
+      "c": "$E_{n}\\propto n$",
+      "d": "$E_{n}\\propto n^{2}$"
+    },
+    "correctAnswer": "b",
+    "explanation": "বোর মডেল অনুযায়ী, কক্ষপথের শক্তি $E_n = -\\frac{13.6}{n^2} eV$, অর্থাৎ $E_n \\propto \\frac{1}{n^2}$। [cite: 41, 695]"
+  },
+  {
+    "id": 9,
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "question": "একটি কার্নো ইঞ্জিন 400 K তাপমাত্রার উৎস থেকে 300 cal তাপ গ্রহণ করে এবং তাপগ্রাহকে 225 cal তাপ বর্জন করে। তাপ গ্রাহকের তাপমাত্রা কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "425 K",
+      "b": "525 K",
+      "c": "325 K",
+      "d": "300 K"
+    },
+    "correctAnswer": "d",
+    "explanation": "কার্নো ইঞ্জিনের ক্ষেত্রে $\\frac{Q_1}{T_1} = \\frac{Q_2}{T_2}$। বা $T_2 = \\frac{Q_2}{Q_1} \\times T_1 = \\frac{225}{300} \\times 400 = 300 K$। [cite: 44, 736]"
+  },
+  {
+    "id": 10,
+    "subject": "Physics",
+    "topic": "Physical Optics",
+    "question": "ইয়ং এর দ্বি-চিড় পরীক্ষায় পরপর দুটি উজ্জ্বল ডোরার মধ্যবর্তী দূরত্ব $5.25\\times10^{-5}$ m। চিড় দুটি থেকে পর্দার দূরত্ব 0.9 m এবং আলোর তরঙ্গদৈর্ঘ্য $5.25\\times10^{-7}$ m হলে চিড় দুটির মধ্যে দূরত্ব কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "6 mm",
+      "b": "6 cm",
+      "c": "9 mm",
+      "d": "9 cm"
+    },
+    "correctAnswer": "c",
+    "explanation": "ডোরা ব্যবধান $\\beta = \\frac{\\lambda D}{a}$। এখানে $a = \\frac{\\lambda D}{\\beta} = \\frac{5.25\\times10^{-7} \\times 0.9}{5.25\\times10^{-5}} = 0.9 \\times 10^{-2} m = 9 mm$। [cite: 46, 737]"
+  },
+  {
+    "id": 11,
+    "subject": "Physics",
+    "topic": "Current Electricity",
+    "question": "তিনটি সমান মানের ধারক সমান্তরালে যুক্ত থাকলে বর্তনীর তুল্য ধারকত্ব শ্রেণি সমবায়ে যুক্ত তুল্য ধারকত্বের তুলনায় কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "এক তৃতীয়াংশ",
+      "b": "3 গুণ",
+      "c": "9 গুণ",
+      "d": "এক নবমাংশ"
+    },
+    "correctAnswer": "c",
+    "explanation": "সমান্তরালে $C_p = 3C$। শ্রেণিতে $C_s = C/3$। অনুপাত $C_p / C_s = 3C / (C/3) = 9$ গুণ। [cite: 49, 740]"
+  },
+  {
+    "id": 12,
+    "subject": "Physics",
+    "topic": "Electromagnetic Waves",
+    "question": "তড়িৎচুম্বকীয় তরঙ্গ নিচের কোন দিক বরাবর অগ্রসর হয়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "E",
+      "b": "B",
+      "c": "$\\vec{E}\\times\\vec{B}$",
+      "d": "E.B"
+    },
+    "correctAnswer": "c",
+    "explanation": "তড়িৎচুম্বকীয় তরঙ্গ তড়িৎ ক্ষেত্র ও চৌম্বক ক্ষেত্রের ক্রস গুণন ($\\vec{E}\\times\\vec{B}$) এর দিকে অগ্রসর হয়। [cite: 56, 695]"
+  },
+  {
+    "id": 13,
+    "subject": "Physics",
+    "topic": "Electromagnetic Induction",
+    "question": "200 পাক বিশিষ্ট একটি কুণ্ডলীতে চৌম্বক প্রবাহ প্রতি সেকেন্ডে 0.02 ওয়েবার থেকে 0.06 ওয়েবারে পরিবর্তিত হলে, কুণ্ডলীতে ইলেকট্রোমোটিভ ফোস (EMF) কত হবে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "2 V",
+      "b": "4 V",
+      "c": "8 V",
+      "d": "কোনটিই না"
+    },
+    "correctAnswer": "c",
+    "explanation": "$E = N \\frac{d\\phi}{dt} = 200 \\times \\frac{0.06 - 0.02}{1} = 200 \\times 0.04 = 8 V$। [cite: 60, 744]"
+  },
+  {
+    "id": 14,
+    "subject": "Physics",
+    "topic": "Geometrical Optics",
+    "question": "কোন পুকুরের তলদেশে একটি মাছকে খাড়াভাবে দেখলে 3 m নিচে দেখা যায়। পানির প্রতিসরণাঙ্ক $\\frac{4}{3}$ হলে, পুকুরটির প্রকৃত গভীরতা কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "2.25 m",
+      "b": "2.67 m",
+      "c": "1.33 m",
+      "d": "4.0 m"
+    },
+    "correctAnswer": "d",
+    "explanation": "প্রকৃত গভীরতা = আপাত গভীরতা $\\times \\mu = 3 \\times \\frac{4}{3} = 4 m$। [cite: 62, 747]"
+  },
+  {
+    "id": 15,
+    "subject": "Physics",
+    "topic": "Geometrical Optics",
+    "question": "একটি অভিসারী লেন্সের ফোকাল দৈর্ঘ্য 20 cm হলে, 30 cm দূরত্বে রাখা একটি বস্তুর স্পষ্ট বিম্ব তৈরি হয়। যদি বস্তুটিকে লেন্স থেকে 10 cm দূরত্বে সরিয়ে আনা হয়, তাহলে বিম্বের ক্ষেত্রে নিচের কোনটি সঠিক?",
+    "hasDiagram": false,
+    "options": {
+      "a": "বিম্বটি বাস্তব হবে এবং লেন্স থেকে আরও দূরে সরে যাবে",
+      "b": "বিম্বটি অবাস্তব হবে এবং লেন্সের পেছনে চলে যাবে",
+      "c": "বিম্বটি বাস্তব হবে এবং লেন্সের কাছাকাছি চলে আসবে",
+      "d": "বিম্বটি অদৃশ্য হয়ে যাবে কারণ কোনো প্রতিসরণ হবে না"
+    },
+    "correctAnswer": "b",
+    "explanation": "লেন্সের ফোকাস দূরত্ব $f=20cm$। বস্তুর দূরত্ব $u=10cm$। যেহেতু $u < f$, তাই উত্তল লেন্সে বিম্বটি অবাস্তব, সোজা ও বিবর্ধিত হবে এবং লেন্সের পেছনে (বস্তুর দিকে) গঠিত হবে। [cite: 64, 748]"
+  },
+  {
+    "id": 16,
+    "subject": "Physics",
+    "topic": "Semiconductor and Electronics",
+    "question": "নিম্নে বর্তনীতে $A=+5~V$ ও $B=0~V$ হলে বর্তনীর আউটপুট ভোল্টেজ কত হবে?",
+    "hasDiagram": true,
+    "options": {
+      "a": "-5 V",
+      "b": "+5 V",
+      "c": "0 V",
+      "d": "কোনটিই না"
+    },
+    "correctAnswer": "c",
+    "explanation": "প্রদত্ত লজিক বর্তনীটি NAND গেইটের সমতুল্য আচরণ করলে (সাধারণত এই ধরনের ডায়োড-ট্রানজিস্টর লজিকে), ইনপুট A=1 (5V) এবং B=0 (0V) হলে আউটপুট 1 (High) বা 0 (Low) নির্ভর করে। চিত্রটি পুরোপুরি স্পষ্ট নয় তবে সমাধান অংশে উত্তর (c) 0 V দেওয়া হয়েছে। [cite: 71, 695]"
+  },
+  {
+    "id": 17,
+    "subject": "Physics",
+    "topic": "Electrostatics",
+    "question": "একটি পাতলা ফাঁপা পরিবাহী গোলকের ব্যাসার্ধ $R=15~cm$। এতে $Q=6\\times10^{-6}C$ আধান প্রদান করা হয়েছে। গোলকের কেন্দ্রে বৈদ্যুতিক ক্ষেত্রের মান কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$0~NC^{-1}$",
+      "b": "$2.4\\times10^{6}NC^{-1}$",
+      "c": "$4.8\\times10^{6}NC^{-1}$",
+      "d": "$6.0\\times10^{6}NC^{-1}$"
+    },
+    "correctAnswer": "a",
+    "explanation": "ফাঁপা পরিবাহী গোলকের অভ্যন্তরে যেকোনো বিন্দুতে (কেন্দ্রেও) বৈদ্যুতিক প্রাবল্য শূন্য ($E=0$) হয়। [cite: 106, 753]"
+  },
+  {
+    "id": 18,
+    "subject": "Physics",
+    "topic": "Ideal Gas and Kinetic Theory",
+    "question": "নিচের কোনটি আদর্শ গ্যাসের বৈশিষ্ট্য নয়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "গ্যাস অণুগুলোর মধ্যে কোনো আন্তঃআণবিক বল থাকে না",
+      "b": "গ্যাসের আণবিক গতিশক্তি নির্দিষ্ট তাপমাত্রায় সবসময় একই থাকে",
+      "c": "গ্যাস অণুগুলোর মধ্যে স্থিতিস্থাপক সংঘর্ষ হয়",
+      "d": "গ্যাসের আণবিক গতি ব্রাউনীয় গতির সাথে সম্পর্কিত থাকে"
+    },
+    "correctAnswer": "d",
+    "explanation": "ব্রাউনীয় গতি আদর্শ গ্যাসের স্বীকার্য বা বৈশিষ্ট্যের মধ্যে পড়ে না; এটি কলয়ডাল কণার গতি। অন্যগুলো আদর্শ গ্যাসের স্বীকার্য। [cite: 112, 754]"
+  },
+  {
+    "id": 19,
+    "subject": "Physics",
+    "topic": "Semiconductor and Electronics",
+    "question": "একটি কমন বেস ট্রানজিস্টরের অ্যামিটার প্রবাহ 1.25 mA এবং কালেক্টর প্রবাহ $8\\times10^{-4}$ A হলে, বেস প্রবাহ কত হবে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$4.5\\times10^{-4}A$",
+      "b": "3.5 A",
+      "c": "$0.3\\times10^{-3}A$",
+      "d": "$3.3\\times10^{-3}mA$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$I_E = I_B + I_C$। $I_B = I_E - I_C = 1.25 \\times 10^{-3} - 0.8 \\times 10^{-3} = 0.45 \\times 10^{-3} = 4.5 \\times 10^{-4} A$। [cite: 117, 774]"
+  },
+  {
+    "id": 20,
+    "subject": "Physics",
+    "topic": "Structural Properties of Matter",
+    "question": "দৈর্ঘ্য L ও প্রস্থচ্ছেদ A বিশিষ্ট একটি তারের দৈর্ঘ্য বরাবর F বল প্রয়োগ করায় দৈর্ঘ্য l পরিমাণ বৃদ্ধি পায়। তারটিতে কৃতকাজের পরিমাণ কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$F\\times L$",
+      "b": "$\\frac{F\\times L}{2}$",
+      "c": "$\\frac{F\\times l}{2}$",
+      "d": "$\\frac{F\\times l}{2A}$"
+    },
+    "correctAnswer": "c",
+    "explanation": "তার প্রসারণে কৃতকাজ $W = \\frac{1}{2} \\times \\text{বল} \\times \\text{দৈর্ঘ্য বৃদ্ধি} = \\frac{1}{2}Fl$। [cite: 122, 778]"
+  },
+  {
+    "id": 21,
+    "subject": "Physics",
+    "topic": "Newtonian Mechanics",
+    "question": "50 kg ভরের একটি স্থির বস্তুর উপর 5 sec ব্যাপী 10 N বল প্রযুক্ত হলো, বস্তুটির বেগের পরিবর্তন কত হবে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$1~ms^{-1}$",
+      "b": "$10~ms^{-1}$",
+      "c": "$50~ms^{-1}$",
+      "d": "$0.5~ms^{-1}$"
+    },
+    "correctAnswer": "a",
+    "explanation": "বল $F = ma = m \\frac{v-u}{t}$। বেগের পরিবর্তন $(v-u) = \\frac{Ft}{m} = \\frac{10 \\times 5}{50} = 1~ms^{-1}$। [cite: 129, 780]"
+  },
+  {
+    "id": 22,
+    "subject": "Physics",
+    "topic": "Periodic Motion",
+    "question": "সরল ছন্দিত গতি সম্পন্ন একটি কণার পর্যায়কাল 1 মিনিট হলে কৌণিক কম্পাঙ্ক কত $rads^{-1}$?",
+    "hasDiagram": false,
+    "options": {
+      "a": "0.08",
+      "b": "0.10",
+      "c": "0.14",
+      "d": "0.16"
+    },
+    "correctAnswer": "b",
+    "explanation": "পর্যায়কাল $T = 60 s$। কৌণিক কম্পাঙ্ক $\\omega = \\frac{2\\pi}{T} = \\frac{2\\pi}{60} \\approx 0.1047~rads^{-1}$। [cite: 131, 784]"
+  },
+  {
+    "id": 23,
+    "subject": "Physics",
+    "topic": "Semiconductor and Electronics",
+    "question": "একটি $p-n$ জংশনের বিভব পার্থক্য 2.0 V থেকে 2.5 V করা হলো। এতে এর তড়িৎ প্রবাহ 500 mA পরিবর্তিত হলো। গতীয় রোধ কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "0.1 Ω",
+      "b": "0.5 Ω",
+      "c": "1.0 Ω",
+      "d": "1.1 Ω"
+    },
+    "correctAnswer": "c",
+    "explanation": "গতীয় রোধ $r = \\frac{\\Delta V}{\\Delta I} = \\frac{2.5 - 2.0}{0.5} = \\frac{0.5}{0.5} = 1.0~\\Omega$। [cite: 134, 712]"
+  },
+  {
+    "id": 24,
+    "subject": "Physics",
+    "topic": "Magnetic Effects of Current",
+    "question": "50 পাক সংখ্যা ও 0.5 m দৈর্ঘ্যবিশিষ্ট একটি কুণ্ডলীর মধ্যে 2A তড়িৎ প্রবাহিত হলে কুণ্ডলীর চারপাশে চৌম্বক ক্ষেত্রের শক্তি কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$\\pi\\times10^{-4}$ Tesla",
+      "b": "$2\\pi\\times10^{-5}$ Tesla",
+      "c": "$5\\times10^{-5}$ Tesla",
+      "d": "$8\\pi\\times10^{-5}$ Tesla"
+    },
+    "correctAnswer": "d",
+    "explanation": "সলিনয়েডের চৌম্বক ক্ষেত্র $B = \\mu_0 n I = \\mu_0 \\frac{N}{L} I = 4\\pi \\times 10^{-7} \\times \\frac{50}{0.5} \\times 2 = 8\\pi \\times 10^{-5}~Tesla$। [cite: 161, 716]"
+  },
+  {
+    "id": 25,
+    "subject": "Physics",
+    "topic": "Physical Optics",
+    "question": "তরঙ্গমুখ সংক্রান্ত নীতি প্রদান করেন-",
+    "hasDiagram": false,
+    "options": {
+      "a": "ইয়ং",
+      "b": "ফ্রেনেল",
+      "c": "ফ্রনহফার",
+      "d": "হাইগেন্স"
+    },
+    "correctAnswer": "d",
+    "explanation": "হাইগেন্স তরঙ্গমুখ সংক্রান্ত নীতি (Huygens' Principle) প্রদান করেন। [cite: 163, 695]"
+  },
+  {
+    "id": 26,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "কোন ফেনলটির অম্লীয় ক্ষমতা সর্বোচ্চ?",
+    "hasDiagram": true,
+    "options": {
+      "a": "Phenol",
+      "b": "p-Nitrophenol",
+      "c": "m-Chlorophenol",
+      "d": "কোনটিই না"
+    },
+    "correctAnswer": "c",
+    "explanation": "নাইট্রো মূলক ($NO_2$) একটি ইলেকট্রন আকর্ষী গ্রুপ যা ফেনলের অম্লত্ব বৃদ্ধি করে। উত্তরমালানুসারে সঠিক উত্তর (c) তবে সাধারণত প্যারা-নাইট্রোফেনল বেশি অম্লীয় হয়। প্রশ্নে অপশনগুলোর চিত্র পুরোপুরি পরিষ্কার নয়, তবে প্রশ্নের সমাধানে (c) উল্লেখ করা হয়েছে যেখানে ক্লোরিন বা নাইট্রো গ্রুপের অবস্থান বিবেচনা করা হয়েছে। [cite: 71, 695, 720]"
+  },
+  {
+    "id": 27,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "$CH_{2}=CH-C\\equiv CH$ যৌগটির IUPAC নাম কী?",
+    "hasDiagram": false,
+    "options": {
+      "a": "বিউটিন 1, 3- আইন",
+      "b": "বিউট-1-ইন-3-আইন",
+      "c": "বিউট-1-আইন-3-ইন",
+      "d": "বিউট-1.3-ইন-আইন"
+    },
+    "correctAnswer": "b",
+    "explanation": "দ্বিবন্ধন ও ত্রিবন্ধন উভয়ই থাকলে এবং উভয় দিক থেকে অবস্থান সমান হলে দ্বিবন্ধনকে অগ্রাধিকার দেওয়া হয়। নাম: But-1-en-3-yne বা বিউট-১-ইন-৩-আইন। [cite: 77, 695]"
+  },
+  {
+    "id": 28,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "আইসোনাইট্রাইল কার্যকরী মূলক কোনটি?",
+    "hasDiagram": false,
+    "options": {
+      "a": "-CNS",
+      "b": "-NC",
+      "c": "-CN",
+      "d": "-CSN"
+    },
+    "correctAnswer": "b",
+    "explanation": "আইসোনাইট্রাইল বা কার্বিলঅ্যামিন কার্যকরী মূলক হলো -NC। [cite: 137, 695]"
+  },
+  {
+    "id": 29,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "কোন জৈব যৌগটি $NaNH_{2}$ এর সাথে বিক্রিয়া দেয়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$CH_{3}CH=CH_{2}$",
+      "b": "$CH_{3}C\\equiv CCH_{3}$",
+      "c": "$CH_{3}CH=CHCH_{3}$",
+      "d": "$CH_{3}C\\equiv CH$"
+    },
+    "correctAnswer": "d",
+    "explanation": "প্রান্তীয় অ্যালকাইন (Terminal Alkyne) এর হাইড্রোজেন অম্লধর্মী, তাই এটি $NaNH_2$ এর সাথে বিক্রিয়া করে। $CH_3C\\equiv CH$ একটি প্রান্তীয় অ্যালকাইন। [cite: 102, 695]"
+  },
+  {
+    "id": 30,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "${S_{N}}2$ বিক্রিয়ার ক্ষেত্রে কোন তথ্যটি সঠিক নয়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "জ্যামিতিক কাঠামো অপরিবর্তিত থাকে",
+      "b": "বিক্রিয়াটি এক ধাপেই সম্পন্ন হয়",
+      "c": "বিক্রিয়াটি দ্বিতীয় ক্রম অনুসরণ করে",
+      "d": "শক্তিশালী নিউক্লিওফাইলের প্রভাবে সম্পন্ন হয়"
+    },
+    "correctAnswer": "a",
+    "explanation": "$S_N2$ বিক্রিয়ায় জ্যামিতিক কাঠামোর উল্টে যায় (Walden Inversion), তাই 'অপরিবর্তিত থাকে' তথ্যটি সঠিক নয়। [cite: 140, 695]"
+  },
+  {
+    "id": 31,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "কোন যৌগটি হ্যালোফর্ম বিক্রিয়া দেয়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$CH_{3}-radical$",
+      "b": "$CH_{3}CONH_{2}$",
+      "c": "$CH_{3}-radical$",
+      "d": "$CH_{3}COCH_{3}$"
+    },
+    "correctAnswer": "d",
+    "explanation": "হ্যালোফর্ম বিক্রিয়া দেওয়ার শর্ত হলো অণুতে $CH_3CO-$ বা $CH_3CH(OH)-$ মূলক থাকতে হবে। প্রোপানোন ($CH_3COCH_3$) এ শর্ত পূরণ করে। [cite: 145, 734]"
+  },
+  {
+    "id": 32,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "কোন যৌগে দুটি কাইরাল কার্বন আছে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "2-হাইড্রক্সি প্রোপানোয়িক এসিড",
+      "b": "বিউটেন-2,3-ডাইঅল",
+      "c": "2-মিথাইল প্রোপেন-2-অল",
+      "d": "বিউটেন-2-অল"
+    },
+    "correctAnswer": "b",
+    "explanation": "বিউটেন-2,3-ডাইঅল ($CH_3-CH(OH)-CH(OH)-CH_3$) এ ২নং ও ৩নং কার্বন দুটিই কাইরাল বা অপ্রতিসম কার্বন। [cite: 149, 761]"
+  },
+  {
+    "id": 33,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "$CH_{3}-CH(Cl)-CH_{2}-CH_{3}\\xrightarrow{KOH(alc), \\Delta}CH_{3}CH=CHCH_{3}$ বিক্রিয়াটি কোন নিয়ম অনুসারে ঘটে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "মারকনিকভ",
+      "b": "বিপরীত মারকনিকভ",
+      "c": "প্রতিস্থাপন",
+      "d": "সাইজেফ"
+    },
+    "correctAnswer": "d",
+    "explanation": "অপসারণ বিক্রিয়ায় অধিক প্রতিস্থাপিত অ্যালকিন উৎপন্ন হওয়ার নিয়মটি হলো সাইজেফ নীতি (Saytzeff's Rule)। [cite: 155, 695]"
+  },
+  {
+    "id": 34,
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "question": "কোন জোড়া আইসোটোন?",
+    "hasDiagram": false,
+    "options": {
+      "a": "${}_{6}^{12}C, {}^{13}C$",
+      "b": "${}_{6}^{14}C, {}_{8}^{16}O$",
+      "c": "Cu, ${}_{30}^{64}Zn$",
+      "d": "None"
+    },
+    "correctAnswer": "b",
+    "explanation": "আইসোটোন মানে সমান নিউট্রন সংখ্যা। ${}_{6}^{14}C$ এর নিউট্রন = 14-6=8 এবং ${}_{8}^{16}O$ এর নিউট্রন = 16-8=8। [cite: 159, 695]"
+  },
+  {
+    "id": 35,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "250 mL NaOH দ্রবণে 5 g NaOH দ্রবীভূত থাকলে ঐ দ্রবণের মোলার ঘনমাত্রা কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "0.1",
+      "b": "0.5",
+      "c": "1.25",
+      "d": "0.125"
+    },
+    "correctAnswer": "b",
+    "explanation": "ঘনমাত্রা $S = \\frac{1000w}{MV} = \\frac{1000 \\times 5}{40 \\times 250} = \\frac{5000}{10000} = 0.5 M$। [cite: 161, 766]"
+  },
+  {
+    "id": 36,
+    "subject": "Physics",
+    "topic": "Atomic Physics",
+    "question": "বোর পরমাণু মডেল অনুযায়ী পঞ্চম শক্তিস্তরের একটি ইলেকট্রনের কৌণিক ভরবেগ কোনটি?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$\\frac{25h}{\\pi}$",
+      "b": "$\\frac{h}{\\pi}$",
+      "c": "$\\frac{5h}{\\pi}$",
+      "d": "$\\frac{2.5h}{\\pi}$"
+    },
+    "correctAnswer": "d",
+    "explanation": "কৌণিক ভরবেগ $L = \\frac{nh}{2\\pi}$। পঞ্চম শক্তিস্তরে $n=5$, তাই $L = \\frac{5h}{2\\pi} = 2.5 \\frac{h}{\\pi}$। [cite: 174, 767]"
+  },
+  {
+    "id": 37,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "কোনটি লুইস এসিড নয়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$BeCl_{2}$",
+      "b": "$AlCl_{3}$",
+      "c": "$SO_{2}$",
+      "d": "$BF_{3}$"
+    },
+    "correctAnswer": "c",
+    "explanation": "$SO_2$ লুইস এসিড হিসেবে কাজ করতে পারে (অষ্টক প্রসারণ বা সালফারের d-অরবিটাল থাকার কারণে), তবে প্রশ্নে এটিই সঠিক উত্তর হিসেবে দেওয়া হয়েছে, কারণ অন্যগুলো ($BeCl_2, AlCl_3, BF_3$) আদর্শ লুইস এসিড। তবে $SO_2$ ও লুইস এসিড হতে পারে। উত্তরপত্রে (c) দেওয়া আছে। [cite: 191, 775]"
+  },
+  {
+    "id": 38,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "আয়নীকরণ শক্তির সঠিক ক্রম কোনটি?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$Be<B<N<O$",
+      "b": "$B<Be<N<O$",
+      "c": "$Be<B<O<N$",
+      "d": "$B<Be<O<N$"
+    },
+    "correctAnswer": "d",
+    "explanation": "ব্যতিক্রম: Be এর ২s অরবিটাল পূর্ণ থাকায় এর আয়নীকরণ শক্তি B এর চেয়ে বেশি ($B < Be$)। আবার N এর ২p অরবিটাল অর্ধপূর্ণ থাকায় এর শক্তি O এর চেয়ে বেশি ($O < N$)। সঠিক ক্রম: $B < Be < O < N$। [cite: 199, 799]"
+  },
+  {
+    "id": 39,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "0.01 M NaCl দ্রবণের ঘনমাত্রা ppm এককে কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "558",
+      "b": "585",
+      "c": "858",
+      "d": "354"
+    },
+    "correctAnswer": "b",
+    "explanation": "ppm = $Molarity \\times Molecular Weight \\times 1000 = 0.01 \\times 58.5 \\times 1000 = 585 ppm$। [cite: 205, 797]"
+  },
+  {
+    "id": 40,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "একটি দ্রবণের $pOH=3$ হলে $H_{3}O^{+}$ এর মোলার ঘনমাত্রা কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$1\\times10^{-3}$",
+      "b": "$1\\times10^{-11}$",
+      "c": "$1\\times10^{-7}$",
+      "d": "$1\\times10^{-14}$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$pH + pOH = 14 \\Rightarrow pH = 14 - 3 = 11$। $[H_3O^+] = 10^{-pH} = 10^{-11} M$। [cite: 220, 695]"
+  },
+  {
+    "id": 41,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "কোন যৌগে সবচেয়ে শক্তিশালী H-বন্ধন ঘটে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$H_{2}O$",
+      "b": "$H_{2}S$",
+      "c": "HF",
+      "d": "$NH_{3}$"
+    },
+    "correctAnswer": "c",
+    "explanation": "ফ্লোরিন (F) সর্বাধিক তড়িৎঋণাত্মক মৌল হওয়ায় HF-এ হাইড্রোজেন বন্ধন সবচেয়ে শক্তিশালী হয়। [cite: 206, 695]"
+  },
+  {
+    "id": 42,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "কোন অণুর বন্ধন কোণের মান সবচেয়ে কম?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$CH_{4}$",
+      "b": "$H_{2}O$",
+      "c": "$NH_{3}$",
+      "d": "$BCl_{3}$"
+    },
+    "correctAnswer": "b",
+    "explanation": "বন্ধন কোণ: $CH_4 (109.5^\\circ)$, $NH_3 (107^\\circ)$, $H_2O (104.5^\\circ)$, $BCl_3 (120^\\circ)$। সবচেয়ে কম পানিতে। [cite: 232, 695]"
+  },
+  {
+    "id": 43,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "কোন যৌগের গঠন চতুস্তলকীয় নয়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$CCl_{4}$",
+      "b": "$NH_4^+$",
+      "c": "$BH_{4}^{-}$",
+      "d": "$SF_{4}$"
+    },
+    "correctAnswer": "d",
+    "explanation": "$SF_4$ এর আকৃতি সি-স (See-saw) বা বিকৃত চতুস্তলকীয়, কারণ এতে এক জোড়া মুক্তজোড় ইলেকট্রন থাকে। অন্যগুলো সুষম চতুস্তলকীয়। [cite: 238, 695]"
+  },
+  {
+    "id": 44,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "ভ্যানডার ওয়ালস্ সমীকরণের ধ্রুবক 'a' দ্বারা কী বুঝায়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "গ্যাসের গতিশক্তি",
+      "b": "আন্তঃআণবিক আকর্ষণ",
+      "c": "গ্যাসের আয়তন",
+      "d": "আন্তঃআণবিক বিকর্ষণ"
+    },
+    "correctAnswer": "b",
+    "explanation": "ভ্যানডার ওয়ালস ধ্রুবক 'a' অণুগুলোর মধ্যবর্তী আন্তঃআণবিক আকর্ষণ বল নির্দেশ করে। [cite: 243, 695]"
+  },
+  {
+    "id": 45,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "কোন ১ম ক্রম বিক্রিয়ায় অর্ধায়ু 5 মিনিট হলে বিক্রিয়াটির হার ধ্রুবক কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$2.3\\times10^{-4}$",
+      "b": "$2.3\\times10^{-3}$",
+      "c": "$2.6\\times10^{-3}$",
+      "d": "$2.4\\times10^{-4}$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$k = \\frac{0.693}{t_{1/2}} = \\frac{0.693}{5 \\times 60} = \\frac{0.693}{300} = 0.00231 = 2.3 \\times 10^{-3} s^{-1}$। [cite: 248, 808]"
+  },
+  {
+    "id": 46,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "নাইট্রোজেনকে আদর্শ গ্যাস ধরলে কত গ্রাম নাইট্রোজেনের জন্য $PV=0.02RT$ সমীকরণটি প্রযোজ্য?",
+    "hasDiagram": false,
+    "options": {
+      "a": "0.14",
+      "b": "0.28",
+      "c": "0.56",
+      "d": "0.65"
+    },
+    "correctAnswer": "c",
+    "explanation": "$PV = nRT$ এর সাথে তুলনা করলে $n=0.02$। নাইট্রোজেনের ভর $w = n \\times M = 0.02 \\times 28 = 0.56 g$। [cite: 254, 806]"
+  },
+  {
+    "id": 47,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "গ্যাসীয় অবস্থায় কোন বিক্রিয়ার সাম্যবস্থায় $K_{p}$ ও $K_{c}$ এর মান সমান?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$PCl_{5}\\rightleftharpoons PCl_{3}+Cl_{2}$",
+      "b": "$2SO_{2}+O_{2}\\rightleftharpoons2SO_{3}$",
+      "c": "$N_{2}+3H_{2}\\rightleftharpoons2NH_{3}$",
+      "d": "$H_{2}+I_{2}\\rightleftharpoons2HI$"
+    },
+    "correctAnswer": "d",
+    "explanation": "$K_p = K_c(RT)^{\\Delta n}$। যখন মোল সংখ্যার পরিবর্তন $\\Delta n = 0$ হয়, তখন $K_p = K_c$। $H_2 + I_2 \\rightleftharpoons 2HI$ বিক্রিয়ায় $\\Delta n = 2 - (1+1) = 0$। [cite: 259, 695]"
+  },
+  {
+    "id": 48,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "$25^{\\circ}C$ তাপমাত্রায় 1 atm চাপে $O_{2}$ গ্যাসকে 0.8 L এ সংকুচিত করতে কত চাপ প্রয়োগ করতে হবে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "5 atm",
+      "b": "4 atm",
+      "c": "3 atm",
+      "d": "2 atm"
+    },
+    "correctAnswer": "a",
+    "explanation": "ধরি আদি আয়তন V। প্রশ্নটি অসম্পূর্ণ মনে হচ্ছে, তবে যদি আদি আয়তন নির্দিষ্ট থাকে। সাধারণত 1 mole $O_2$ 24.5 L হয়। এখানে তথ্যের ঘাটতি আছে। তবে প্রশ্নব্যাংকের উত্তর (a) 5 atm। যদি আমরা ধরে নেই $P_1V_1 = P_2V_2$, এখানে $V_1$ দেওয়া নেই। সম্ভবত আদি আয়তন 4L ছিল? ($1 \\times 4 = P_2 \\times 0.8 \\Rightarrow P_2=5$)। [cite: 267, 695]"
+  },
+  {
+    "id": 49,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "গ্যাসের গড় গতিবেগের সঠিক সমীকরণ কোনটি?",
+    "hasDiagram": false,
+    "options": {
+      "a": "$\\overline{c}=\\sqrt{\\frac{8RT}{\\pi M}}$",
+      "b": "$c=\\sqrt{\\frac{3RT}{M}}$",
+      "c": "$\\alpha=\\sqrt{\\frac{2RT}{M}}$",
+      "d": "$\\overline{c}=\\sqrt{\\frac{2RT}{M}}$"
+    },
+    "correctAnswer": "c",
+    "explanation": "প্রশ্নে গড় গতিবেগ (Average Speed) চাওয়া হয়েছে যা $\\sqrt{\\frac{8RT}{\\pi M}}$। কিন্তু অপশনে (a) তে এটি আছে। তবে উত্তরপত্রে (c) দেওয়া যা সম্ভবত সবচেয়ে সম্ভাব্য বেগ (Most Probable Velocity) এর সূত্র। প্রশ্নে সম্ভবত ভুল আছে বা উত্তরপত্রে ভুল। আদর্শ উত্তর (a)। কিন্তু প্রদত্ত সোর্স অনুসারে উত্তর (c)। [cite: 208, 695]"
+  },
+  {
+    "id": 50,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "0.5 মোল Al ক্যাথোডে জমা করতে কী পরিমাণ বিদ্যুৎ লাগবে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "1 F",
+      "b": "3 F",
+      "c": "1.5 F",
+      "d": "2 F"
+    },
+    "correctAnswer": "c",
+    "explanation": "$Al^{3+} + 3e^- \\rightarrow Al$। ১ মোল Al এর জন্য প্রয়োজন ৩ ফ্যারাডে (3F)। অতএব, ০.৫ মোল এর জন্য প্রয়োজন $0.5 \\times 3 = 1.5 F$। [cite: 212, 695]"
+  },
+  {
+    "id": 51,
+    "subject": "ICT",
+    "topic": "Global Village",
+    "question": "গ্লোবাল ভিলেজ প্রতিষ্ঠার ক্ষেত্রে নিচের কোন উপাদানটির ভূমিকা সবচেয়ে বেশি?",
+    "hasDiagram": false,
+    "options": {
+      "a": "ইন্টারনেট",
+      "b": "রেডিও",
+      "c": "টেলিভিশন",
+      "d": "টেলিফোন"
+    },
+    "correctAnswer": "a",
+    "explanation": "গ্লোবাল ভিলেজের মূল ভিত্তি হলো সংযোগ বা কানেক্টিভিটি যা ইন্টারনেটের মাধ্যমেই সম্ভব। [cite: 272, 695]"
+  },
+  {
+    "id": 52,
+    "subject": "ICT",
+    "topic": "Trends in ICT",
+    "question": "কোন প্রযুক্তিটি কৃত্তিম বুদ্ধিমত্তার সাথে সম্পর্কিত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "ডাটা এন্ট্রি",
+      "b": "স্পেডশিট",
+      "c": "ওয়াই-ফাই",
+      "d": "মেশিন লারনিং"
+    },
+    "correctAnswer": "d",
+    "explanation": "মেশিন লার্নিং (Machine Learning) হলো কৃত্রিম বুদ্ধিমত্তার (AI) একটি শাখা। [cite: 274, 695]"
+  },
+  {
+    "id": 53,
+    "subject": "ICT",
+    "topic": "Digital Devices",
+    "question": "যে লজিক বর্তনী আলফা নিউমেরিক ক্যারেকটারকে বাইনারি কোডে পরিণত করে তাকে কী বলে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "রেজিস্টার",
+      "b": "এনকোডার",
+      "c": "ডিকোডার",
+      "d": "অ্যাডার"
+    },
+    "correctAnswer": "b",
+    "explanation": "এনকোডার মানুষের ভাষাকে কম্পিউটারের বোধগম্য যান্ত্রিক ভাষায় (বাইনারি) রূপান্তর করে। [cite: 282, 695]"
+  },
+  {
+    "id": 54,
+    "subject": "ICT",
+    "topic": "Communication Systems",
+    "question": "রেডিও এবং টেলিভিশনের সম্প্রচার কোন ধরনের কমিউনিকেশন মোড?",
+    "hasDiagram": false,
+    "options": {
+      "a": "সিমপ্লেক্স এবং ইউনিকাস্ট",
+      "b": "হাফ-ডুপ্লেক্স এবং ইউনিকাস্ট",
+      "c": "সিমপ্লেক্স এবং ব্রডকাস্ট",
+      "d": "ফুল-ডুপ্লেক্স এবং ব্রডকাস্ট"
+    },
+    "correctAnswer": "c",
+    "explanation": "রেডিও/টিভি একমুখী যোগাযোগ তাই সিমপ্লেক্স এবং এটি সবার জন্য সম্প্রচার করা হয় তাই ব্রডকাস্ট। [cite: 288, 695]"
+  },
+  {
+    "id": 55,
+    "subject": "ICT",
+    "topic": "Number System",
+    "question": "নিচের কোন পরিপূরক পদ্ধতিটি কম্পিউটারে ব্যবহৃত হয়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "১-এর পরিপূরক",
+      "b": "২-এর পরিপূরক",
+      "c": "১০-এর পরিপূরক",
+      "d": "৯-এর পরিপূরক"
+    },
+    "correctAnswer": "b",
+    "explanation": "আধুনিক কম্পিউটারে বিয়োগ ও ঋণাত্মক সংখ্যা প্রকাশের জন্য ২-এর পরিপূরক (2's complement) পদ্ধতি ব্যবহৃত হয়। [cite: 294, 695]"
+  },
+  {
+    "id": 56,
+    "subject": "Biology",
+    "topic": "Taxonomy",
+    "question": "শ্রেণিবিন্যাসের মৌলিক ধাপ কয়টি?",
+    "hasDiagram": false,
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "14",
+      "d": "21"
+    },
+    "correctAnswer": "b",
+    "explanation": "শ্রেণিবিন্যাসের আবশ্যিক বা মৌলিক ধাপ ৭টি (জগৎ, পর্ব, শ্রেণি, বর্গ, গোত্র, গণ, প্রজাতি)। [cite: 393, 700]"
+  },
+  {
+    "id": 57,
+    "subject": "Biology",
+    "topic": "Animal Diversity",
+    "question": "কোন প্রাণীতে কোয়ানোসাইট নামক কোষ পাওয়া যায়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "শামুক",
+      "b": "চিংড়ী",
+      "c": "জেলীফিস",
+      "d": "স্পঞ্জ"
+    },
+    "correctAnswer": "d",
+    "explanation": "পরিফেরা বা স্পঞ্জ পর্বের প্রাণীদের দেহে কোয়ানোসাইট (Choanocyte) কোষ থাকে। [cite: 403, 700]"
+  },
+  {
+    "id": 58,
+    "subject": "Biology",
+    "topic": "Animal Diversity",
+    "question": "নিডোব্লাস্ট কোষের তলদেশ হতে বের হয়ে ক্যাপসুলের সাথে যুক্ত প্যাঁচানো সুতার ন্যায় অঙ্গকে বলা হয়-",
+    "hasDiagram": false,
+    "options": {
+      "a": "নেমাটোসিস্ট",
+      "b": "নিডোসিল",
+      "c": "ল্যাসো",
+      "d": "স্টেনোটিল"
+    },
+    "correctAnswer": "c",
+    "explanation": "নেমাটোসিস্টের ক্যাপসুলের সাথে যুক্ত প্যাঁচানো সুতাকে ল্যাসো (Lasso) বলে। [cite: 412, 700]"
+  },
+  {
+    "id": 59,
+    "subject": "Biology",
+    "topic": "Animal Diversity",
+    "question": "ত্রিস্তরী প্রাণীর কোন ভ্রূণীয় অবস্থায় তিনটি কোষীয় স্তর বিদ্যমান?",
+    "hasDiagram": false,
+    "options": {
+      "a": "মরুলা",
+      "b": "ব্লাস্টুলা",
+      "c": "গ্যাস্টুলা",
+      "d": "আর্কেন্টেরন"
+    },
+    "correctAnswer": "c",
+    "explanation": "গ্যাস্ট্রোলেশন ধাপে ভ্রূণীয় স্তরগুলো (এক্টোডার্ম, মেসোডার্ম, এন্ডোডার্ম) গঠিত হয়, তাই গ্যাস্টুলা অবস্থায় তিনটি স্তর থাকে। [cite: 432, 700]"
+  },
+  {
+    "id": 60,
+    "subject": "Biology",
+    "topic": "Animal Diversity",
+    "question": "কোন পর্বের প্রাণীর জীবনচক্রে ভেলিজার লার্ভা দশা উপস্থিত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "অ্যানিলিডা",
+      "b": "আর্থ্রোপোডা",
+      "c": "মোলাস্কা",
+      "d": "ইকাইনোডার্মাটা"
+    },
+    "correctAnswer": "c",
+    "explanation": "মোলাস্কা পর্বের প্রাণীদের জীবনচক্রে ভেলিজার (Veliger) লার্ভা দেখা যায়। [cite: 470, 700, 905]"
+  },
+  {
+    "id": 61,
+    "subject": "Biology",
+    "topic": "Physiology",
+    "question": "কোন প্রাণীর রেচন অঙ্গের নাম মালপিজিয়ান নালিকা?",
+    "hasDiagram": false,
+    "options": {
+      "a": "যকৃত কৃমি",
+      "b": "কেঁচো",
+      "c": "শামুক",
+      "d": "ঘাসফড়িং"
+    },
+    "correctAnswer": "d",
+    "explanation": "ঘাসফড়িং বা আর্থ্রোপোডা পর্বের পতঙ্গদের রেচন অঙ্গ মালপিজিয়ান নালিকা। [cite: 473, 700]"
+  },
+  {
+    "id": 62,
+    "subject": "Biology",
+    "topic": "Physiology",
+    "question": "ঘাস ফড়িং-এর মস্তকের বহিঃকঙ্কালকে বলা হয়-",
+    "hasDiagram": false,
+    "options": {
+      "a": "এন্ডোক্রেনিয়াম",
+      "b": "এপিক্রেনিয়াম",
+      "c": "স্কেলেরাইট",
+      "d": "সূচার"
+    },
+    "correctAnswer": "b",
+    "explanation": "ঘাসফড়িংয়ের মস্তকের ক্যাপসুল বা বহিঃকঙ্কালকে এপিক্রেনিয়াম (Epicranium) বলে। [cite: 476, 700]"
+  },
+  {
+    "id": 63,
+    "subject": "Biology",
+    "topic": "Physiology",
+    "question": "আমিষ জাতীয় খাদ্য পরিপাকের ফলে কী উৎপন্ন হয়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "অ্যামাইনো এসিড",
+      "b": "ট্রিপসিন",
+      "c": "অ্যামাইনোট্রিপসিন",
+      "d": "পেপটোন"
+    },
+    "correctAnswer": "a",
+    "explanation": "আমিষ বা প্রোটিন পরিপাকের চূড়ান্ত ফল হলো অ্যামাইনো এসিড। [cite: 487, 700]"
+  },
+  {
+    "id": 64,
+    "subject": "Biology",
+    "topic": "Animal Diversity",
+    "question": "কোন মাছের দেহত্বকে প্লাকয়েড আঁইশ থাকে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "Anabus",
+      "b": "Latimaria",
+      "c": "Labeo",
+      "d": "Scoliodon"
+    },
+    "correctAnswer": "d",
+    "explanation": "স্কলিওডন (হাঙর জাতীয় মাছ) বা কনড্রিকথিস শ্রেণির মাছে প্লাকয়েড (Placoid) আঁইশ থাকে। [cite: 495, 700, 906]"
+  },
+  {
+    "id": 65,
+    "subject": "Biology",
+    "topic": "Physiology",
+    "question": "রুইমাছের হৃৎপিণ্ডকে ভেনাস হৃৎপিণ্ড বলা হয় কারণ-",
+    "hasDiagram": false,
+    "options": {
+      "a": "$O_{2}$ ও $CO_{2}$ মুক্ত রক্ত থাকে",
+      "b": "$O_{2}$ ও $CO_{2}$ যুক্ত রক্ত থাকে",
+      "c": "$CO_{2}$ মুক্ত রক্ত থাকে",
+      "d": "$O_{2}$ বিহীন ($CO_2$ যুক্ত) রক্ত থাকে"
+    },
+    "correctAnswer": "b",
+    "explanation": "রুই মাছের হৃৎপিণ্ড দিয়ে কেবল কার্বন-ডাই-অক্সাইড ($CO_2$) যুক্ত বা অক্সিজেন বিহীন রক্ত প্রবাহিত হয়, তাই একে ভেনাস হার্ট বলে। অপশন (b) তে '$O_2$ ও $CO_2$ যুক্ত' লেখা যা বিভ্রান্তিকর, কিন্তু মূল কারণ হলো এটি কেবল ডি-অক্সিজিনেটেড রক্ত বহন করে। সঠিক উত্তর মূলত $CO_2$ সমৃদ্ধ রক্ত। প্রদত্ত উত্তরমালায় (b) দেওয়া আছে। [cite: 500, 700]"
+  },
+  {
+    "id": 66,
+    "subject": "Biology",
+    "topic": "Embryology",
+    "question": "ঘাস ফড়িং-এর ডিম কোন ধরনের?",
+    "hasDiagram": false,
+    "options": {
+      "a": "টেলোলেসিথাল",
+      "b": "মাইক্রোলেসিথাল",
+      "c": "সেন্ট্রোলেসিথাল",
+      "d": "মেগালেসিথাল"
+    },
+    "correctAnswer": "c",
+    "explanation": "পতঙ্গ বা ঘাসফড়িংয়ের ডিমে কুসুম কেন্দ্রে থাকে, তাই একে সেন্ট্রোলেসিথাল (Centrolecithal) ডিম বলে। [cite: 508, 700]"
+  },
+  {
+    "id": 67,
+    "subject": "Biology",
+    "topic": "Genetics",
+    "question": "কোন জিনের প্রভাবে $F_{2}$ জণুতে ফেনোটাইপের অনুপাত 9:7 হয়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "পরিপূরক জিন",
+      "b": "লিথাল জিন",
+      "c": "সেক্সলিংকড জিন",
+      "d": "বাধক জিন"
+    },
+    "correctAnswer": "a",
+    "explanation": "পরিপূরক জিন (Complementary Gene) এর ক্রিয়ায় মেন্ডেলের ৯:৩:৩:১ অনুপাত পরিবর্তিত হয়ে ৯:৭ হয়। [cite: 513, 700]"
+  },
+  {
+    "id": 68,
+    "subject": "Biology",
+    "topic": "Embryology",
+    "question": "মানবদেহে ভ্রূণের মেসোডার্মের কোন স্তর থেকে হৃৎপিণ্ড তৈরি হয়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "এপিমেয়ার",
+      "b": "মেসোমিয়ার",
+      "c": "হাইপোমিয়ার",
+      "d": "লেসোমিয়ার"
+    },
+    "correctAnswer": "c",
+    "explanation": "মেসোডার্মের হাইপোমিয়ার (Hypomere) অংশ থেকে হৃৎপিণ্ড গঠিত হয়। [cite: 516, 700]"
+  },
+  {
+    "id": 69,
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "question": "কোষের ট্রাফিক পুলিশ কোনটি?",
+    "hasDiagram": false,
+    "options": {
+      "a": "মাইটোকন্ড্রিয়া",
+      "b": "প্লাষ্টিড",
+      "c": "গলগি বডি",
+      "d": "প্লাজমামেমব্রেন"
+    },
+    "correctAnswer": "c",
+    "explanation": "গলগি বডি (Golgi Body) কোষের বিভিন্ন বস্তুর প্যাকেজিং ও পরিবহনে সাহায্য করে বলে একে কোষের ট্রাফিক পুলিশ বলা হয়। [cite: 519, 700]"
+  },
+  {
+    "id": 70,
+    "subject": "Biology",
+    "topic": "Genetics",
+    "question": "ভুট্টার ক্রোমোজোম সংখ্যা (2n) কত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "42",
+      "b": "24",
+      "c": "40",
+      "d": "20"
+    },
+    "correctAnswer": "d",
+    "explanation": "ভুট্টার ডিপ্লয়েড ক্রোমোজোম সংখ্যা $2n = 20$। [cite: 530, 700]"
+  },
+  {
+    "id": 71,
+    "subject": "Biology",
+    "topic": "Botany",
+    "question": "মটরশুঁটিতে কোন অমরাবিন্যাস দেখা যায়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "প্রান্তীয়",
+      "b": "মূলীয়",
+      "c": "পার্শ্বীয়",
+      "d": "অক্ষীয়"
+    },
+    "correctAnswer": "a",
+    "explanation": "মটরশুঁটি (Leguminosae) গোত্রে একপ্রকোষ্ঠ বিশিষ্ট গর্ভাশয়ে প্রান্তীয় (Marginal) অমরাবিন্যাস দেখা যায়। [cite: 527, 700]"
+  },
+  {
+    "id": 72,
+    "subject": "Biology",
+    "topic": "Botany",
+    "question": "Poaceae গোত্রের ফলের নাম কি?",
+    "hasDiagram": false,
+    "options": {
+      "a": "ম্যালাও",
+      "b": "ক্যারিওসাইনাস",
+      "c": "পডোকার্পস",
+      "d": "ক্যারিওপসিস"
+    },
+    "correctAnswer": "d",
+    "explanation": "ধান, গম বা Poaceae গোত্রের ফলকে ক্যারিওপসিস (Caryopsis) বলা হয়। [cite: 535, 700]"
+  },
+  {
+    "id": 73,
+    "subject": "Biology",
+    "topic": "Botany",
+    "question": "পেন্টামেরাস পুষ্প দেখা যায় কোন উদ্ভিদে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "টমেটো",
+      "b": "ধান",
+      "c": "কাউন",
+      "d": "খেজুর"
+    },
+    "correctAnswer": "a",
+    "explanation": "দ্বিবীজপত্রী উদ্ভিদে (যেমন: সোলানেসি গোত্রের টমেটো) পেন্টামেরাস পুষ্প দেখা যায়। অন্যগুলো একবীজপত্রী (ট্রাইমেরাস)। [cite: 541, 700]"
+  },
+  {
+    "id": 74,
+    "subject": "Biology",
+    "topic": "Botany",
+    "question": "গন্ধরাজের বৃতিতে কোন ধরনের এষ্টিভেশন দেখা যায়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "ওপেন",
+      "b": "ইমব্রিকেট",
+      "c": "টুইস্টেড",
+      "d": "ভেলভেট"
+    },
+    "correctAnswer": "a",
+    "explanation": "গন্ধরাজের বৃতি ভালভেট বা ওপেন হতে পারে, তবে প্রশ্নে এবং উত্তরমালায় সঠিক উত্তর হিসেবে অনেক সময় টুইস্টেড (Twisted) বা অন্য কিছু উল্লেখ থাকে। কিন্তু সঠিক উত্তর 'টুইস্টেড' (জবা ফুলের দলের মতো) বা 'ভালভেট'। এখানে সোর্স 700 অনুযায়ী উত্তর (a) ওপেন। কিন্তু গন্ধরাজের দলমণ্ডল টুইস্টেড। প্রশ্নটি বৃতি নিয়ে। [cite: 545, 700]"
+  },
+  {
+    "id": 75,
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "question": "ক্রোমোজোমের চারিদিকে যে পাতলা আবরণ থাকে তার নাম কি?",
+    "hasDiagram": false,
+    "options": {
+      "a": "নিউক্লিয়ার মেমব্রেন",
+      "b": "ক্রোমোজোমাল মেমব্রেন",
+      "c": "নিউক্লিওলাস",
+      "d": "পেলিকল/ম্যাট্রিক্স আবরণ"
+    },
+    "correctAnswer": "b",
+    "explanation": "ঐতিহাসিকভাবে ক্রোমোজোমের আবরণকে পেলিকল বলা হতো (বর্তমানে বিতর্কিত)। এখানে অপশনে 'পেলিকল' সরাসরি নেই, তবে উত্তর (b) 'ক্রোমোজোমাল মেমব্রেন' বা পেলিকল ইঙ্গিত করা হয়েছে। [cite: 554, 700]"
+  },
+  {
+    "id": 76,
+    "subject": "Biology",
+    "topic": "Microbiology",
+    "question": "ব্যাকটেরিয়া কোষের মূল উপাদান কোনটি?",
+    "hasDiagram": false,
+    "options": {
+      "a": "লিপোপ্রোটিন",
+      "b": "পেপটিডোগ্লাইকান",
+      "c": "গ্লাইকোপ্রোটিন",
+      "d": "গ্লাইকোলিপিড"
+    },
+    "correctAnswer": "b",
+    "explanation": "ব্যাকটেরিয়ার কোষপ্রাচীরের প্রধান উপাদান পেপটিডোগ্লাইকান (Peptidoglycan) বা মিউকোপ্রোটিন। [cite: 557, 700]"
+  },
+  {
+    "id": 77,
+    "subject": "Biology",
+    "topic": "Botany",
+    "question": "কোন উদ্ভিদে এক প্রকোষ্ঠবিশিষ্ট প্রান্তীয় গর্ভাশয় পাওয়া যায়?",
+    "hasDiagram": false,
+    "options": {
+      "a": "কুমড়া",
+      "b": "লাউ",
+      "c": "মটর",
+      "d": "বেগুন"
+    },
+    "correctAnswer": "c",
+    "explanation": "মটর (Pea) লিগুমিনোসি গোত্রের উদ্ভিদ, যাতে এক প্রকোষ্ঠবিশিষ্ট প্রান্তীয় অমরাবিন্যাস থাকে। [cite: 560, 700]"
+  },
+  {
+    "id": 78,
+    "subject": "Biology",
+    "topic": "Botany",
+    "question": "নগ্নবীজী উদ্ভিদে কোনটি অনুপস্থিত?",
+    "hasDiagram": false,
+    "options": {
+      "a": "পাতা",
+      "b": "ফুল",
+      "c": "ফল",
+      "d": "বীজ"
+    },
+    "correctAnswer": "c",
+    "explanation": "নগ্নবীজী উদ্ভিদে গর্ভাশয় থাকে না, তাই ফল গঠিত হয় না। বীজ নগ্ন অবস্থায় থাকে। [cite: 564, 700]"
+  },
+  {
+    "id": 79,
+    "subject": "Biology",
+    "topic": "Microbiology",
+    "question": "লিপোভাইরাস নয় কোনটি?",
+    "hasDiagram": false,
+    "options": {
+      "a": "করোনা ভাইরাস",
+      "b": "HIV",
+      "c": "ইনফ্লুয়েঞ্জা",
+      "d": "TMV"
+    },
+    "correctAnswer": "d",
+    "explanation": "TMV (Tobacco Mosaic Virus) একটি দণ্ডাকৃতির RNA ভাইরাস যাতে লিপিড আবরণ থাকে না। অন্যগুলো (Corona, HIV, Influenza) লিপোভাইরাস বা এনভেলপড ভাইরাস। [cite: 568, 700]"
+  },
+  {
+    "id": 80,
+    "subject": "Biology",
+    "topic": "Plant Physiology",
+    "question": "ভাস্কুলার বান্ডল সৃষ্টি হয় কোন টিস্যু হতে?",
+    "hasDiagram": false,
+    "options": {
+      "a": "প্রোমেরিস্টেম",
+      "b": "প্রোক্যাম্বিয়াম",
+      "c": "প্রোটোডার্ম",
+      "d": "গ্রাউন্ড মেরিস্টেম"
+    },
+    "correctAnswer": "b",
+    "explanation": "প্রোক্যাম্বিয়াম (Procambium) ভাজক টিস্যু থেকে ভাস্কুলার বান্ডল (জাইলেম ও ফ্লোয়েম) সৃষ্টি হয়। [cite: 573, 700]"
+  }
+]
