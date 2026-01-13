@@ -32,7 +32,10 @@ async function removeLocally(studentName) {
     const TIMEOUT_THRESHOLD = 80 * 60 * 1000; // 80 minutes in milliseconds
 
     filteredData = filteredData.filter(item => {
+        if (!item || typeof item !== 'object') return false;
+        if (!item.timestamp) return false;
         const timestamp = new Date(item.timestamp).getTime();
+        if (isNaN(timestamp)) return false;
         const elapsed = now - timestamp;
         return elapsed <= TIMEOUT_THRESHOLD; // Keep only non-expired
     });
@@ -78,7 +81,10 @@ export default async function handler(req, res) {
         const TIMEOUT_THRESHOLD = 80 * 60 * 1000; // 80 minutes in milliseconds
 
         filteredList = filteredList.filter(item => {
+            if (!item || typeof item !== 'object') return false;
+            if (!item.timestamp) return false;
             const timestamp = new Date(item.timestamp).getTime();
+            if (isNaN(timestamp)) return false;
             const elapsed = now - timestamp;
             return elapsed <= TIMEOUT_THRESHOLD; // Keep only non-expired
         });

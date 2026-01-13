@@ -25,7 +25,10 @@ async function saveLocally(data) {
   const EIGHTY_MINUTES_MS = 80 * 60 * 1000;
   const now = Date.now();
   const filteredData = currentData.filter(item => {
+    if (!item || typeof item !== 'object') return false;
+    if (!item.timestamp) return false;
     const itemTime = new Date(item.timestamp).getTime();
+    if (isNaN(itemTime)) return false;
     return (now - itemTime) < EIGHTY_MINUTES_MS;
   });
 
@@ -83,7 +86,10 @@ export default async function handler(req, res) {
     const EIGHTY_MINUTES_MS = 80 * 60 * 1000;
     const now = Date.now();
     const filteredList = list.filter(item => {
+      if (!item || typeof item !== 'object') return false;
+      if (!item.timestamp) return false;
       const itemTime = new Date(item.timestamp).getTime();
+      if (isNaN(itemTime)) return false;
       return (now - itemTime) < EIGHTY_MINUTES_MS;
     });
 

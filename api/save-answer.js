@@ -52,7 +52,10 @@ async function saveLocally(data) {
   const TEN_MINUTES_MS = 10 * 60 * 1000;
   const now = Date.now();
   const filteredData = currentData.filter(sub => {
+    if (!sub || typeof sub !== 'object') return false;
+    if (!sub.timestamp) return false;
     const subTime = new Date(sub.timestamp).getTime();
+    if (isNaN(subTime)) return false;
     return (now - subTime) < TEN_MINUTES_MS;
   });
 
@@ -104,7 +107,10 @@ export default async function handler(req, res) {
     const TEN_MINUTES_MS = 10 * 60 * 1000;
     const now = Date.now();
     const filteredList = list.filter(sub => {
+      if (!sub || typeof sub !== 'object') return false;
+      if (!sub.timestamp) return false;
       const subTime = new Date(sub.timestamp).getTime();
+      if (isNaN(subTime)) return false;
       return (now - subTime) < TEN_MINUTES_MS;
     });
 
