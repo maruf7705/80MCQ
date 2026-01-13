@@ -165,7 +165,7 @@ async function fetchFile() {
   } catch (parseErr) {
     throw parseErr;
   }
-}
+},
 
 async function updateFile(content, sha) {
   const url = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE_PATH}`;
