@@ -15,10 +15,10 @@ const STATUS = {
   SUBMITTED: 'SUBMITTED'
 }
 
-const DURATION_SECONDS = 60 * 60 // 60 minutes [MODIFIED for 80 MCQ]
-const MARK_PER_QUESTION = 1.25
+const DURATION_SECONDS = 60 * 60 // 60 minutes
+const MARK_PER_QUESTION = 1.0 // Changed from 1.25 for 100 MCQ
 const NEGATIVE_MARKING = 0.25
-const PASS_MARK = 60.0 // 80 * 1.25 * 0.60 [MODIFIED for 80 MCQ coverage]
+const PASS_MARK = 60.0 // 100 * 1.0 * 0.60
 
 function MCQContainer({ questions, studentName, questionFile = 'questions.json' }) {
   console.log('MCQContainer rendered:', {
@@ -163,7 +163,7 @@ function MCQContainer({ questions, studentName, questionFile = 'questions.json' 
 
       if (progress.status === 'success') {
         // Clean up only on confirmed success
-        localStorage.removeItem(`mcq_state_${studentName}`)
+        localStorage.removeItem(`mcq_state_v100_${studentName}`)
       }
     }).catch(err => {
       console.error('Submission error:', err)
@@ -175,7 +175,7 @@ function MCQContainer({ questions, studentName, questionFile = 'questions.json' 
   useEffect(() => {
     if (!questions || questions.length === 0) return
 
-    const saved = localStorage.getItem(`mcq_state_${studentName}`)
+    const saved = localStorage.getItem(`mcq_state_v100_${studentName}`)
     if (saved) {
       try {
         const data = JSON.parse(saved)
@@ -200,7 +200,7 @@ function MCQContainer({ questions, studentName, questionFile = 'questions.json' 
         visited: Array.from(visitedQuestions),
         marked: Array.from(markedForReview)
       }
-      localStorage.setItem(`mcq_state_${studentName}`, JSON.stringify(state))
+      localStorage.setItem(`mcq_state_v100_${studentName}`, JSON.stringify(state))
     }
   }, [answers, currentQuestionIndex, timeLeft, visitedQuestions, markedForReview, status, studentName])
 
