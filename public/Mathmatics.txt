@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "topic": "Algebra - Matrices",
+    "question": "$$A$$ ম্যাট্রিক্সের ক্রম $$3 \\times 4$$ এবং $$B$$ এর ক্রম $$4 \\times 5$$ হলে, $$AB$$ এর ক্রম কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$3 \\times 5$$",
+      "b": "$$4 \\times 4$$",
+      "c": "$$5 \\times 3$$",
+      "d": "গুণন সম্ভব নয়"
+    },
+    "correctAnswer": "a",
+    "explanation": "দুটি ম্যাট্রিক্সের গুণফলের ক্রম হবে: (১ম ম্যাট্রিক্সের সারি) $$\\times$$ (২য় ম্যাট্রিক্সের কলাম)। অর্থাৎ $$3 \\times 5$$।"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "topic": "Algebra - Determinants",
+    "question": "$$\\begin{vmatrix} \\alpha & 4 \\\\ 2 & 8 \\end{vmatrix} = 0$$ হলে $$\\alpha$$ এর মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "2",
+      "b": "1",
+      "c": "4",
+      "d": "8"
+    },
+    "correctAnswer": "b",
+    "explanation": "নির্ণায়কের মান শূন্য হলে: $$8\\alpha - 8 = 0 \\Rightarrow 8\\alpha = 8 \\Rightarrow \\alpha = 1$$।"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "topic": "Algebra - Complex Numbers",
+    "question": "এককের কাল্পনিক ঘনমূল $$\\omega$$ হলে, $$(1-\\omega+\\omega^2)^2$$ এর মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "-4",
+      "b": "4",
+      "c": "$$4\\omega$$",
+      "d": "$$4\\omega^2$$"
+    },
+    "correctAnswer": "d",
+    "explanation": "$$1+\\omega^2=-\\omega$$ ব্যবহার করে পাই: $$(- \\omega - \\omega)^2 = (-2\\omega)^2 = 4\\omega^2$$।"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "topic": "Algebra - Complex Numbers",
+    "question": "$$i^{4n+3}$$ এর মান কত? (যেখানে $$n \\in \\mathbb{N}$$)",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "-1",
+      "c": "$$i$$",
+      "d": "$$-i$$"
+    },
+    "correctAnswer": "d",
+    "explanation": "$$i^{4n+3} = (i^4)^n \\cdot i^3 = 1 \\cdot (-i) = -i$$।"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "topic": "Algebra - Binomial Expansion",
+    "question": "$$^nC_1 + ^nC_2 + ... + ^nC_n$$ এর মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$2^n$$",
+      "b": "$$2^n - 1$$",
+      "c": "$$2^{n-1}$$",
+      "d": "$$n!$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "দ্বিপদী সহগগুলোর সমষ্টি $$2^n$$। এখানে $$^nC_0$$ অনুপস্থিত, তাই $$2^n - 1$$।"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "topic": "Algebra - Binomial Expansion",
+    "question": "$$(x + \\frac{1}{x})^{10}$$ এর বিস্তৃতিতে $$x$$ বর্জিত পদ কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "৫ম পদ",
+      "b": "৬ষ্ঠ পদ",
+      "c": "৪র্থ পদ",
+      "d": "১০ম পদ"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$r = \\frac{np}{p+q} = \\frac{10 \\times 1}{1+1} = 5$$। পদসংখ্যা $$r+1 = 6$$ তম পদ।"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "topic": "Algebra - Polynomials",
+    "question": "$$3x^2 - kx + 4 = 0$$ সমীকরণের মূলদ্বয় সমান হলে $$k$$ এর মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\pm 4\\sqrt{3}$$",
+      "b": "$$\\pm 2$$",
+      "c": "12",
+      "d": "16"
+    },
+    "correctAnswer": "a",
+    "explanation": "নিশ্চায়ক $$D = b^2 - 4ac = 0$$ হতে হবে। $$(-k)^2 - 4(3)(4) = 0 \\Rightarrow k^2 = 48 \\Rightarrow k = \\pm 4\\sqrt{3}$$।"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "topic": "Algebra - Permutation",
+    "question": "'ENGINEERING' শব্দটির সববর্ণ একত্রে নিয়ে কতভাবে সাজানো যায়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\frac{11!}{3!3!2!2!}$$",
+      "b": "$$\\frac{11!}{3!2!}$$",
+      "c": "$$11!$$",
+      "d": "$$\\frac{9!}{3!}$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "মোট বর্ণ ১১টি। E-3টি, N-3টি, G-2টি, I-2টি, R-1টি। সূত্র: $$\\frac{n!}{p!q!r!...}$$।"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "topic": "Algebra - Logarithms",
+    "question": "$$\\log_x 324 = 4$$ হলে $$x$$ এর মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$2\\sqrt{3}$$",
+      "b": "$$3\\sqrt{2}$$",
+      "c": "3",
+      "d": "4"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$x^4 = 324 = 18^2 = (3\\sqrt{2})^4 \\Rightarrow x = 3\\sqrt{2}$$।"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "topic": "Algebra - Set Theory",
+    "question": "$$A = \\{1, 2, 3\\}$$ হলে $$P(A)$$ এর উপাদান সংখ্যা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "3",
+      "b": "6",
+      "c": "8",
+      "d": "9"
+    },
+    "correctAnswer": "c",
+    "explanation": "শক্তি সেটের উপাদান সংখ্যা $$2^n$$। এখানে $$n=3$$, তাই $$2^3 = 8$$।"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "topic": "Algebra - Complex Numbers",
+    "question": "$$z = 3 + 4i$$ এর মডুলাস কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "7"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$|z| = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$$।"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "topic": "Algebra - Matrices",
+    "question": "নিচের কোনটি স্কেলার ম্যাট্রিক্স?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\begin{bmatrix} 2 & 0 \\\\ 0 & 3 \\end{bmatrix}$$",
+      "b": "$$\\begin{bmatrix} 2 & 0 \\\\ 0 & 2 \\end{bmatrix}$$",
+      "c": "$$\\begin{bmatrix} 1 & 2 \\\\ 0 & 1 \\end{bmatrix}$$",
+      "d": "কোনোটিই নয়"
+    },
+    "correctAnswer": "b",
+    "explanation": "স্কেলার ম্যাট্রিক্স হলো এক ধরণের কর্ণ ম্যাট্রিক্স যার কর্ণ বরাবর ভুক্তিগুলো সমান এবং বাকি সব শূন্য।"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "topic": "Algebra - Functions",
+    "question": "$$f(x) = \\sqrt{x-1}$$ এর ডোমেইন কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$x \\geq 1$$",
+      "b": "$$x > 1$$",
+      "c": "$$x \\leq 1$$",
+      "d": "All Real Numbers"
+    },
+    "correctAnswer": "a",
+    "explanation": "রুটের ভেতরের মান অঋণাত্মক হতে হবে, তাই $$x-1 \\geq 0 \\Rightarrow x \\geq 1$$।"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "topic": "Algebra - Polynomials",
+    "question": "$$x^2 + 4x + 13 = 0$$ সমীকরণের একটি মূল $$-2+3i$$ হলে অপরটি কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$2-3i$$",
+      "b": "$$-2-3i$$",
+      "c": "$$3+2i$$",
+      "d": "$$2+3i$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "বাস্তব সহগবিশিষ্ট বহুপদী সমীকরণের জটিল মূলগুলো অনুবন্ধী যুগল (conjugate pair) হিসেবে থাকে।"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "topic": "Algebra - Binomial Expansion",
+    "question": "$$(1-x)^{-1}$$ এর বিস্তৃতিতে $$x^r$$ এর সহগ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "$$(-1)^r$$",
+      "c": "$$r$$",
+      "d": "$$r!$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$(1-x)^{-1} = 1 + x + x^2 + ... + x^r + ...$$। সব পদের সহগ 1।"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "topic": "Algebra - Matrices",
+    "question": "ম্যাট্রিক্স $$A$$ প্রতিসম হলে নিচের কোনটি সঠিক?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$A^T = -A$$",
+      "b": "$$A^T = A$$",
+      "c": "$$|A| = 0$$",
+      "d": "$$A^{-1} = A$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "প্রতিসম ম্যাট্রিক্সের সংজ্ঞা অনুযায়ী, ট্রান্সপোজ করলে মূল ম্যাট্রিক্স পাওয়া যায় ($$A^T = A$$)।"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "topic": "Algebra - Complex Numbers",
+    "question": "$$\\omega^{20}$$ এর মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "$$\\omega$$",
+      "c": "$$\\omega^2$$",
+      "d": "0"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$\\omega^{20} = (\\omega^3)^6 \\cdot \\omega^2 = 1 \\cdot \\omega^2 = \\omega^2$$।"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "topic": "Algebra - Combination",
+    "question": "$$^nC_{12} = ^nC_8$$ হলে $$^nC_{20} = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "20",
+      "c": "0",
+      "d": "12"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$^nC_x = ^nC_y \\Rightarrow n = x+y$$। এখানে $$n = 12+8=20$$। সুতরাং $$^{20}C_{20} = 1$$।"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "topic": "Algebra - Polynomials",
+    "question": "$$4x^2 - 12x + 9 = 0$$ সমীকরণের মূলদ্বয়ের প্রকৃতি কেমন?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "বাস্তব ও অসমান",
+      "b": "বাস্তব ও সমান",
+      "c": "কাল্পনিক",
+      "d": "অমূলদ"
+    },
+    "correctAnswer": "b",
+    "explanation": "নিশ্চায়ক $$D = (-12)^2 - 4(4)(9) = 144 - 144 = 0$$। তাই মূলদ্বয় বাস্তব ও সমান।"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "topic": "Algebra - Matrices",
+    "question": "$$A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}$$ হলে $$2A$$ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\begin{bmatrix} 1 & 2 \\\\ 3 & 8 \\end{bmatrix}$$",
+      "b": "$$\\begin{bmatrix} 2 & 4 \\\\ 6 & 8 \\end{bmatrix}$$",
+      "c": "$$\\begin{bmatrix} 2 & 2 \\\\ 3 & 4 \\end{bmatrix}$$",
+      "d": "None"
+    },
+    "correctAnswer": "b",
+    "explanation": "স্কেলার গুণনের সময় ম্যাট্রিক্সের প্রতিটি উপাদানকে গুণ করতে হয়।"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "topic": "Geometry - Straight Lines",
+    "question": "$$3x - 4y + 10 = 0$$ রেখার ঢাল কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "3/4",
+      "b": "-3/4",
+      "c": "4/3",
+      "d": "3"
+    },
+    "correctAnswer": "a",
+    "explanation": "সমীকরণকে $$y = mx + c$$ আকারে নিলে $$4y = 3x + 10 \\Rightarrow y = \\frac{3}{4}x + \\frac{10}{4}$$। ঢাল $$m = 3/4$$।"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "topic": "Geometry - Straight Lines",
+    "question": "$$(1, 2)$$ এবং $$(3, 4)$$ বিন্দুগামী রেখার সমীকরণ কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$x-y+1=0$$",
+      "b": "$$x+y-3=0$$",
+      "c": "$$y=x$$",
+      "d": "$$2x-y=0$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "ঢাল $$m = \\frac{4-2}{3-1} = 1$$। সমীকরণ: $$y-2 = 1(x-1) \\Rightarrow x-y+1=0$$।"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "topic": "Geometry - Straight Lines",
+    "question": "দুটি সরলরেখা লম্ব হওয়ার শর্ত কী? ($$m_1, m_2$$ ঢাল)",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$m_1 = m_2$$",
+      "b": "$$m_1 m_2 = 1$$",
+      "c": "$$m_1 m_2 = -1$$",
+      "d": "$$m_1 + m_2 = 0$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "দুটি রেখা লম্ব হলে তাদের ঢালদ্বয়ের গুণফল $$-1$$ হয়।"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "topic": "Geometry - Straight Lines",
+    "question": "মূলবিন্দু থেকে $$3x + 4y - 10 = 0$$ রেখার লম্ব দূরত্ব কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "5",
+      "d": "10"
+    },
+    "correctAnswer": "b",
+    "explanation": "দূরত্ব $$d = \\frac{|-10|}{\\sqrt{3^2 + 4^2}} = \\frac{10}{5} = 2$$।"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "topic": "Geometry - Circles",
+    "question": "$$x^2 + y^2 - 4x - 6y - 12 = 0$$ বৃত্তের কেন্দ্র কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$(2, 3)$$",
+      "b": "$$(-2, -3)$$",
+      "c": "$$(4, 6)$$",
+      "d": "$$(2, -3)$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "কেন্দ্র $$(-g, -f)$$। এখানে $$2g = -4 \\Rightarrow g = -2$$, $$2f = -6 \\Rightarrow f = -3$$। কেন্দ্র $$(2, 3)$$।"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "topic": "Geometry - Conics",
+    "question": "$$y^2 = 16x$$ পরাবৃত্তের উপকেন্দ্রের স্থানাঙ্ক কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$(0, 4)$$",
+      "b": "$$(4, 0)$$",
+      "c": "$$(-4, 0)$$",
+      "d": "$$(0, -4)$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$4a = 16 \\Rightarrow a = 4$$। উপকেন্দ্র $$(a, 0) = (4, 0)$$।"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "topic": "Geometry - Conics",
+    "question": "$$y^2 = 4x$$ পরাবৃত্তের শীর্ষবিন্দু কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$(1, 0)$$",
+      "b": "$$(0, 0)$$",
+      "c": "$$(0, 1)$$",
+      "d": "$$(4, 0)$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "আদর্শ সমীকরণ $$y^2 = 4ax$$ এর শীর্ষবিন্দু মূলবিন্দুতে $$(0,0)$$ থাকে।"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "topic": "Vectors",
+    "question": "$$\\vec{A} = 2\\hat{i} + \\lambda\\hat{j} + \\hat{k}$$ এবং $$\\vec{B} = 4\\hat{i} - 2\\hat{j} - 2\\hat{k}$$ পরস্পর লম্ব হলে $$\\lambda$$ = ?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "correctAnswer": "c",
+    "explanation": "লম্ব হলে ডট গুণফল শূন্য। $$2(4) + \\lambda(-2) + 1(-2) = 0 \\Rightarrow 8 - 2\\lambda - 2 = 0 \\Rightarrow 2\\lambda = 6 \\Rightarrow \\lambda = 3$$।"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "topic": "Vectors",
+    "question": "$$\\vec{A} \\times \\vec{B} = 0$$ হলে ভেক্টরদ্বয় কেমন?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "লম্ব",
+      "b": "সমান্তরাল",
+      "c": "সমান",
+      "d": "বিপরীত"
+    },
+    "correctAnswer": "b",
+    "explanation": "ক্রস গুণফল শূন্য হলে ভেক্টরদ্বয় সমান্তরাল হয়।"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "topic": "Vectors",
+    "question": "$$\\hat{i} \\cdot (\\hat{j} \\times \\hat{k}) = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "-1",
+      "d": "$$\\vec{0}$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$\\hat{j} \\times \\hat{k} = \\hat{i}$$। সুতরাং $$\\hat{i} \\cdot \\hat{i} = 1$$।"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "topic": "Geometry - Circles",
+    "question": "$$3x^2 + 3y^2 - 12x + 15y - 6 = 0$$ বৃত্তের $$x$$-অক্ষের খণ্ডিতাংশের পরিমাণ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$2\\sqrt{g^2-c}$$",
+      "b": "$$2\\sqrt{f^2-c}$$",
+      "c": "0",
+      "d": "4"
+    },
+    "correctAnswer": "a",
+    "explanation": "সমীকরণকে 3 দিয়ে ভাগ করলে আদর্শ আকার পাওয়া যায়। তারপর $$x$$-অক্ষের খণ্ডিতাংশ সূত্র $$2\\sqrt{g^2-c}$$ প্রয়োগ করতে হয়।"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "topic": "Geometry - Straight Lines",
+    "question": "$$x$$-অক্ষের সমান্তরাল রেখার সমীকরণ কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$x = a$$",
+      "b": "$$y = b$$",
+      "c": "$$x + y = 0$$",
+      "d": "$$y = x$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$y$$ এর মান ধ্রুবক হলে রেখাটি $$x$$-অক্ষের সমান্তরাল হয়।"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "topic": "Vectors",
+    "question": "দুটি ভেক্টরের মধ্যবর্তী কোণ $$\\theta$$ হলে স্কেলার গুণফল সর্বোচ্চ হবে যখন-",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\theta = 0^\\circ$$",
+      "b": "$$\\theta = 90^\\circ$$",
+      "c": "$$\\theta = 180^\\circ$$",
+      "d": "$$\\theta = 45^\\circ$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$A \\cdot B = AB \\cos \\theta$$। $$\\cos \\theta$$ এর সর্বোচ্চ মান 1 যখন $$\\theta = 0^\\circ$$।"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "topic": "Geometry - Conics",
+    "question": "$$\\frac{x^2}{25} + \\frac{y^2}{16} = 1$$ উপবৃত্তের উৎকেন্দ্রিকতা ($$e$$) কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "4/5",
+      "b": "3/5",
+      "c": "5/4",
+      "d": "3/4"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$a^2=25, b^2=16$$। $$e = \\sqrt{1 - b^2/a^2} = \\sqrt{1 - 16/25} = \\sqrt{9/25} = 3/5$$।"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "topic": "Vectors",
+    "question": "$$|\\vec{A}| = 3$$, $$|\\vec{B}| = 4$$ এবং মধ্যবর্তী কোণ $$60^\\circ$$ হলে $$\\vec{A} \\cdot \\vec{B}$$ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "6",
+      "b": "12",
+      "c": "$$6\\sqrt{3}$$",
+      "d": "2"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$\\vec{A} \\cdot \\vec{B} = 3 \\times 4 \\times \\cos 60^\\circ = 12 \\times 0.5 = 6$$।"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "topic": "Geometry - Conics",
+    "question": "$$x = a \\cos \\theta, y = a \\sin \\theta$$ সঞ্চারপথটি কিসের?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "পরাবৃত্ত",
+      "b": "উপবৃত্ত",
+      "c": "বৃত্ত",
+      "d": "অধিবৃত্ত"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$x^2 + y^2 = a^2(\\cos^2 \\theta + \\sin^2 \\theta) = a^2$$, যা একটি বৃত্ত।"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "topic": "Geometry - Circles",
+    "question": "$$y$$-অক্ষকে স্পর্শ করলে বৃত্তের শর্ত কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$g^2 = c$$",
+      "b": "$$f^2 = c$$",
+      "c": "$$g = f$$",
+      "d": "$$c = 0$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$y$$-অক্ষকে স্পর্শ করলে $$y$$-অক্ষের খণ্ডিতাংশ শূন্য হয়, অর্থাৎ $$2\\sqrt{f^2-c} = 0 \\Rightarrow f^2 = c$$।"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "topic": "Vectors",
+    "question": "$$\\vec{r} = 3\\hat{i} + 4\\hat{j}$$ ভেক্টরটির মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "7",
+      "b": "1",
+      "c": "5",
+      "d": "25"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$|\\vec{r}| = \\sqrt{3^2 + 4^2} = \\sqrt{9+16} = 5$$।"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "topic": "Geometry - Straight Lines",
+    "question": "$$k$$ এর মান কত হলে $$2x - y + 7 = 0$$ এবং $$3x + ky - 5 = 0$$ রেখাদ্বয় সমান্তরাল হবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "-3/2",
+      "b": "2/3",
+      "c": "3/2",
+      "d": "-2/3"
+    },
+    "correctAnswer": "a",
+    "explanation": "সমান্তরাল হলে ঢাল সমান। $$m_1 = 2, m_2 = -3/k$$। $$2 = -3/k \\Rightarrow k = -3/2$$।"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "topic": "Geometry - Coordinates",
+    "question": "একটি বিন্দুর পোলার স্থানাঙ্ক $$(2, 90^\\circ)$$ হলে কার্তেসীয় স্থানাঙ্ক কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$(2, 0)$$",
+      "b": "$$(0, 2)$$",
+      "c": "$$(2, 2)$$",
+      "d": "$$(0, -2)$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$x = r \\cos \\theta = 2 \\cos 90 = 0$$, $$y = r \\sin \\theta = 2 \\sin 90 = 2$$। বিন্দুটি $$(0, 2)$$।"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$\\sin^{-1} x + \\cos^{-1} x = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\pi$$",
+      "b": "$$\\pi/2$$",
+      "c": "$$\\pi/4$$",
+      "d": "0"
+    },
+    "correctAnswer": "b",
+    "explanation": "এটি একটি মৌলিক বিপরীত ত্রিকোণমিতিক অভেদ।"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$\\tan^{-1} (1/2) + \\tan^{-1} (1/3) = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\pi/4$$",
+      "b": "$$\\pi/2$$",
+      "c": "$$\\pi/3$$",
+      "d": "$$\\pi/6$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$\\tan^{-1} \\frac{1/2+1/3}{1-1/6} = \\tan^{-1} \\frac{5/6}{5/6} = \\tan^{-1} 1 = \\pi/4$$।"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$\\cos 2A$$ এর সূত্র কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$2\\cos^2 A - 1$$",
+      "b": "$$1 - 2\\sin^2 A$$",
+      "c": "$$\\cos^2 A - \\sin^2 A$$",
+      "d": "সবকটি"
+    },
+    "correctAnswer": "d",
+    "explanation": "সবগুলোই $$\\cos 2A$$ এর সঠিক রূপ।"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$\\triangle ABC$$-এ $$a=3, b=4, c=5$$ হলে $$\\angle C$$ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$30^\\circ$$",
+      "b": "$$60^\\circ$$",
+      "c": "$$90^\\circ$$",
+      "d": "$$45^\\circ$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "পিথাগোরাসের উপপাদ্য $$3^2+4^2=5^2$$ সিদ্ধ করে, তাই এটি সমকোণী ত্রিভুজ যার অতিভুজ c।"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$2 \\sin^2 \\theta = 1$$ হলে $$\\theta$$ এর মান কত? ($$0 < \\theta < 90^\\circ$$)",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$30^\\circ$$",
+      "b": "$$45^\\circ$$",
+      "c": "$$60^\\circ$$",
+      "d": "$$90^\\circ$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$\\sin^2 \\theta = 1/2 \\Rightarrow \\sin \\theta = 1/\\sqrt{2} \\Rightarrow \\theta = 45^\\circ$$।"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$\\sin 75^\\circ$$ এর মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\frac{\\sqrt{3}+1}{2\\sqrt{2}}$$",
+      "b": "$$\\frac{\\sqrt{3}-1}{2\\sqrt{2}}$$",
+      "c": "$$1/2$$",
+      "d": "$$\\frac{\\sqrt{3}}{2}$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$\\sin(45+30) = \\sin 45 \\cos 30 + \\cos 45 \\sin 30$$ সূত্র প্রয়োগ করে।"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$\\tan \\theta = \\sqrt{3}$$ হলে $$\\theta$$ এর সাধারণ সমাধান কী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$n\\pi + \\pi/6$$",
+      "b": "$$n\\pi + \\pi/3$$",
+      "c": "$$2n\\pi \\pm \\pi/3$$",
+      "d": "$$n\\pi$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$\\tan \\theta = \\tan(\\pi/3) \\Rightarrow \\theta = n\\pi + \\pi/3$$।"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$\\sec^2 (\\tan^{-1} 2) + \\text{cosec}^2 (\\cot^{-1} 3) = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "5",
+      "b": "10",
+      "c": "15",
+      "d": "13"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$(1+2^2) + (1+3^2) = 5 + 10 = 15$$।"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$\\sin 2x$$ এর সর্বোচ্চ মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "$$\\infty$$",
+      "d": "0"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$\\sin$$ ফাংশনের মান সর্বদা $$-1$$ থেকে $$1$$ এর মধ্যে থাকে।"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$\\cos (-780^\\circ)$$ এর মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$1/2$$",
+      "b": "$$-1/2$$",
+      "c": "$$\\sqrt{3}/2$$",
+      "d": "$$-\\sqrt{3}/2$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$\\cos(780) = \\cos(2 \\times 360 + 60) = \\cos 60 = 1/2$$।"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "topic": "Calculus - Limits",
+    "question": "$$\\lim_{x \\to 0} \\frac{\\sin x}{x} = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "$$\\infty$$",
+      "d": "Undefined"
+    },
+    "correctAnswer": "b",
+    "explanation": "এটি একটি মৌলিক লিমিট সূত্র।"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "topic": "Calculus - Limits",
+    "question": "$$\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2} = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "2",
+      "b": "0",
+      "c": "4",
+      "d": "1"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$\\frac{(x-2)(x+2)}{x-2} = x+2$$। মান বসালে $$2+2=4$$।"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "topic": "Calculus - Differentiation",
+    "question": "$$\\frac{d}{dx} (\\ln x) = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$1/x$$",
+      "b": "$$x$$",
+      "c": "$$e^x$$",
+      "d": "1"
+    },
+    "correctAnswer": "a",
+    "explanation": "লগারিদমিক ফাংশনের আদর্শ অন্তরজ।"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "topic": "Calculus - Differentiation",
+    "question": "$$\\frac{d}{dx} (e^{5x}) = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$e^{5x}$$",
+      "b": "$$5e^{5x}$$",
+      "c": "$$e^{5x}/5$$",
+      "d": "$$5x$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "চেইন রুল: $$e^{5x} \\cdot \\frac{d}{dx}(5x) = 5e^{5x}$$।"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "topic": "Calculus - Differentiation",
+    "question": "$$y = \\sin 2x$$ হলে $$\\frac{dy}{dx}$$ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\cos 2x$$",
+      "b": "$$2 \\cos 2x$$",
+      "c": "$$-2 \\cos 2x$$",
+      "d": "$$\\sin 2x$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$\\cos 2x \\cdot 2 = 2\\cos 2x$$।"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "topic": "Calculus - Integration",
+    "question": "$$\\int \\frac{1}{x} dx = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\ln x + c$$",
+      "b": "$$-1/x^2$$",
+      "c": "$$x^2/2$$",
+      "d": "1"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$1/x$$ এর যোগজীকরণ $$\\ln |x| + c$$।"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "topic": "Calculus - Integration",
+    "question": "$$\\int_{0}^{1} e^x dx = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$e$$",
+      "b": "$$e-1$$",
+      "c": "1",
+      "d": "0"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$[e^x]_0^1 = e^1 - e^0 = e - 1$$।"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "topic": "Calculus - Differentiation",
+    "question": "$$\\frac{d}{dx} (\\tan^{-1} x) = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\frac{1}{1-x^2}$$",
+      "b": "$$\\frac{1}{1+x^2}$$",
+      "c": "$$\\frac{1}{\\sqrt{1-x^2}}$$",
+      "d": "$$\\sec^2 x$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "এটি বিপরীত ত্রিকোণমিতিক ফাংশনের অন্তরজের সূত্র।"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "topic": "Calculus - Differentiation",
+    "question": "$$y = x^x$$ হলে $$\\frac{dy}{dx} = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$x^x (1 + \\ln x)$$",
+      "b": "$$x \\ln x$$",
+      "c": "$$x^x$$",
+      "d": "$$x^{x-1}$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$\\ln y = x \\ln x$$ ধরে অন্তরীকরণ করলে পাওয়া যায়।"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "topic": "Calculus - Integration",
+    "question": "$$\\int \\ln x dx = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$x \\ln x + x$$",
+      "b": "$$x \\ln x - x + c$$",
+      "c": "$$1/x$$",
+      "d": "$$\\ln x$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "Integration by parts ব্যবহার করে।"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "topic": "Calculus - Maxima/Minima",
+    "question": "$$f(x) = x^3 - 3x^2 + 1$$ এর গুরুমান কোন বিন্দুতে পাওয়া যাবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$x=0$$",
+      "b": "$$x=2$$",
+      "c": "$$x=1$$",
+      "d": "$$x=3$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$f'(x) = 3x^2 - 6x = 0 \\Rightarrow x=0, 2$$। $$f''(0) = -6 < 0$$ (গুরুমান), $$f''(2) = 6 > 0$$ (লঘুমান)।"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "topic": "Calculus - Limits",
+    "question": "$$\\lim_{x \\to \\infty} \\frac{2x^2 + 3x}{5x^2 - 2} = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "2/5",
+      "b": "$$\\infty$$",
+      "c": "0",
+      "d": "3/2"
+    },
+    "correctAnswer": "a",
+    "explanation": "লব ও হরের সর্বোচ্চ ঘাতের সহগের অনুপাত $$2/5$$।"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "topic": "Calculus - Differentiation",
+    "question": "$$x=a\\cos\\theta, y=b\\sin\\theta$$ হলে $$\\frac{dy}{dx}$$ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$-\\frac{b}{a} \\cot \\theta$$",
+      "b": "$$\\frac{b}{a} \\tan \\theta$$",
+      "c": "$$\\frac{a}{b} \\tan \\theta$$",
+      "d": "1"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$\\frac{dy}{dx} = \\frac{dy/d\\theta}{dx/d\\theta} = \\frac{b\\cos\\theta}{-a\\sin\\theta} = -\\frac{b}{a} \\cot \\theta$$।"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "topic": "Calculus - Integration",
+    "question": "$$\\int \\sin^2 x dx$$ এর যোগজীকরণ করতে কোন সূত্র লাগে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$1-\\cos 2x$$",
+      "b": "$$\\frac{1}{2}(1-\\cos 2x)$$",
+      "c": "$$1+\\cos 2x$$",
+      "d": "$$\\sin 2x$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "বর্গ থাকলে তা একঘাতে রূপান্তর করতে হয়: $$\\sin^2 x = \\frac{1}{2}(1-\\cos 2x)$$।"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "topic": "Calculus - Integration",
+    "question": "$$\\int_{0}^{\\pi/2} \\cos x dx = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "-1",
+      "d": "$$\\pi/2$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$[\\sin x]_0^{\\pi/2} = \\sin 90 - \\sin 0 = 1 - 0 = 1$$।"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "topic": "Calculus - Applications",
+    "question": "একটি গোলকের ব্যাসার্ধ বৃদ্ধির হার $$2 cm/s$$ হলে আয়তন বৃদ্ধির হার কত যখন $$r=10$$?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$800\\pi$$",
+      "b": "$$400\\pi$$",
+      "c": "$$200\\pi$$",
+      "d": "$$100\\pi$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$V = \\frac{4}{3}\\pi r^3 \\Rightarrow \\frac{dV}{dt} = 4\\pi r^2 \\frac{dr}{dt} = 4\\pi (100)(2) = 800\\pi$$।"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "topic": "Calculus - Differentiation",
+    "question": "$$y = \\sqrt{x}$$ হলে $$y_1$$ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\frac{1}{2\\sqrt{x}}$$",
+      "b": "$$2\\sqrt{x}$$",
+      "c": "$$x$$",
+      "d": "$$1/\\sqrt{x}$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "Power rule: $$x^{1/2} \\to \\frac{1}{2}x^{-1/2}$$।"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "topic": "Calculus - Integration",
+    "question": "$$\\int e^x [\\tan x + \\sec^2 x] dx = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$e^x \\sec^2 x$$",
+      "b": "$$e^x \\tan x$$",
+      "c": "$$e^x \\cot x$$",
+      "d": "$$\\tan x$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "সূত্র $$\\int e^x [f(x) + f'(x)] dx = e^x f(x)$$। এখানে $$f(x)=\\tan x$$।"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "topic": "Calculus - Differentiation",
+    "question": "$$\\frac{d}{dx} (5^x) = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$5^x$$",
+      "b": "$$x 5^{x-1}$$",
+      "c": "$$5^x \\ln 5$$",
+      "d": "$$\\ln 5$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "সূত্র: $$\\frac{d}{dx} (a^x) = a^x \\ln a$$।"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "topic": "Calculus - Tangents",
+    "question": "মূলবিন্দুতে $$y=x^3$$ বক্ররেখার ঢাল কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "3",
+      "d": "$$\\infty$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$y' = 3x^2$$। $$x=0$$ বসালে ঢাল 0।"
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "topic": "Mechanics - Statics",
+    "question": "দুটি সমান বল $$P$$ এর মধ্যবর্তী কোণ $$120^\\circ$$ হলে লব্ধি কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$2P$$",
+      "b": "$$P$$",
+      "c": "$$\\sqrt{2}P$$",
+      "d": "$$P/2$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$R = \\sqrt{P^2+P^2+2P^2(-1/2)} = \\sqrt{P^2} = P$$।"
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "topic": "Mechanics",
+    "question": "বলের লম্বাংশ উপপাদ্য কোন রাশিটির জন্য প্রযোজ্য?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "স্কেলার",
+      "b": "ভেক্টর",
+      "c": "টেনসর",
+      "d": "সবকটি"
+    },
+    "correctAnswer": "b",
+    "explanation": "লম্বাংশ উপপাদ্য ভেক্টর রাশির (যেমন বল) যোজন বা বিভাজনে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "topic": "Mechanics - Dynamics",
+    "question": "সর্বোচ্চ উচ্চতায় নিক্ষিপ্ত বস্তুর বেগ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "সর্বোচ্চ",
+      "b": "$$u \\cos \\alpha$$",
+      "c": "0",
+      "d": "$$u \\sin \\alpha$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "খাড়া ওপরের দিকে নিক্ষিপ্ত বস্তুর সর্বোচ্চ উচ্চতায় বেগ শূন্য হয়। (প্রাসের ক্ষেত্রে অনুভূমিক বেগ থাকে)।"
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question": "একটি ছক্কা নিক্ষেপে জোড় সংখ্যা আসার সম্ভাবনা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1/2",
+      "b": "1/3",
+      "c": "1/6",
+      "d": "2/3"
+    },
+    "correctAnswer": "a",
+    "explanation": "জোড় সংখ্যা {2, 4, 6} (৩টি)। মোট ফলাফল ৬টি। সম্ভাবনা $$3/6 = 1/2$$।"
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "topic": "Mechanics - Statics",
+    "question": "দুটি বলের সর্বোচ্চ লব্ধি 17N এবং সর্বনিম্ন লব্ধি 7N। বল দুটি কী কী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "12, 5",
+      "b": "10, 7",
+      "c": "14, 3",
+      "d": "17, 7"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$P+Q=17, P-Q=7$$। সমাধান করলে $$2P=24 \\Rightarrow P=12, Q=5$$।"
+  },
+  {
+    "id": 76,
+    "subject": "Mathematics",
+    "topic": "Mechanics - Dynamics",
+    "question": "$$u$$ বেগে খাড়া ওপরের দিকে নিক্ষিপ্ত বস্তু সর্বোচ্চ কত উচ্চতায় উঠবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$u^2/g$$",
+      "b": "$$u^2/2g$$",
+      "c": "$$2u/g$$",
+      "d": "$$u/g$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$v^2 = u^2 - 2gh$$। সর্বোচ্চ উচ্চতায় $$v=0$$, তাই $$h = u^2/2g$$।"
+  },
+  {
+    "id": 77,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question": "$$P(A) = 1/3, P(B) = 1/4$$ এবং $$A, B$$ স্বাধীন হলে $$P(A \\cap B) = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1/12",
+      "b": "7/12",
+      "c": "1/7",
+      "d": "0"
+    },
+    "correctAnswer": "a",
+    "explanation": "স্বাধীন ঘটনার ক্ষেত্রে $$P(A \\cap B) = P(A) \\times P(B) = (1/3)(1/4) = 1/12$$।"
+  },
+  {
+    "id": 78,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question": "তিনটি মুদ্রা একত্রে নিক্ষেপ করলে সবকটিতে Head আসার সম্ভাবনা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1/2",
+      "b": "1/4",
+      "c": "1/8",
+      "d": "3/8"
+    },
+    "correctAnswer": "c",
+    "explanation": "মোট নমুনা বিন্দু $$2^3 = 8$$। HHH আসার ঘটনা ১টি। সম্ভাবনা $$1/8$$।"
+  },
+  {
+    "id": 79,
+    "subject": "Mathematics",
+    "topic": "Mechanics - Statics",
+    "question": "সাম্যাবস্থায় লামী-র উপপাদ্য প্রয়োগ করতে কয়টি বল প্রয়োজন?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "২",
+      "b": "৩",
+      "c": "৪",
+      "d": "৫"
+    },
+    "correctAnswer": "b",
+    "explanation": "লামীর উপপাদ্য তিনটি সমবিন্দুগামী বলের সাম্যাবস্থার জন্য প্রযোজ্য।"
+  },
+  {
+    "id": 80,
+    "subject": "Mathematics",
+    "topic": "Mechanics - Dynamics",
+    "question": "প্রাসের গতিপথ কেমন?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "বৃত্তাকার",
+      "b": "পরাবৃত্তাকার",
+      "c": "উপবৃত্তাকার",
+      "d": "সরলরেখা"
+    },
+    "correctAnswer": "b",
+    "explanation": "প্রাসের গতিপথ একটি পরাবৃত্ত (Parabola)।"
+  },
+  {
+    "id": 81,
+    "subject": "Mathematics",
+    "topic": "Miscellaneous",
+    "question": "১ থেকে ১০০ পর্যন্ত মৌলিক সংখ্যা কয়টি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "24",
+      "b": "25",
+      "c": "26",
+      "d": "23"
+    },
+    "correctAnswer": "b",
+    "explanation": "১ থেকে ১০০ এর মধ্যে ২৫টি মৌলিক সংখ্যা আছে।"
+  },
+  {
+    "id": 82,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$\\tan A = 3/4$$ হলে $$\\sin A = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "3/5",
+      "b": "4/5",
+      "c": "5/3",
+      "d": "5/4"
+    },
+    "correctAnswer": "a",
+    "explanation": "লম্ব=3, ভূমি=4 হলে অতিভুজ=5। $$\\sin A$$ = লম্ব/অতিভুজ = 3/5।"
+  },
+  {
+    "id": 83,
+    "subject": "Mathematics",
+    "topic": "Calculus - Logarithms",
+    "question": "$$\\log_e e = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "$$e$$",
+      "d": "$$\\infty$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "ভিত্তি এবং সংখ্যা সমান হলে লগের মান 1 হয়।"
+  },
+  {
+    "id": 84,
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "question": "$$x + 1/x = 2$$ হলে $$x^2 + 1/x^2 = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "0",
+      "d": "1"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$a^2+b^2 = (a+b)^2 - 2ab = 2^2 - 2 = 2$$।"
+  },
+  {
+    "id": 85,
+    "subject": "Mathematics",
+    "topic": "Miscellaneous",
+    "question": "নিচের কোনটি অমূলদ সংখ্যা?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\sqrt{4}$$",
+      "b": "$$\\sqrt{9}$$",
+      "c": "$$\\sqrt{2}$$",
+      "d": "3.5"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$\\sqrt{2}$$ একটি অসীম অনাবৃত দশমিক সংখ্যা।"
+  },
+  {
+    "id": 86,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$\\cos^{-1} (\\frac{1}{\\sqrt{2}})$$ এর মুখ্য মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\pi/3$$",
+      "b": "$$\\pi/4$$",
+      "c": "$$\\pi/6$$",
+      "d": "$$\\pi/2$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$\\cos 45^\\circ = 1/\\sqrt{2}$$।"
+  },
+  {
+    "id": 87,
+    "subject": "Mathematics",
+    "topic": "Calculus - Limits",
+    "question": "$$\\lim_{x \\to \\infty} (1 + \\frac{1}{x})^x = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "$$e$$",
+      "d": "$$\\infty$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "এটি $$e$$ এর সংজ্ঞামূলক লিমিট।"
+  },
+  {
+    "id": 88,
+    "subject": "Mathematics",
+    "topic": "Calculus - Integration",
+    "question": "$$\\int_{-\\pi}^{\\pi} \\sin x dx = ?$$ (বিজোড় ফাংশন)",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "0",
+      "d": "$$\\pi$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$\\sin x$$ একটি বিজোড় ফাংশন, তাই প্রতিসম সীমার মধ্যে এর যোগজীকরণ শূন্য।"
+  },
+  {
+    "id": 89,
+    "subject": "Mathematics",
+    "topic": "Vectors",
+    "question": "$$3\\hat{i} + 4\\hat{j}$$ ভেক্টরের সমান্তরাল একক ভেক্টর কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$3\\hat{i} + 4\\hat{j}$$",
+      "b": "$$\\frac{3\\hat{i} + 4\\hat{j}}{5}$$",
+      "c": "$$\\frac{3\\hat{i} + 4\\hat{j}}{25}$$",
+      "d": "$$5(\\hat{i}+\\hat{j})$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "একক ভেক্টর = ভেক্টর / মান = $$(3\\hat{i}+4\\hat{j})/5$$।"
+  },
+  {
+    "id": 90,
+    "subject": "Mathematics",
+    "topic": "Geometry - Coordinates",
+    "question": "ত্রিভুজের ক্ষেত্রফল নির্ণয়ে নির্ণায়কের মান শূন্য হলে বিন্দুগুলো—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "সমরেখ",
+      "b": "সমবৃত্তীয়",
+      "c": "লম্ব",
+      "d": "কোনোটিই নয়"
+    },
+    "correctAnswer": "a",
+    "explanation": "ক্ষেত্রফল শূন্য মানে বিন্দুগুলো একই রেখায় অবস্থিত।"
+  },
+  {
+    "id": 91,
+    "subject": "Mathematics",
+    "topic": "Geometry - Circles",
+    "question": "$$x^2 + y^2 = 25$$ বৃত্তের ব্যাসার্ধ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "25",
+      "b": "5",
+      "c": "10",
+      "d": "$$\\sqrt{5}$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$r^2 = 25 \\Rightarrow r = 5$$।"
+  },
+  {
+    "id": 92,
+    "subject": "Mathematics",
+    "topic": "Calculus - Differentiation",
+    "question": "$$\\frac{d}{dx} (\\sin^{-1} x + \\cos^{-1} x) = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "$$\\pi/2$$",
+      "d": "$$x$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "যেহেতু $$(\\sin^{-1} x + \\cos^{-1} x) = \\pi/2$$ (ধ্রুবক), তাই ডেরিভেটিভ শূন্য।"
+  },
+  {
+    "id": 93,
+    "subject": "Mathematics",
+    "topic": "Calculus - Integration",
+    "question": "$$\\int \\frac{dx}{1+x^2} = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\tan^{-1} x$$",
+      "b": "$$\\sin^{-1} x$$",
+      "c": "$$\\ln x$$",
+      "d": "$$\\cot^{-1} x$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "এটি আদর্শ সমাকলন সূত্র।"
+  },
+  {
+    "id": 94,
+    "subject": "Mathematics",
+    "topic": "Geometry - Circles",
+    "question": "$$y = mx + c$$ রেখাটি $$x^2 + y^2 = a^2$$ বৃত্তকে স্পর্শ করার শর্ত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$c = a\\sqrt{1+m^2}$$",
+      "b": "$$c = a/m$$",
+      "c": "$$c = am$$",
+      "d": "$$c^2 = a^2(1-m^2)$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "স্পর্শকের শর্ত: কেন্দ্র থেকে দূরত্ব = ব্যাসার্ধ।"
+  },
+  {
+    "id": 95,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question": "$$P(A \\cup B)$$ এর সূত্র কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$P(A) + P(B)$$",
+      "b": "$$P(A)P(B)$$",
+      "c": "$$P(A) + P(B) - P(A \\cap B)$$",
+      "d": "None"
+    },
+    "correctAnswer": "c",
+    "explanation": "এটি সম্ভাবনার সংযোগ সূত্র।"
+  },
+  {
+    "id": 96,
+    "subject": "Mathematics",
+    "topic": "Algebra - Factorial",
+    "question": "$$4! = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "12",
+      "b": "20",
+      "c": "24",
+      "d": "10"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$4 \\times 3 \\times 2 \\times 1 = 24$$।"
+  },
+  {
+    "id": 97,
+    "subject": "Mathematics",
+    "topic": "Algebra - Matrices",
+    "question": "$$A = \\begin{bmatrix} 2 & x \\\\ 3 & 4 \\end{bmatrix}$$ সিঙ্গুলার (ব্যতিক্রমী) হলে $$x$$ এর মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "8/3",
+      "b": "3/8",
+      "c": "6",
+      "d": "0"
+    },
+    "correctAnswer": "a",
+    "explanation": "নির্ণায়ক শূন্য হবে। $$8 - 3x = 0 \\Rightarrow 3x = 8 \\Rightarrow x = 8/3$$।"
+  },
+  {
+    "id": 98,
+    "subject": "Mathematics",
+    "topic": "Geometry - Circles",
+    "question": "$$x^2 + y^2 + 2gx + 2fy + c = 0$$ বৃত্তের ব্যাসার্ধ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\sqrt{g^2+f^2-c}$$",
+      "b": "$$\\sqrt{g^2-f^2-c}$$",
+      "c": "$$\\sqrt{g^2+f^2+c}$$",
+      "d": "$$g^2+f^2-c$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "বৃত্তের সাধারণ সমীকরণের ব্যাসার্ধ নির্ণয়ের সূত্র।"
+  },
+  {
+    "id": 99,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question": "$$3 \\sin^{-1} x$$ এর সূত্র কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$\\sin^{-1}(3x-4x^3)$$",
+      "b": "$$\\sin^{-1}(4x^3-3x)$$",
+      "c": "$$\\cos^{-1}(4x^3-3x)$$",
+      "d": "$$3x$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "এটি বিপরীত ত্রিকোণমিতিক ফাংশনের একটি প্রমিত সূত্র।"
+  },
+  {
+    "id": 100,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question": "একটি লিপ ইয়ারে ৫৩টি রবিবার থাকার সম্ভাবনা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1/7",
+      "b": "2/7",
+      "c": "53/366",
+      "d": "1/366"
+    },
+    "correctAnswer": "b",
+    "explanation": "৩৬৬ দিনে ৫২ সপ্তাহ (৩৬৪ দিন) এবং বাড়তি ২ দিন থাকে। এই ২ দিনে রবিবার আসার সম্ভাবনা $$2/7$$।"
+  }
+]

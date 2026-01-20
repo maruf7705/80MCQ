@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "subject": "Chemistry",
+    "topic": "Qualitative Chemistry",
+    "question": "সহকারী কোয়ান্টাম সংখ্যা $$l=2$$ হলে অরবিটাল কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "s",
+      "b": "p",
+      "c": "d",
+      "d": "f"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$l$$ এর মান: $$0(s), 1(p), 2(d), 3(f)$$। তাই $$l=2$$ হলো d-অরবিটাল।"
+  },
+  {
+    "id": 2,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "নিচের কোনটি উভধর্মী অক্সাইড?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$CO_2$$",
+      "b": "$$CaO$$",
+      "c": "$$Al_2O_3$$",
+      "d": "$$N_2O$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$Al_2O_3, ZnO, PbO, SnO_2$$ উভধর্মী অক্সাইড যা এসিড ও ক্ষার উভয়ের সাথে বিক্রিয়া করে।"
+  },
+  {
+    "id": 3,
+    "subject": "Chemistry",
+    "topic": "Qualitative Chemistry",
+    "question": "শিখা পরীক্ষায় সোনালী হলুদ বর্ণ দেয় কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "K",
+      "b": "Ca",
+      "c": "Na",
+      "d": "Cu"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$Na^+$$ (সোনালী হলুদ), $$K^+$$ (বেগুনি), $$Ca^{2+}$$ (ইটের ন্যায় লাল), $$Cu^{2+}$$ (নীলাভ সবুজ)।"
+  },
+  {
+    "id": 4,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "$$NH_3$$ অণুতে বন্ধন কোণ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$109.5^\\circ$$",
+      "b": "$$120^\\circ$$",
+      "c": "$$107^\\circ$$",
+      "d": "$$104.5^\\circ$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$NH_3$$ তে ১টি মুক্তজোড় ইলেকট্রন থাকায় বিকর্ষণের কারণে কোণ $$109.5^\\circ$$ থেকে কমে $$107^\\circ$$ হয়।"
+  },
+  {
+    "id": 5,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "কোনটির আয়নীকরণ শক্তি সবচেয়ে বেশি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "N",
+      "b": "O",
+      "c": "C",
+      "d": "F"
+    },
+    "correctAnswer": "d",
+    "explanation": "পর্যায়ে বাম থেকে ডানে গেলে আয়নীকরণ শক্তি বাড়ে। এখানে F সবার ডানে অবস্থিত।"
+  },
+  {
+    "id": 6,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "হ্যালোজেনসমূহের ইলেকট্রন আসক্তির সঠিক ক্রম কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "F > Cl > Br > I",
+      "b": "Cl > F > Br > I",
+      "c": "I > Br > Cl > F",
+      "d": "F > I > Br > Cl"
+    },
+    "correctAnswer": "b",
+    "explanation": "ব্যতিক্রম: Cl এর আকার F অপেক্ষা বড় হওয়ায় ইলেকট্রন মেঘের ঘনত্ব কম, তাই ইলেকট্রন আসক্তি $$Cl > F$$।"
+  },
+  {
+    "id": 7,
+    "subject": "Chemistry",
+    "topic": "Qualitative Chemistry",
+    "question": "$$Fe^{3+}$$ আয়নে 'd' অরবিটালে কয়টি ইলেকট্রন থাকে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$Fe(26) = [Ar] 3d^6 4s^2$$। $$Fe^{3+}$$ তিনটি ইলেকট্রন ত্যাগের পর $$3d^5$$ হয়।"
+  },
+  {
+    "id": 8,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "নিচের কোনটি প্যারাম্যাগনেটিক?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$Zn^{2+}$$",
+      "b": "$$Sc^{3+}$$",
+      "c": "$$Fe^{2+}$$",
+      "d": "$$Cu^+$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$Fe^{2+}$$ এর $$3d^6$$ বিন্যাসে ৪টি বিজোড় ইলেকট্রন আছে, তাই এটি প্যারাম্যাগনেটিক।"
+  },
+  {
+    "id": 9,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "$$sp^2$$ সংকরায়নে অণুর আকৃতি কেমন হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "সরলরৈখিক",
+      "b": "সমতলীয় ত্রিকোণাকার",
+      "c": "চতুস্তলকীয়",
+      "d": "অষ্টতলকীয়"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$sp^2$$ সংকরায়নে আকৃতি সমতলীয় ত্রিকোণাকার এবং কোণ $$120^\\circ$$ হয়।"
+  },
+  {
+    "id": 10,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "নিচের কোনটি হাইড্রোজেন বন্ধন গঠন করে না?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$H_2O$$",
+      "b": "$$NH_3$$",
+      "c": "$$HF$$",
+      "d": "$$HCl$$"
+    },
+    "correctAnswer": "d",
+    "explanation": "ক্লোরিনের তড়িৎ ঋণাত্মকতা কম ও আকার বড় হওয়ায় $$HCl$$ হাইড্রোজেন বন্ধন গঠন করে না।"
+  },
+  {
+    "id": 11,
+    "subject": "Chemistry",
+    "topic": "Acids & Bases",
+    "question": "$$AlCl_3$$ একটি—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "লুইস এসিড",
+      "b": "লুইস ক্ষার",
+      "c": "আরহেনিয়াস ক্ষার",
+      "d": "ব্রনস্টেড ক্ষার"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$AlCl_3$$ এর অষ্টক অপূর্ণ থাকায় এটি ইলেকট্রন জোড় গ্রহণ করতে পারে, তাই এটি লুইস এসিড।"
+  },
+  {
+    "id": 12,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "কোনটি রঙিন যৌগ গঠন করে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "Zn",
+      "b": "Sc",
+      "c": "Co",
+      "d": "Ca"
+    },
+    "correctAnswer": "c",
+    "explanation": "অবস্থান্তর মৌল রঙিন যৌগ গঠন করে। কোবাল্ট (Co) একটি অবস্থান্তর মৌল।"
+  },
+  {
+    "id": 13,
+    "subject": "Chemistry",
+    "topic": "Qualitative Chemistry",
+    "question": "চতুর্থ শক্তিস্তরে মোট অরবিটাল সংখ্যা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "8",
+      "b": "16",
+      "c": "18",
+      "d": "32"
+    },
+    "correctAnswer": "b",
+    "explanation": "মোট অরবিটাল সংখ্যা = $$n^2 = 4^2 = 16$$।"
+  },
+  {
+    "id": 14,
+    "subject": "Chemistry",
+    "topic": "Isotopes",
+    "question": "চিকিৎসা বিজ্ঞানে থাইরয়েড চিকিৎসায় কোন আইসোটোপ ব্যবহৃত হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "I-131",
+      "b": "Co-60",
+      "c": "C-14",
+      "d": "P-32"
+    },
+    "correctAnswer": "a",
+    "explanation": "থাইরয়েড গ্রন্থির চিকিৎসায় তেজস্ক্রিয় আয়োডিন (I-131) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 15,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "পর্যায় সারণির d-ব্লক মৌলের সংখ্যা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "30",
+      "b": "41",
+      "c": "36",
+      "d": "14"
+    },
+    "correctAnswer": "b",
+    "explanation": "বর্তমানে d-ব্লক মৌলের সংখ্যা ৪১টি।"
+  },
+  {
+    "id": 16,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "কোনটির আকার সবচেয়ে ছোট?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$Na^+$$",
+      "b": "$$Mg^{2+}$$",
+      "c": "$$Al^{3+}$$",
+      "d": "$$F^-$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "আইসোইলেকট্রনিক আয়নের ক্ষেত্রে যার প্রোটন সংখ্যা বেশি, তার নিউক্লিয়াসের আকর্ষণ বেশি, ফলে আকার ছোট হয়।"
+  },
+  {
+    "id": 17,
+    "subject": "Chemistry",
+    "topic": "Qualitative Chemistry",
+    "question": "দ্রাব্যতা গুণফল ($$K_{sp}$$) কোনটির উপর নির্ভর করে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "চাপ",
+      "b": "তাপমাত্রা",
+      "c": "ঘনমাত্রা",
+      "d": "আয়তন"
+    },
+    "correctAnswer": "b",
+    "explanation": "সাম্যাধ্রুবকের মতো দ্রাব্যতা গুণফলও শুধুমাত্র তাপমাত্রার উপর নির্ভর করে।"
+  },
+  {
+    "id": 18,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "$$CuSO_4 \\cdot 5H_2O$$ যৌগে কী কী বন্ধন আছে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "আয়নিক ও সমযোজী",
+      "b": "সমযোজী ও সন্নিবেশ",
+      "c": "আয়নিক, সমযোজী, সন্নিবেশ ও হাইড্রোজেন",
+      "d": "শুধু আয়নিক"
+    },
+    "correctAnswer": "c",
+    "explanation": "এখানে সালফেটে সমযোজী, কপার-সালফেটে আয়নিক, পানির সাথে সন্নিবেশ এবং কেলাস পানিতে হাইড্রোজেন বন্ধন আছে।"
+  },
+  {
+    "id": 19,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "নিচের কোনটি মুদ্রা ধাতু নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "Cu",
+      "b": "Ag",
+      "c": "Au",
+      "d": "Fe"
+    },
+    "correctAnswer": "d",
+    "explanation": "গ্রুপ ১১ এর Cu, Ag, Au কে মুদ্রা ধাতু বলা হয়। Fe মুদ্রা ধাতু নয়।"
+  },
+  {
+    "id": 20,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "পানির অণুর আকৃতি কেমন?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "সরলরৈখিক",
+      "b": "কৌণিক (V-shape)",
+      "c": "পিরামিডীয়",
+      "d": "চতুস্তলকীয়"
+    },
+    "correctAnswer": "b",
+    "explanation": "দুটি মুক্তজোড় ইলেকট্রনের কারণে পানির আকৃতি উল্টানো V বা কৌণিক হয়।"
+  },
+  {
+    "id": 21,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "মানুষের রক্তের pH কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "6.4",
+      "b": "7.0",
+      "c": "7.4",
+      "d": "8.0"
+    },
+    "correctAnswer": "c",
+    "explanation": "মানুষের রক্তের স্বাভাবিক pH হলো ৭.৩৫ - ৭.৪৫।"
+  },
+  {
+    "id": 22,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "$$0.001 M HCl$$ দ্রবণের pH কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$pH = -\\log[H^+] = -\\log(10^{-3}) = 3$$।"
+  },
+  {
+    "id": 23,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "অম্লীয় বাফার দ্রবণ কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$HCl + NaCl$$",
+      "b": "$$CH_3COOH + CH_3COONa$$",
+      "c": "$$NaOH + HCl$$",
+      "d": "$$HNO_3 + KNO_3$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "অম্লীয় বাফার = দুর্বল এসিড + ওই এসিডের শক্তিশালী ক্ষারের লবণ।"
+  },
+  {
+    "id": 24,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "$$K_p$$ ও $$K_c$$ এর সম্পর্ক কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$K_p = K_c(RT)^{\\Delta n}$$",
+      "b": "$$K_c = K_p(RT)^{\\Delta n}$$",
+      "c": "$$K_p = K_c RT$$",
+      "d": "$$K_p = K_c$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "ভ্যান হফ সমীকরণ অনুসারে এটি সঠিক সম্পর্ক।"
+  },
+  {
+    "id": 25,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "তাপমাত্রা বাড়ালে তাপোৎপাদী বিক্রিয়ার সাম্যাবস্থা—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ডানে যাবে",
+      "b": "বামে যাবে",
+      "c": "স্থির থাকবে",
+      "d": "কোনোটিই নয়"
+    },
+    "correctAnswer": "b",
+    "explanation": "লা-শাতেলিয়ার নীতি অনুসারে তাপোৎপাদী বিক্রিয়ায় তাপ বাড়ালে সাম্যাবস্থা বামে (পশ্চাৎমুখী) সরে যায়।"
+  },
+  {
+    "id": 26,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "STP তে এক মোল গ্যাসের আয়তন কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "22.4 L",
+      "b": "24.789 L",
+      "c": "22.414 L",
+      "d": "20 L"
+    },
+    "correctAnswer": "a",
+    "explanation": "Standard Temperature and Pressure (STP) তে মোলার আয়তন ২২.৪ লিটার।"
+  },
+  {
+    "id": 27,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "কোন গ্যাসটি এসিড বৃষ্টির জন্য প্রধানত দায়ী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$CO_2$$",
+      "b": "$$SO_2$$",
+      "c": "$$NH_3$$",
+      "d": "$$CH_4$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$SO_2$$ পানির সাথে বিক্রিয়া করে সালফিউরিক এসিড তৈরি করে যা এসিড বৃষ্টির মূল কারণ।"
+  },
+  {
+    "id": 28,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "নিচের কোনটি গ্রিন হাউজ গ্যাস নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$CO_2$$",
+      "b": "$$CH_4$$",
+      "c": "$$N_2$$",
+      "d": "$$CFC$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$N_2$$ এবং $$O_2$$ গ্রিন হাউজ গ্যাস নয়। বাকিগুলো তাপ ধরে রাখে।"
+  },
+  {
+    "id": 29,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "পানির BOD এর গ্রহণযোগ্য মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1-2 ppm",
+      "b": "6 ppm",
+      "c": "10 ppm",
+      "d": "0 ppm"
+    },
+    "correctAnswer": "a",
+    "explanation": "খুব ভালো পানির BOD মান ১-২ ppm এর মধ্যে থাকে।"
+  },
+  {
+    "id": 30,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "ভিনেগার কী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "6-10% ইথানয়িক এসিড",
+      "b": "100% ইথানয়িক এসিড",
+      "c": "40% মিথান্যাল",
+      "d": "লঘু এসিড"
+    },
+    "correctAnswer": "a",
+    "explanation": "ইথানয়িক এসিডের ৬-১০% জলীয় দ্রবণকে ভিনেগার বলে।"
+  },
+  {
+    "id": 31,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "কোনটির ব্যাপন হার সবচেয়ে বেশি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$N_2$$",
+      "b": "$$O_2$$",
+      "c": "$$CO_2$$",
+      "d": "$$NH_3$$"
+    },
+    "correctAnswer": "d",
+    "explanation": "গ্রাহামের ব্যাপন সূত্র মতে, যার আণবিক ভর কম তার ব্যাপন হার বেশি। এখানে $$NH_3$$ এর ভর (১৭) সবচেয়ে কম।"
+  },
+  {
+    "id": 32,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "$$27^\\circ C$$ তাপমাত্রায় $$N_2$$ গ্যাসের RMS বেগ কত? ($$R=8.314$$ ধরে)",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "415 m/s",
+      "b": "517 m/s",
+      "c": "493 m/s",
+      "d": "330 m/s"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$C = \\sqrt{3RT/M} = \\sqrt{(3 \\times 8.314 \\times 300) / 0.028} \\approx 517$$ m/s"
+  },
+  {
+    "id": 33,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "পরম শূন্য তাপমাত্রা কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$0^\\circ C$$",
+      "b": "$$-273^\\circ C$$",
+      "c": "$$273 K$$",
+      "d": "$$0^\\circ F$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "০ কেলভিন বা -২৭৩ ডিগ্রী সেলসিয়াসকে পরম শূন্য তাপমাত্রা বলা হয়।"
+  },
+  {
+    "id": 34,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "হেন্ডারসন সমীকরণটি হলো—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$pH = pK_a + \\log([Salt]/[Acid])$$",
+      "b": "$$pH = pK_a - \\log([Salt]/[Acid])$$",
+      "c": "$$pH = -\\log[H^+]$$",
+      "d": "None"
+    },
+    "correctAnswer": "a",
+    "explanation": "বাফার দ্রবণের pH নির্ণয়ে ব্যবহৃত সমীকরণ।"
+  },
+  {
+    "id": 35,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "এনজাইম মূলত কী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "শর্করা",
+      "b": "প্রোটিন",
+      "c": "লিপিড",
+      "d": "ভিটামিন"
+    },
+    "correctAnswer": "b",
+    "explanation": "সমস্ত এনজাইমই প্রোটিন দিয়ে গঠিত গ্লোবিউলার অনু।"
+  },
+  {
+    "id": 36,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "স্থির চাপে গ্যাসের আয়তন ও তাপমাত্রার সূত্র কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "বয়েলের সূত্র",
+      "b": "চার্লসের সূত্র",
+      "c": "অ্যাভোগাড্রো সূত্র",
+      "d": "ডাল্টনের সূত্র"
+    },
+    "correctAnswer": "b",
+    "explanation": "স্থির চাপে আয়তন পরম তাপমাত্রার সমানুপাতিক ($$V \\propto T$$), এটি চার্লসের সূত্র।"
+  },
+  {
+    "id": 37,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "রক্তের বাফার ক্রিয়া নিয়ন্ত্রণ করে কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$H_2CO_3 / HCO_3^-$$",
+      "b": "$$HCl / Cl^-$$",
+      "c": "$$CH_3COOH / CH_3COO^-$$",
+      "d": "$$NaOH / Na^+$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "বাইকার্বনেট বাফার সিস্টেম রক্তের প্রধান বাফার।"
+  },
+  {
+    "id": 38,
+    "subject": "Chemistry",
+    "topic": "Acids & Bases",
+    "question": "নিচের কোনটি লুইস ক্ষার?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$AlCl_3$$",
+      "b": "$$BF_3$$",
+      "c": "$$NH_3$$",
+      "d": "$$H^+$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$NH_3$$ এর মুক্তজোড় ইলেকট্রন দান করার ক্ষমতা আছে, তাই এটি লুইস ক্ষার।"
+  },
+  {
+    "id": 39,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "মাটির pH বাড়াতে কোনটি ব্যবহৃত হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "চুন",
+      "b": "ইউরিয়া",
+      "c": "জিপসাম",
+      "d": "সালফার"
+    },
+    "correctAnswer": "a",
+    "explanation": "চুন ($$CaO$$ বা $$CaCO_3$$) ক্ষারীয় হওয়ায় এসিডিক মাটির pH বাড়ায়।"
+  },
+  {
+    "id": 40,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "কোনটি ফটোকেমিক্যাল স্মোগ এর উপাদান?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "PAN",
+      "b": "CFC",
+      "c": "DDT",
+      "d": "CO"
+    },
+    "correctAnswer": "a",
+    "explanation": "PAN (Peroxyacetyl Nitrate) ফটোকেমিক্যাল স্মোগের একটি ক্ষতিকর উপাদান।"
+  },
+  {
+    "id": 41,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "জৈব যৌগে কার্বনের যোজনী সর্বদা—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "6"
+    },
+    "correctAnswer": "c",
+    "explanation": "ক্যাটিনেশন ধর্মের কারণে জৈব যৌগে কার্বনের যোজনী সর্বদা ৪।"
+  },
+  {
+    "id": 42,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "অ্যালকাইনের সাধারণ সংকেত কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$C_nH_{2n+2}$$",
+      "b": "$$C_nH_{2n}$$",
+      "c": "$$C_nH_{2n-2}$$",
+      "d": "$$C_nH_{2n+1}$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "অ্যালকাইন ($$C \\equiv C$$) এর সাধারণ সংকেত $$C_nH_{2n-2}$$।"
+  },
+  {
+    "id": 43,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "বেনজিন বলয়ে সক্রিয়কারী মূলক (Ortho-Para নির্দেশক) কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$-NO_2$$",
+      "b": "$$-CHO$$",
+      "c": "$$-OH$$",
+      "d": "$$-COOH$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$-OH$$ মূলক রিং এ ইলেকট্রন ঘনত্ব বাড়ায় এবং অর্থো-প্যারা অবস্থানে নির্দেশ করে।"
+  },
+  {
+    "id": 44,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "ক্যানিজারো বিক্রিয়া দেয় কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$HCHO$$",
+      "b": "$$CH_3CHO$$",
+      "c": "$$CH_3COCH_3$$",
+      "d": "$$C_2H_5CHO$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "আলফা হাইড্রোজেন বিহীন অ্যালডিহাইড (যেমন $$HCHO$$) ক্যানিজারো বিক্রিয়া দেয়।"
+  },
+  {
+    "id": 45,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "লুকাস বিকারক দ্বারা পার্থক্য করা হয়—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "অ্যালকোহল",
+      "b": "অ্যালডিহাইড",
+      "c": "অ্যামিন",
+      "d": "এসিড"
+    },
+    "correctAnswer": "a",
+    "explanation": "১, ২ ও ৩ ডিগ্রি অ্যালকোহল শনাক্তকরণে লুকাস বিকারক ব্যবহৃত হয়।"
+  },
+  {
+    "id": 46,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১ ডিগ্রি, ২ ডিগ্রি ও ৩ ডিগ্রি অ্যালকোহলের মধ্যে ৩ ডিগ্রির সাথে লুকাস বিকারক—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "সাথে সাথে অধঃক্ষেপ দেয়",
+      "b": "৫-১০ মিনিট পর দেয়",
+      "c": "উত্তপ্ত করলে দেয়",
+      "d": "বিক্রিয়া করে না"
+    },
+    "correctAnswer": "a",
+    "explanation": "৩ ডিগ্রি অ্যালকোহল খুব সক্রিয় হওয়ায় তাৎক্ষণিক ঘোলাটে অধঃক্ষেপ দেয়।"
+  },
+  {
+    "id": 47,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "গ্রিগনার্ড বিকারক কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$R-X$$",
+      "b": "$$RMgX$$",
+      "c": "$$R-OH$$",
+      "d": "$$R-CHO$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "অ্যালকাইল ম্যাগনেসিয়াম হ্যালাইড ($$RMgX$$) কে গ্রিগনার্ড বিকারক বলে।"
+  },
+  {
+    "id": 48,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "ইথাইনকে লোহিত তপ্ত নলের মধ্য দিয়ে চালনা করলে কী উৎপন্ন হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ইথিন",
+      "b": "বেনজিন",
+      "c": "টলুইন",
+      "d": "হেক্সেন"
+    },
+    "correctAnswer": "b",
+    "explanation": "৩ অণু ইথাইন পলিমারকরণ বিক্রিয়ায় বেনজিন উৎপন্ন করে।"
+  },
+  {
+    "id": 49,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "কার্বিল অ্যামিন পরীক্ষা দেয় কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$1^\\circ$$ অ্যামিন",
+      "b": "$$2^\\circ$$ অ্যামিন",
+      "c": "$$3^\\circ$$ অ্যামিন",
+      "d": "অ্যামাইড"
+    },
+    "correctAnswer": "a",
+    "explanation": "ক্লোরোফর্ম ও প্রাইমারি ($$1^\\circ$$) অ্যামিন শনাক্তকরণে এই পরীক্ষা ব্যবহৃত হয়।"
+  },
+  {
+    "id": 50,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "পাকা কলায় কোনটি থাকে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ইথাইল ইথানয়েট",
+      "b": "পেন্টাইল ইথানয়েট",
+      "c": "অকটাইল ইথানয়েট",
+      "d": "মিথাইল বিউটারেট"
+    },
+    "correctAnswer": "b",
+    "explanation": "বিভিন্ন এস্টার ফলের সুগন্ধের জন্য দায়ী। কলায় পেন্টাইল ইথানয়েট থাকে।"
+  },
+  {
+    "id": 51,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৫১. ফরমালিন কী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "40% মিথানল",
+      "b": "40% ইথানল",
+      "c": "40% মিথান্যাল",
+      "d": "100% ফরমালডিহাইড"
+    },
+    "correctAnswer": "c",
+    "explanation": "ফরমালডিহাইড বা মিথান্যালের ৪০% জলীয় দ্রবণকে ফরমালিন বলে।"
+  },
+  {
+    "id": 52,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৫২. কোনটি ইলেকট্রোফাইল?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$NH_3$$",
+      "b": "$$H_2O$$",
+      "c": "$$BF_3$$",
+      "d": "$$Cl^-$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$BF_3$$ এর অষ্টক অপূর্ণ থাকায় এটি ইলেকট্রন আকর্ষী বা ইলেকট্রোফাইল।"
+  },
+  {
+    "id": 53,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৫৩. টলেন বিকারকের সাথে বিক্রিয়া করে কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "কিটোন",
+      "b": "অ্যালডিহাইড",
+      "c": "ইথার",
+      "d": "অ্যালকোহল"
+    },
+    "correctAnswer": "b",
+    "explanation": "অ্যালডিহাইড টলেন বিকারককে বিজারিত করে সিলভার দর্পণ তৈরি করে, কিন্তু কিটোন করে না।"
+  },
+  {
+    "id": 54,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৫৪. রেকটিফাইড স্পিরিটে ইথানলের পরিমাণ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "95.6%",
+      "b": "100%",
+      "c": "90%",
+      "d": "40%"
+    },
+    "correctAnswer": "a",
+    "explanation": "95.6% ইথানল ও 4.4% পানির মিশ্রণকে রেকটিফাইড স্পিরিট বলে।"
+  },
+  {
+    "id": 55,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৫৫. ফেনল শনাক্তকরণে কোনটি ব্যবহৃত হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$Br_2$$ পানি",
+      "b": "$$FeCl_3$$ দ্রবণ",
+      "c": "উভয়ই",
+      "d": "কোনোটিই নয়"
+    },
+    "correctAnswer": "c",
+    "explanation": "ফেনল ব্রোমিন পানির সাথে সাদা অধঃক্ষেপ এবং ফেরিক ক্লোরাইডের সাথে বেগুনি বর্ণ দেয়।"
+  },
+  {
+    "id": 56,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৫৬. টিএনটি (TNT) কী কাজে ব্যবহৃত হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "সার হিসেবে",
+      "b": "বিস্ফোরক হিসেবে",
+      "c": "ওষুধ হিসেবে",
+      "d": "রং হিসেবে"
+    },
+    "correctAnswer": "b",
+    "explanation": "ট্রাই নাইট্রো টলুইন (TNT) একটি শক্তিশালী বিস্ফোরক।"
+  },
+  {
+    "id": 57,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৫৭. জ্যামিতিক সমানুতা (Cis-Trans) প্রদর্শন করে—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "বিউটিন-১",
+      "b": "বিউটিন-২",
+      "c": "প্রোপিন",
+      "d": "ইথিন"
+    },
+    "correctAnswer": "b",
+    "explanation": "বিউটিন-২ তে দ্বিবন্ধনযুক্ত কার্বনে ভিন্ন মূলক থাকায় এটি সিস-ট্রান্স সমানুতা দেখায়।"
+  },
+  {
+    "id": 58,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৫৮. জৈব এসিড ও অ্যালকোহলের বিক্রিয়ায় কী উৎপন্ন হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "এস্টার",
+      "b": "ইথার",
+      "c": "অ্যামাইড",
+      "d": "কিটোন"
+    },
+    "correctAnswer": "a",
+    "explanation": "এসিড ও অ্যালকোহলের ঘনীভবন বিক্রিয়ায় এস্টার ও পানি উৎপন্ন হয় (এস্টারিফিকেশন)।"
+  },
+  {
+    "id": 59,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৫৯. হাকেল নীতি অনুসারে বেনজিনে পাই ইলেকট্রন কয়টি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "10"
+    },
+    "correctAnswer": "b",
+    "explanation": "বেনজিনে $$4n+2$$ সংখ্যক পাই ইলেকট্রন থাকে। এখানে $$n=1$$, তাই $$4(1)+2 = 6$$।"
+  },
+  {
+    "id": 60,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৬০. কোনটি কাঁদুনে গ্যাস?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ক্লোরোপিক্রিন",
+      "b": "ফসজিন",
+      "c": "মাস্টার্ড গ্যাস",
+      "d": "লুইসাস"
+    },
+    "correctAnswer": "a",
+    "explanation": "নাইট্রোক্লোরোফর্ম বা ক্লোরোপিক্রিন ($$CCl_3NO_2$$) কে কাঁদুনে গ্যাস বলা হয়।"
+  },
+  {
+    "id": 61,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৬১. অ্যালডল ঘনীভবন বিক্রিয়া দেয় কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$HCHO$$",
+      "b": "$$CH_3CHO$$",
+      "c": "$$C_6H_5CHO$$",
+      "d": "$$(CH_3)_3CCHO$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "আলফা হাইড্রোজেন যুক্ত অ্যালডিহাইড ও কিটোন (যেমন $$CH_3CHO$$) অ্যালডল ঘনীভবন বিক্রিয়া দেয়।"
+  },
+  {
+    "id": 62,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৬২. মার্কোনিকভ নীতি খাটে কোনটির ক্ষেত্রে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "প্রতিসম অ্যালকিন",
+      "b": "অপ্রতিসম অ্যালকিন",
+      "c": "অ্যালকেন",
+      "d": "বেনজিন"
+    },
+    "correctAnswer": "b",
+    "explanation": "অপ্রতিসম বিকারকের সাথে অপ্রতিসম অ্যালকিনের যুত বিক্রিয়ায় মার্কোনিকভ নীতি প্রযোজ্য।"
+  },
+  {
+    "id": 63,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৬৩. PVC এর মনোমার কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ইথিন",
+      "b": "প্রোপিন",
+      "c": "ভিনাইল ক্লোরাইড",
+      "d": "স্টাইরিন"
+    },
+    "correctAnswer": "c",
+    "explanation": "পলি ভিনাইল ক্লোরাইড (PVC) এর মনোমার হলো ভিনাইল ক্লোরাইড ($$CH_2=CHCl$$)।"
+  },
+  {
+    "id": 64,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৬৪. নিচের কোনটি অ্যারোমেটিক যৌগ নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "বেনজিন",
+      "b": "ন্যাপথালিন",
+      "c": "সাইক্লোহেক্সেন",
+      "d": "পিরিডিন"
+    },
+    "correctAnswer": "c",
+    "explanation": "সাইক্লোহেক্সেন একটি অ্যালিসাইক্লিক যৌগ, এতে একান্তর দ্বিবন্ধন নেই।"
+  },
+  {
+    "id": 65,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৬৫. উটজ বিক্রিয়ায় (Wurtz Reaction) কোনটি উৎপন্ন হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "অ্যালকিন",
+      "b": "উচ্চতর অ্যালকেন",
+      "c": "অ্যালকাইন",
+      "d": "অ্যালকোহল"
+    },
+    "correctAnswer": "b",
+    "explanation": "অ্যালকাইল হ্যালাইড ও সোডিয়ামের বিক্রিয়ায় দ্বিগুণ কার্বন বিশিষ্ট উচ্চতর অ্যালকেন উৎপন্ন হয়।"
+  },
+  {
+    "id": 66,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৬৬. $$10\\% Na_2CO_3$$ দ্রবণের মোলারিটি কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1 M",
+      "b": "0.943 M",
+      "c": "0.5 M",
+      "d": "0.1 M"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$M = \\frac{1000w}{mV} = \\frac{10 \\times 10}{106} = 0.943 M$$"
+  },
+  {
+    "id": 67,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৬৭. $$0.5 M H_2SO_4$$ দ্রবণ কত নরমাল (N)?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0.5 N",
+      "b": "1 N",
+      "c": "2 N",
+      "d": "0.25 N"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$Normality = Molarity \\times e$$। এখানে $$H_2SO_4$$ এর তুল্যসংখ্যা $$e=2$$। তাই $$0.5 \\times 2 = 1 N$$।"
+  },
+  {
+    "id": 68,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "৬৮. ১ ফ্যারাডে = কত কুলম্ব?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "96500",
+      "b": "95600",
+      "c": "96000",
+      "d": "10000"
+    },
+    "correctAnswer": "a",
+    "explanation": "এক মোল ইলেকট্রনের চার্জ ৯৬৫০০ কুলম্ব।"
+  },
+  {
+    "id": 69,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৬৯. কোনটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$KMnO_4$$",
+      "b": "$$H_2SO_4$$",
+      "c": "$$Na_2CO_3$$",
+      "d": "$$HCl$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$Na_2CO_3$$ বিশুদ্ধ অবস্থায় পাওয়া যায় এবং বায়ুর উপাদানের সাথে বিক্রিয়া করে না।"
+  },
+  {
+    "id": 70,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৭০. কোনটি জারক ও বিজারক উভয় হিসেবে কাজ করে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$KMnO_4$$",
+      "b": "$$H_2O_2$$",
+      "c": "$$K_2Cr_2O_7$$",
+      "d": "$$HNO_3$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$H_2O_2$$ বিক্রিয়াভেদে জারক এবং বিজারক উভয় রূপেই আচরণ করে।"
+  },
+  {
+    "id": 71,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৭১. সেমি-মোলার দ্রবণের ঘনমাত্রা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1 M",
+      "b": "0.5 M",
+      "c": "0.1 M",
+      "d": "0.01 M"
+    },
+    "correctAnswer": "b",
+    "explanation": "মোলার = 1M, সেমি-মোলার = 0.5M, ডেসি-মোলার = 0.1M।"
+  },
+  {
+    "id": 72,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৭২. $$K_2Cr_2O_7$$ এ Cr এর জারণ সংখ্যা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "+3",
+      "b": "+6",
+      "c": "+7",
+      "d": "+5"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$2(+1) + 2x + 7(-2) = 0 \\Rightarrow 2 + 2x - 14 = 0 \\Rightarrow 2x = 12 \\Rightarrow x = +6$$"
+  },
+  {
+    "id": 73,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "৭৩. গ্যালভানাইজিং এ কোন ধাতুর প্রলেপ দেওয়া হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "Sn",
+      "b": "Zn",
+      "c": "Cu",
+      "d": "Ag"
+    },
+    "correctAnswer": "b",
+    "explanation": "লোহাকে মরিচা থেকে বাঁচাতে জিংক (Zn) এর প্রলেপ দেওয়াকে গ্যালভানাইজিং বলে।"
+  },
+  {
+    "id": 74,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "৭৪. লবণ সেতুতে কোনটি ব্যবহৃত হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$KNO_3$$",
+      "b": "$$NaCl$$",
+      "c": "$$HCl$$",
+      "d": "$$CuSO_4$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$KNO_3$$ বা $$KCl$$ এর সম্পৃক্ত দ্রবণ লবণ সেতুতে আগার-আগার জেলির সাথে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 75,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৭৫. নিচের কোনটি শক্তিশালী জারক?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$F_2$$",
+      "b": "$$Cl_2$$",
+      "c": "$$Br_2$$",
+      "d": "$$I_2$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "ফ্লোরিনের ইলেকট্রন আসক্তি এবং বিজারণ বিভব বেশি হওয়ায় এটি সবচেয়ে শক্তিশালী জারক।"
+  },
+  {
+    "id": 76,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৭৬. PPM এককে $$0.005 M NaCl$$ দ্রবণের ঘনমাত্রা কত? (NaCl = 58.5)",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "292.5",
+      "b": "585",
+      "c": "50",
+      "d": "500"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$PPM = Molarity \\times Molecular Weight \\times 1000 = 0.005 \\times 58.5 \\times 1000 = 292.5$$"
+  },
+  {
+    "id": 77,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৭৭. $$H_2SO_4$$ এর তুল্যসংখ্যা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$H_2SO_4$$ দুটি প্রোটন ($$H^+$$) দান করতে পারে, তাই এর তুল্যসংখ্যা ২।"
+  },
+  {
+    "id": 78,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "৭৮. নিচের কোনটি রিচার্জেবল ব্যাটারি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "শুষ্ক কোষ",
+      "b": "লেড স্টোরেজ ব্যাটারি",
+      "c": "ড্যানিয়েল সেল",
+      "d": "কোনোটিই নয়"
+    },
+    "correctAnswer": "b",
+    "explanation": "গাড়িতে ব্যবহৃত লেড স্টোরেজ ব্যাটারি পুনরায় চার্জ করা যায় (সেকেন্ডারি কোষ)।"
+  },
+  {
+    "id": 79,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "৭৯. প্রমাণ হাইড্রোজেন তড়িৎদ্বারের বিভব কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1.0 V",
+      "b": "0.0 V",
+      "c": "-0.76 V",
+      "d": "+0.34 V"
+    },
+    "correctAnswer": "b",
+    "explanation": "প্রমাণ হাইড্রোজেন তড়িৎদ্বারের বিভব আন্তর্জাতিকভাবে ০.০০ ভোল্ট ধরা হয়।"
+  },
+  {
+    "id": 80,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "৮০. ফুয়েল সেলে জ্বালানি হিসেবে কী ব্যবহৃত হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$H_2$$",
+      "b": "$$N_2$$",
+      "c": "$$He$$",
+      "d": "$$CO_2$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "হাইড্রোজেন ফুয়েল সেলে হাইড্রোজেন ও অক্সিজেনের বিক্রিয়ায় বিদ্যুৎ উৎপন্ন হয়।"
+  },
+  {
+    "id": 81,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "৮১. টয়লেট ক্লিনার এর প্রধান উপাদান কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "NaOH",
+      "b": "HCl",
+      "c": "$$H_2SO_4$$",
+      "d": "NaCl"
+    },
+    "correctAnswer": "a",
+    "explanation": "টয়লেট ক্লিনারে কস্টিক সোডা (NaOH) প্রধান ক্ষারীয় উপাদান হিসেবে থাকে।"
+  },
+  {
+    "id": 82,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "৮২. কাঁচ (Glass) কী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "সোডিয়াম সিলিকেট",
+      "b": "অতিশীতলীকৃত তরল",
+      "c": "স্ফটিক",
+      "d": "জেল"
+    },
+    "correctAnswer": "b",
+    "explanation": "কাঁচ কোনো সত্যিকারের কঠিন পদার্থ নয়, এটি একটি সুপার কুলড লিকুইড বা অতিশীতলীকৃত তরল।"
+  },
+  {
+    "id": 83,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "৮৩. সিরামিক শিল্পের প্রধান কাঁচামাল কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "সিলিকা",
+      "b": "মুলাইট",
+      "c": "চীনা মাটি (Kaolin)",
+      "d": "ফেলসপার"
+    },
+    "correctAnswer": "c",
+    "explanation": "চীনা মাটি বা কেউলিন ($$Al_2O_3 \\cdot 2SiO_2 \\cdot 2H_2O$$) সিরামিকের প্রধান উপাদান।"
+  },
+  {
+    "id": 84,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "৮৪. কোনটি খাদ্য সংরক্ষক (Preservative)?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "সোডিয়াম বেনজয়েট",
+      "b": "ফরমালিন",
+      "c": "মেলামাইন",
+      "d": "ডিডিটি"
+    },
+    "correctAnswer": "a",
+    "explanation": "সোডিয়াম বেনজয়েট অনুমোদিত ফুড প্রিজারভেটিভ।"
+  },
+  {
+    "id": 85,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "৮৫. চামড়া ট্যানিং এ কোনটি ব্যবহৃত হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "Cr(III) লবণ",
+      "b": "NaCl",
+      "c": "চুন",
+      "d": "এসিড"
+    },
+    "correctAnswer": "a",
+    "explanation": "ক্রোম ট্যানিং এ ক্রোমিয়ামের লবণ ব্যবহৃত হয় যা চামড়াকে টেকসই করে।"
+  },
+  {
+    "id": 86,
+    "subject": "Chemistry",
+    "topic": "Qualitative Chemistry",
+    "question": "৮৬. ন্যানো কণার আকার কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1-100 nm",
+      "b": "100-200 nm",
+      "c": ">1000 nm",
+      "d": "<1 nm"
+    },
+    "correctAnswer": "a",
+    "explanation": "১ থেকে ১০০ ন্যানোমিটার আকৃতির কণাকে ন্যানোকণা বলা হয়।"
+  },
+  {
+    "id": 87,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৮৭. নিচের কোনটি সাবান?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$RCOONa$$",
+      "b": "$$RSO_3Na$$",
+      "c": "$$RNH_2$$",
+      "d": "$$ROH$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "উচ্চতর ফ্যাটি এসিডের সোডিয়াম বা পটাশিয়াম লবণকে সাবান বলে।"
+  },
+  {
+    "id": 88,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "৮৮. বেকিং পাউডারের সংকেত কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$NaHCO_3$$",
+      "b": "$$Na_2CO_3$$",
+      "c": "$$CaCO_3$$",
+      "d": "$$CaO$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "সোডিয়াম বাইকার্বনেট ($$NaHCO_3$$) হলো বেকিং সোডা, এর সাথে টারটারিক এসিড মেশালে বেকিং পাউডার হয়।"
+  },
+  {
+    "id": 89,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৮৯. কোনটি জৈব এসিড?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$HCl$$",
+      "b": "$$HCN$$",
+      "c": "$$HCOOH$$",
+      "d": "$$HNO_3$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "ফরমিক এসিড ($$HCOOH$$) একটি জৈব এসিড, বাকিগুলো অজৈব।"
+  },
+  {
+    "id": 90,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "৯০. লাফিং গ্যাস কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$NO$$",
+      "b": "$$N_2O$$",
+      "c": "$$NO_2$$",
+      "d": "$$N_2O_5$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "নাইট্রাস অক্সাইড ($$N_2O$$) কে লাফিং গ্যাস বলা হয়।"
+  },
+  {
+    "id": 91,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "৯১. $$sp^3d$$ সংকরায়ণে অণুর আকৃতি কেমন?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ত্রিকোণাকার দ্বিপিরামিড",
+      "b": "অষ্টতলকীয়",
+      "c": "বর্গাকার",
+      "d": "সরলরৈখিক"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$PCl_5$$ এ $$sp^3d$$ সংকরায়ণ হয় এবং আকৃতি ত্রিকোণাকার দ্বিপিরামিডীয়।"
+  },
+  {
+    "id": 92,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question": "৯২. কোনটি সবচেয়ে শক্তিশালী এসিড?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$HClO$$",
+      "b": "$$HClO_2$$",
+      "c": "$$HClO_3$$",
+      "d": "$$HClO_4$$"
+    },
+    "correctAnswer": "d",
+    "explanation": "কেন্দ্রীয় পরমাণুর জারণ সংখ্যা বাড়লে এসিডের শক্তিমাত্রা বাড়ে। এখানে Cl এর জারণ সংখ্যা +7।"
+  },
+  {
+    "id": 93,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "৯৩. ব্রাইন (Brine) কী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "গলিত NaCl",
+      "b": "গাঢ় NaCl দ্রবণ",
+      "c": "NaCl এর লঘু দ্রবণ",
+      "d": "$$Na_2CO_3$$ দ্রবণ"
+    },
+    "correctAnswer": "b",
+    "explanation": "সোডিয়াম ক্লোরাইডের সম্পৃক্ত বা গাঢ় জলীয় দ্রবণকে ব্রাইন বলে।"
+  },
+  {
+    "id": 94,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "৯৪. কোনটি বিস্ফোরক পদার্থ?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "TNT",
+      "b": "NaCl",
+      "c": "Urea",
+      "d": "Glucose"
+    },
+    "correctAnswer": "a",
+    "explanation": "TNT একটি বিখ্যাত বিস্ফোরক।"
+  },
+  {
+    "id": 95,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "৯৫. রিসাইক্লিং এর প্রধান সুবিধা কী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "শক্তি সাশ্রয়",
+      "b": "খরচ বৃদ্ধি",
+      "c": "দূষণ বৃদ্ধি",
+      "d": "সময় নষ্ট"
+    },
+    "correctAnswer": "a",
+    "explanation": "পুনঃচক্রায়নের ফলে কাঁচামাল ও জ্বালানি সাশ্রয় হয়।"
+  },
+  {
+    "id": 96,
+    "subject": "Chemistry",
+    "topic": "Chemical Changes",
+    "question": "৯৬. $$pH + pOH =$$ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "7",
+      "b": "0",
+      "c": "14",
+      "d": "10"
+    },
+    "correctAnswer": "c",
+    "explanation": "পানির আয়নিক গুণফলের মান থেকে জানি, ২৫ ডিগ্রিতে $$pH + pOH = 14$$।"
+  },
+  {
+    "id": 97,
+    "subject": "Chemistry",
+    "topic": "Acids & Bases",
+    "question": "৯৭. নির্দেশক হিসেবে ব্যবহৃত হয় কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "দুর্বল জৈব এসিড বা ক্ষার",
+      "b": "শক্তিশালী এসিড",
+      "c": "লবণ",
+      "d": "ধাতু"
+    },
+    "correctAnswer": "a",
+    "explanation": "বেশিরভাগ এসিড-ক্ষার নির্দেশক দুর্বল জৈব এসিড বা ক্ষার হয়ে থাকে।"
+  },
+  {
+    "id": 98,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৯৮. ৫ গ্রাম NaOH দ্বারা ২৫০ মিলি দ্রবণ তৈরি করলে মোলারিটি কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0.5 M",
+      "b": "0.2 M",
+      "c": "1.0 M",
+      "d": "0.1 M"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$M = \\frac{1000w}{mV} = \\frac{1000 \\times 5}{40 \\times 250} = 0.5 M$$"
+  },
+  {
+    "id": 99,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "৯৯. শুষ্ক বরফ (Dry Ice) কী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "কঠিন $$H_2O$$",
+      "b": "কঠিন $$CO_2$$",
+      "c": "কঠিন $$N_2$$",
+      "d": "কঠিন $$SO_2$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "কঠিন কার্বন ডাই অক্সাইডকে শুষ্ক বরফ বা ড্রাই আইস বলে।"
+  },
+  {
+    "id": 100,
+    "subject": "General Knowledge",
+    "topic": "General Knowledge",
+    "question": "১০০. HUST কোন জেলায় অবস্থিত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ঢাকা",
+      "b": "রংপুর",
+      "c": "দিনাজপুর",
+      "d": "বগুড়া"
+    },
+    "correctAnswer": "c",
+    "explanation": "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (HUST) দিনাজপুরে অবস্থিত।"
+  }
+]

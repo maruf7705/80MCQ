@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "subject": "Biology",
+    "topic": "Botany - Cell Structure",
+    "question": "কোষের 'প্রোটিন ফ্যাক্টরি' বলা হয় কোনটিকে?",
+    "options": {
+      "a": "লাইসোজোম",
+      "b": "রাইবোজোম",
+      "c": "মাইটোকন্ড্রিয়া",
+      "d": "গলগি বডি"
+    },
+    "correctAnswer": "b",
+    "explanation": "রাইবোজোমে প্রোটিন সংশ্লেষণ হয় বলে একে কোষের প্রোটিন ফ্যাক্টরি বলা হয়।"
+  },
+  {
+    "id": 2,
+    "subject": "Biology",
+    "topic": "Botany - Cell Division",
+    "question": "ক্রসিং ওভার (Crossing over) মায়োসিসের কোন উপধাপে ঘটে?",
+    "options": {
+      "a": "লেপ্টোটিন",
+      "b": "জাইগোটিন",
+      "c": "প্যাকাইটিন",
+      "d": "ডিপ্লোটিন"
+    },
+    "correctAnswer": "c",
+    "explanation": "মায়োসিস-১ এর প্রোফেজ-১ এর প্যাকাইটিন উপধাপে নন-সিস্টার ক্রোমাটিডের মধ্যে অংশ বিনিময় বা ক্রসিং ওভার ঘটে।"
+  },
+  {
+    "id": 3,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "নিচের কোনটি C4 উদ্ভিদ?",
+    "options": {
+      "a": "ধান",
+      "b": "গম",
+      "c": "ভুট্টা",
+      "d": "আম"
+    },
+    "correctAnswer": "c",
+    "explanation": "ভুট্টা, আখ, মুথা ঘাস, নটে শাক হলো C4 উদ্ভিদ। ধান, গম, আম হলো C3 উদ্ভিদ।"
+  },
+  {
+    "id": 4,
+    "subject": "Biology",
+    "topic": "Zoology - Blood",
+    "question": "হৃৎপিণ্ডের প্রাকৃতিক পেসমেকার (Natural Pacemaker) কোনটি?",
+    "options": {
+      "a": "AV Node",
+      "b": "SA Node",
+      "c": "Purkinje fiber",
+      "d": "Bundle of His"
+    },
+    "correctAnswer": "b",
+    "explanation": "SA Node (Sino-Atrial Node) নিজেই উদ্দীপনা তৈরি করে হৃৎস্পন্দন নিয়ন্ত্রণ করে, তাই একে প্রাকৃতিক পেসমেকার বলে।"
+  },
+  {
+    "id": 5,
+    "subject": "Biology",
+    "topic": "Zoology - Digestion",
+    "question": "মানুষের লালারসে কোন এনজাইম থাকে?",
+    "options": {
+      "a": "পেপসিন",
+      "b": "টায়ালিন",
+      "c": "ট্রিপসিন",
+      "d": "লাইপেজ"
+    },
+    "correctAnswer": "b",
+    "explanation": "লালারসে টায়ালিন (Salivary Amylase) ও মল্টেজ থাকে যা শর্করা পরিপাক করে।"
+  },
+  {
+    "id": 6,
+    "subject": "Biology",
+    "topic": "Botany - Biotechnology",
+    "question": "‘আণবিক কাঁচি’ (Molecular Scissor) বলা হয় কোন এনজাইমকে?",
+    "options": {
+      "a": "লাইগেজ",
+      "b": "পলিমারেজ",
+      "c": "রেস্ট্রিকশন এনজাইম",
+      "d": "এমাইলেজ"
+    },
+    "correctAnswer": "c",
+    "explanation": "রেস্ট্রিকশন এনজাইম ডিএনএ-এর নির্দিষ্ট অংশ কাটতে ব্যবহৃত হয়। লাইগেজ এনজাইম জোড়া লাগাতে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 7,
+    "subject": "Biology",
+    "topic": "Zoology - Genetics",
+    "question": "মেন্ডেলের ২য় সূত্রের ফিনোটাইপিক অনুপাত কোনটি?",
+    "options": {
+      "a": "৩:১",
+      "b": "৯:৩:৩:১",
+      "c": "১:২:১",
+      "d": "৯:৭"
+    },
+    "correctAnswer": "b",
+    "explanation": "মেন্ডেলের ২য় সূত্র বা স্বাধীনভাবে মিলনের সূত্রের অনুপাত ৯:৩:৩:১। ১ম সূত্রের অনুপাত ৩:১।"
+  },
+  {
+    "id": 8,
+    "subject": "Biology",
+    "topic": "Botany - Microbes",
+    "question": "কোনটি DNA ভাইরাস?",
+    "options": {
+      "a": "করোনা ভাইরাস",
+      "b": "HIV",
+      "c": "T2 ফাজ",
+      "d": "ডেঙ্গু"
+    },
+    "correctAnswer": "c",
+    "explanation": "T2 ফাজ, ভেরিওলা, ভ্যাক্সিনিয়া, হেপাটাইটিস-বি হলো DNA ভাইরাস। বাকিগুলো RNA ভাইরাস।"
+  },
+  {
+    "id": 9,
+    "subject": "Biology",
+    "topic": "Zoology - Diversity",
+    "question": "নেমাটোসিস্ট কোন পর্বের প্রাণীতে পাওয়া যায়?",
+    "options": {
+      "a": "Porifera",
+      "b": "Cnidaria",
+      "c": "Platyhelminthes",
+      "d": "Nematoda"
+    },
+    "correctAnswer": "b",
+    "explanation": "নিডারিয়া (Cnidaria) পর্বের প্রাণীদের নিডোক্লাস্ট কোষে নেমাটোসিস্ট থাকে।"
+  },
+  {
+    "id": 10,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "গ্লাইকোলাইসিস প্রক্রিয়ায় এক অণু গ্লুকোজ থেকে কত অণু পাইরুভিক এসিড তৈরি হয়?",
+    "options": {
+      "a": "১ অণু",
+      "b": "২ অণু",
+      "c": "৩ অণু",
+      "d": "৪ অণু"
+    },
+    "correctAnswer": "b",
+    "explanation": "গ্লাইকোলাইসিসে ১ অণু গ্লুকোজ ভেঙে ২ অণু পাইরুভিক এসিড তৈরি হয়।"
+  },
+  {
+    "id": 11,
+    "subject": "Biology",
+    "topic": "Zoology - Blood",
+    "question": "সার্বজনীন দাতা (Universal Donor) কোন ব্লাড গ্রুপ?",
+    "options": {
+      "a": "A+",
+      "b": "B+",
+      "c": "AB+",
+      "d": "O-"
+    },
+    "correctAnswer": "d",
+    "explanation": "O নেগেটিভ রক্তে কোনো অ্যান্টিজেন থাকে না, তাই এটি সবাইকে রক্ত দিতে পারে।"
+  },
+  {
+    "id": 12,
+    "subject": "Biology",
+    "topic": "Botany - Cell Structure",
+    "question": "নিচের কোনটি স্টার্ট কোডন (Start Codon)?",
+    "options": {
+      "a": "UAA",
+      "b": "UAG",
+      "c": "AUG",
+      "d": "UGA"
+    },
+    "correctAnswer": "c",
+    "explanation": "AUG হলো স্টার্ট কোডন যা মেথিওনিন নির্দেশ করে।"
+  },
+  {
+    "id": 13,
+    "subject": "Biology",
+    "topic": "Zoology - Grasshopper",
+    "question": "ঘাসফড়িং এর রক্ত সংবহনতন্ত্র কোন ধরনের?",
+    "options": {
+      "a": "বদ্ধ",
+      "b": "মুক্ত",
+      "c": "অর্ধ-বদ্ধ",
+      "d": "নালিকা বিহীন"
+    },
+    "correctAnswer": "b",
+    "explanation": "আর্থ্রোপোডা পর্বের প্রাণীদের (যেমন ঘাসফড়িং) রক্ত সংবহনতন্ত্র মুক্ত (Open) প্রকৃতির।"
+  },
+  {
+    "id": 14,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "পত্ররন্ধ্র খোলা ও বন্ধ হওয়া নিয়ন্ত্রণ করে কোন আয়ন?",
+    "options": {
+      "a": "Na+",
+      "b": "K+",
+      "c": "Ca2+",
+      "d": "Mg2+"
+    },
+    "correctAnswer": "b",
+    "explanation": "পটাশিয়াম আয়ন (K+) মতবাদ অনুযায়ী রক্ষীকোষে K+ প্রবেশ করলে পত্ররন্ধ্র খোলে।"
+  },
+  {
+    "id": 15,
+    "subject": "Biology",
+    "topic": "Zoology - Genetics",
+    "question": "লিথাল জিনের প্রভাবে ফিনোটাইপিক অনুপাত কত হয়?",
+    "options": {
+      "a": "৩:১",
+      "b": "২:১",
+      "c": "১:২:১",
+      "d": "৯:৭"
+    },
+    "correctAnswer": "b",
+    "explanation": "লিথাল জিনের কারণে হোমোজাইগাস অবস্থায় জীবের মৃত্যু ঘটে, তাই ৩:১ এর পরিবর্তে ২:১ হয়।"
+  },
+  {
+    "id": 16,
+    "subject": "Biology",
+    "topic": "Botany - Biotechnology",
+    "question": "গোল্ডেন রাইসে কোন ভিটামিন বেশি থাকে?",
+    "options": {
+      "a": "ভিটামিন সি",
+      "b": "ভিটামিন এ",
+      "c": "ভিটামিন বি",
+      "d": "ভিটামিন ডি"
+    },
+    "correctAnswer": "b",
+    "explanation": "গোল্ডেন রাইসে বিটা ক্যারোটিন জিন প্রবেশ করানো হয়েছে যা দেহে ভিটামিন-এ তৈরি করে।"
+  },
+  {
+    "id": 17,
+    "subject": "Biology",
+    "topic": "Zoology - Digestion",
+    "question": "মানবদেহের সবচেয়ে বড় গ্রন্থি কোনটি?",
+    "options": {
+      "a": "অগ্ন্যাশয়",
+      "b": "যকৃত",
+      "c": "পিটুইটারি",
+      "d": "থাইরয়েড"
+    },
+    "correctAnswer": "b",
+    "explanation": "যকৃত (Liver) মানবদেহের সবচেয়ে বড় গ্রন্থি। একে জৈব রসায়নাগার বলা হয়।"
+  },
+  {
+    "id": 18,
+    "subject": "Biology",
+    "topic": "Botany - Cell Division",
+    "question": "কোষ বিভাজনের কোন ধাপে ক্রোমোজোমগুলো 'V', 'L', 'J', 'I' আকৃতি ধারণ করে?",
+    "options": {
+      "a": "প্রোফেজ",
+      "b": "মেটাফেজ",
+      "c": "অ্যানাফেজ",
+      "d": "টেলোফেজ"
+    },
+    "correctAnswer": "c",
+    "explanation": "অ্যানাফেজ ধাপে সেন্ট্রোমিয়ারের অবস্থান অনুযায়ী ক্রোমোজোমগুলো মেটাসেন্ট্রিক (V), সাব-মেটাসেন্ট্রিক (L), অ্যাক্রোসেন্ট্রিক (J) ও টেলোসেন্ট্রিক (I) হয়।"
+  },
+  {
+    "id": 19,
+    "subject": "Biology",
+    "topic": "Zoology - Hydra",
+    "question": "হাইড্রার দ্রুত চলন প্রক্রিয়া কোনটি?",
+    "options": {
+      "a": "লুপিং",
+      "b": "সমারসল্টিং",
+      "c": "গ্লাইডিং",
+      "d": "সাঁতার"
+    },
+    "correctAnswer": "b",
+    "explanation": "সমারসল্টিং বা ডিগবাজি হলো হাইড্রার দ্রুত চলন প্রক্রিয়া।"
+  },
+  {
+    "id": 20,
+    "subject": "Biology",
+    "topic": "Botany - Cell Structure",
+    "question": "DNA তে কোনটি থাকে না?",
+    "options": {
+      "a": "অ্যাডিনিন",
+      "b": "গুয়ানিন",
+      "c": "ইউরাসিল",
+      "d": "থাইমিন"
+    },
+    "correctAnswer": "c",
+    "explanation": "DNA তে থাইমিন থাকে, কিন্তু RNA তে থাইমিনের পরিবর্তে ইউরাসিল থাকে।"
+  },
+  {
+    "id": 21,
+    "subject": "Biology",
+    "topic": "Zoology - Respiration",
+    "question": "শ্বসনিক বৃক্ষ (Respiratory Tree) কোথায় থাকে?",
+    "options": {
+      "a": "ফুলকায়",
+      "b": "ফুসফুসে",
+      "c": "ত্বকে",
+      "d": "ট্রাকিয়ায়"
+    },
+    "correctAnswer": "b",
+    "explanation": "মানুষের ফুসফুসের ব্রঙ্কিওলগুলোর শাখা-প্রশাখা দেখতে উল্টানো গাছের মতো, তাই একে শ্বসনিক বৃক্ষ বলে।"
+  },
+  {
+    "id": 22,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "ক্রেবস চক্রে (Krebs Cycle) কতটি ATP উৎপন্ন হয়? (আধুনিক মতবাদ)",
+    "options": {
+      "a": "24",
+      "b": "38",
+      "c": "20",
+      "d": "12"
+    },
+    "correctAnswer": "c",
+    "explanation": "আধুনিক মতে ক্রেবস চক্রে ২ অণু অ্যাসিটাইল CoA থেকে ২০ অণু ATP উৎপন্ন হয়।"
+  },
+  {
+    "id": 23,
+    "subject": "Biology",
+    "topic": "Zoology - Movement",
+    "question": "মানবদেহে মোট অস্থির সংখ্যা কত?",
+    "options": {
+      "a": "২০৬",
+      "b": "২০৮",
+      "c": "৩০০",
+      "d": "১০০"
+    },
+    "correctAnswer": "a",
+    "explanation": "পূর্ণবয়স্ক মানুষের দেহে ২০৬টি এবং শিশুদের দেহে প্রায় ৩০০টি অস্থি থাকে।"
+  },
+  {
+    "id": 24,
+    "subject": "Biology",
+    "topic": "Botany - Biotechnology",
+    "question": "টিস্যু কালচারের জনক কে?",
+    "options": {
+      "a": "হ্যালবারল্যান্ড",
+      "b": "মেন্ডেল",
+      "c": "ডারউইন",
+      "d": "হুক"
+    },
+    "correctAnswer": "a",
+    "explanation": "জার্মান বিজ্ঞানী গোটলিব হ্যালবারল্যান্ডকে টিস্যু কালচারের জনক বলা হয়।"
+  },
+  {
+    "id": 25,
+    "subject": "Biology",
+    "topic": "Zoology - Blood",
+    "question": "রক্ত তঞ্চনে সহায়তা করে কোন প্রোটিন?",
+    "options": {
+      "a": "অ্যালবুমিন",
+      "b": "গ্লোবিউলিন",
+      "c": "ফাইব্রিনোজেন",
+      "d": "হিমোগ্লোবিন"
+    },
+    "correctAnswer": "c",
+    "explanation": "ফাইব্রিনোজেন রক্ত তঞ্চনের অন্যতম প্রধান ফ্যাক্টর।"
+  },
+  {
+    "id": 26,
+    "subject": "Biology",
+    "topic": "Botany - Tissue",
+    "question": "মূলের ভাস্কুলার বান্ডল কোন ধরনের?",
+    "options": {
+      "a": "সমপার্শ্বীয়",
+      "b": "অরীয়",
+      "c": "কেন্দ্রিক",
+      "d": "বিপরীত"
+    },
+    "correctAnswer": "b",
+    "explanation": "মূলে জাইলেম ও ফ্লোয়েম ভিন্ন ভিন্ন ব্যাসার্ধে থাকে, তাই এটি অরীয় (Radial)।"
+  },
+  {
+    "id": 27,
+    "subject": "Biology",
+    "topic": "Zoology - Genetics",
+    "question": "মানুষের সেক্স ক্রোমোজোম কয়টি?",
+    "options": {
+      "a": "২২ জোড়া",
+      "b": "১ জোড়া",
+      "c": "৪৬টি",
+      "d": "২৩ জোড়া"
+    },
+    "correctAnswer": "b",
+    "explanation": "২৩ জোড়া ক্রোমোজোমের মধ্যে ১ জোড়া সেক্স ক্রোমোজোম (XX বা XY)।"
+  },
+  {
+    "id": 28,
+    "subject": "Biology",
+    "topic": "Botany - Cell Structure",
+    "question": "কোষের 'ট্রাফিক পুলিশ' বলা হয় কোনটিকে?",
+    "options": {
+      "a": "লাইসোজোম",
+      "b": "গলগি বডি",
+      "c": "এন্ডোপ্লাজমিক রেটিকুলাম",
+      "d": "প্লাস্টিড"
+    },
+    "correctAnswer": "b",
+    "explanation": "গলগি বডি কোষের নিঃসরণ ও পরিবহন নিয়ন্ত্রণ করে বলে একে ট্রাফিক পুলিশ বলে।"
+  },
+  {
+    "id": 29,
+    "subject": "Biology",
+    "topic": "Zoology - Digestion",
+    "question": "পাকস্থলী থেকে ক্ষরিত এসিড কোনটি?",
+    "options": {
+      "a": "H2SO4",
+      "b": "HCl",
+      "c": "HNO3",
+      "d": "Acetic Acid"
+    },
+    "correctAnswer": "b",
+    "explanation": "পাকস্থলীর প্যারাইটাল কোষ থেকে HCl (হাইড্রোক্লোরিক এসিড) ক্ষরিত হয়।"
+  },
+  {
+    "id": 30,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "C4 চক্রের প্রথম স্থায়ী পদার্থ কোনটি?",
+    "options": {
+      "a": "ফসফোগ্লিসারিক এসিড",
+      "b": "অক্সালো অ্যাসিটিক এসিড",
+      "c": "ম্যালিক এসিড",
+      "d": "পাইরুভিক এসিড"
+    },
+    "correctAnswer": "b",
+    "explanation": "C4 চক্রে প্রথম স্থায়ী যৌগ ৪ কার্বন বিশিষ্ট অক্সালো অ্যাসিটিক এসিড (OAA)।"
+  },
+  {
+    "id": 31,
+    "subject": "Biology",
+    "topic": "Zoology - Rohu Fish",
+    "question": "রুই মাছের আইশ কোন ধরনের?",
+    "options": {
+      "a": "প্ল্যাকয়েড",
+      "b": "গ্যানয়েড",
+      "c": "টিনয়েড",
+      "d": "সাইক্লয়েড"
+    },
+    "correctAnswer": "d",
+    "explanation": "রুই মাছের আইশ গোলাকার এবং সাইক্লয়েড ধরনের।"
+  },
+  {
+    "id": 32,
+    "subject": "Biology",
+    "topic": "Botany - Microbes",
+    "question": "ম্যালেরিয়া জীবাণুর কোন দশাটি মশার লালাগ্রন্থিতে থাকে?",
+    "options": {
+      "a": "উওকিনেট",
+      "b": "স্পোরোজয়েট",
+      "c": "মেরোজয়েট",
+      "d": "ট্রফোজয়েট"
+    },
+    "correctAnswer": "b",
+    "explanation": "স্পোরোজয়েট মশার লালাগ্রন্থিতে থাকে এবং দংশনের মাধ্যমে মানবদেহে প্রবেশ করে।"
+  },
+  {
+    "id": 33,
+    "subject": "Biology",
+    "topic": "Zoology - Blood",
+    "question": "হৃৎপিণ্ডের কোন কপাটিকা বাম অলিন্দ ও বাম নিলয়ের মাঝে থাকে?",
+    "options": {
+      "a": "ট্রাইকাসপিড",
+      "b": "বাইকাসপিড (মিট্রাল)",
+      "c": "পালমোনারি",
+      "d": "অ্যাওর্টিক"
+    },
+    "correctAnswer": "b",
+    "explanation": "বাম অলিন্দ ও বাম নিলয়ের মাঝে বাইকাসপিড বা মিট্রাল কপাটিকা থাকে।"
+  },
+  {
+    "id": 34,
+    "subject": "Biology",
+    "topic": "Botany - Biotechnology",
+    "question": "প্লাজমিড কী?",
+    "options": {
+      "a": "ভাইরাসের DNA",
+      "b": "ব্যাকটেরিয়ার মূল ক্রোমোজোম",
+      "c": "ব্যাকটেরিয়ার অতিরিক্ত বৃত্তাকার DNA",
+      "d": "ছত্রাকের DNA"
+    },
+    "correctAnswer": "c",
+    "explanation": "ব্যাকটেরিয়ার কোষে মূল ক্রোমোজোম ছাড়াও যে অতিরিক্ত বৃত্তাকার দ্বিসূত্রক DNA থাকে তাকে প্লাজমিড বলে।"
+  },
+  {
+    "id": 35,
+    "subject": "Biology",
+    "topic": "Zoology - Genetics",
+    "question": "সেক্স লিংকড ডিসঅর্ডার কোনটি?",
+    "options": {
+      "a": "থ্যালাসেমিয়া",
+      "b": "বর্ণান্ধতা",
+      "c": "ডায়াবেটিস",
+      "d": "ক্যান্সার"
+    },
+    "correctAnswer": "b",
+    "explanation": "বর্ণান্ধতা ও হিমোফিলিয়া হলো X-লিংকড বা সেক্স লিংকড প্রচ্ছন্ন রোগ।"
+  },
+  {
+    "id": 36,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "সবচেয়ে বেশি প্রস্বেদন হয় কোন পথে?",
+    "options": {
+      "a": "কিউটিকুলার",
+      "b": "লেনটিকুলার",
+      "c": "পত্ররন্ধ্রীয়",
+      "d": "কোনোটিই নয়"
+    },
+    "correctAnswer": "c",
+    "explanation": "শতকরা ৯০-৯৫ ভাগ প্রস্বেদন পত্ররন্ধ্রের মাধ্যমে হয়।"
+  },
+  {
+    "id": 37,
+    "subject": "Biology",
+    "topic": "Zoology - Diversity",
+    "question": "শিখা কোষ (Flame Cell) কোন পর্বের রেচন অঙ্গ?",
+    "options": {
+      "a": "Nematoda",
+      "b": "Platyhelminthes",
+      "c": "Annelida",
+      "d": "Arthropoda"
+    },
+    "correctAnswer": "b",
+    "explanation": "প্লাটিহেলমিনথিস বা চ্যাপ্টা কৃমির রেচন অঙ্গের নাম শিখা কোষ।"
+  },
+  {
+    "id": 38,
+    "subject": "Biology",
+    "topic": "Botany - Cell Division",
+    "question": "সিন্যাপসিস ঘটে কোন ধাপে?",
+    "options": {
+      "a": "লেপ্টোটিন",
+      "b": "জাইগোটিন",
+      "c": "প্যাকাইটিন",
+      "d": "ডায়াকাইনেসিস"
+    },
+    "correctAnswer": "b",
+    "explanation": "জাইগোটিন উপপর্যায়ে হোমোলগাস ক্রোমোজোম জোড়া বাঁধে, যাকে সিন্যাপসিস বলে।"
+  },
+  {
+    "id": 39,
+    "subject": "Biology",
+    "topic": "Zoology - Movement",
+    "question": "টেনডন (Tendon) কী যুক্ত করে?",
+    "options": {
+      "a": "হাড় ও হাড়",
+      "b": "পেশি ও হাড়",
+      "c": "পেশি ও পেশি",
+      "d": "স্নায়ু ও পেশি"
+    },
+    "correctAnswer": "b",
+    "explanation": "টেনডন পেশিকে হাড়ের সাথে যুক্ত করে। লিগামেন্ট হাড়কে হাড়ের সাথে যুক্ত করে।"
+  },
+  {
+    "id": 40,
+    "subject": "Biology",
+    "topic": "Botany - Cell Structure",
+    "question": "আত্মঘাতী থলিকা (Suicidal Squad) কোনটি?",
+    "options": {
+      "a": "লাইসোজোম",
+      "b": "রাইবোজোম",
+      "c": "গলগি বডি",
+      "d": "সেন্ট্রিওল"
+    },
+    "correctAnswer": "a",
+    "explanation": "লাইসোসোম এনজাইম ছড়িয়ে দিয়ে কোষকে ধ্বংস করে দিতে পারে, তাই একে আত্মঘাতী থলিকা বলে।"
+  },
+  {
+    "id": 41,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "কোন আলোতে সালোকসংশ্লেষণ সবচেয়ে বেশি হয়?",
+    "options": {
+      "a": "সবুজ",
+      "b": "নীল",
+      "c": "লাল",
+      "d": "বেগুনী"
+    },
+    "correctAnswer": "c",
+    "explanation": "লাল আলোতে সালোকসংশ্লেষণের হার সর্বাধিক, এরপর নীল। সবুজ আলোতে হয় না বললেই চলে।"
+  },
+  {
+    "id": 42,
+    "subject": "Biology",
+    "topic": "Zoology - Genetics",
+    "question": "দ্বৈত প্রচ্ছন্ন এপিস্ট্যাসিস এর অনুপাত কত?",
+    "options": {
+      "a": "৯:৭",
+      "b": "১৩:৩",
+      "c": "৯:৩:৪",
+      "d": "১২:৩:১"
+    },
+    "correctAnswer": "a",
+    "explanation": "দ্বৈত প্রচ্ছন্ন এপিস্ট্যাসিসের অনুপাত ৯:৭ (মানুষের মূক-বধিরতা)।"
+  },
+  {
+    "id": 43,
+    "subject": "Biology",
+    "topic": "Botany - Biotechnology",
+    "question": "ইনসুলিন তৈরির জন্য কোন ব্যাকটেরিয়া ব্যবহৃত হয়?",
+    "options": {
+      "a": "E. coli",
+      "b": "Agrobacterium",
+      "c": "Bacillus",
+      "d": "Salmonella"
+    },
+    "correctAnswer": "a",
+    "explanation": "রিকম্বিন্যান্ট DNA প্রযুক্তিতে E. coli ব্যাকটেরিয়ার প্লাজমিড ব্যবহার করে ইনসুলিন তৈরি করা হয়।"
+  },
+  {
+    "id": 44,
+    "subject": "Biology",
+    "topic": "Zoology - Digestion",
+    "question": "কোন এনজাইম দুগ্ধ প্রোটিন পরিপাক করে?",
+    "options": {
+      "a": "পেপসিন",
+      "b": "রেনিন",
+      "c": "লাইপেজ",
+      "d": "অ্যামাইলেজ"
+    },
+    "correctAnswer": "b",
+    "explanation": "রেনিন (Renin) শিশুদের পাকস্থলীতে দুগ্ধ প্রোটিন কেসিনকে প্যারাকেসিনে পরিণত করে।"
+  },
+  {
+    "id": 45,
+    "subject": "Biology",
+    "topic": "Botany - Cell Structure",
+    "question": "কোষের 'পাওয়ার হাউস' কোনটি?",
+    "options": {
+      "a": "নিউক্লিয়াস",
+      "b": "মাইটোকন্ড্রিয়া",
+      "c": "ক্লোরোপ্লাস্ট",
+      "d": "রাইবোজোম"
+    },
+    "correctAnswer": "b",
+    "explanation": "মাইটোকন্ড্রিয়ায় শ্বসনের মাধ্যমে শক্তি (ATP) উৎপন্ন হয়।"
+  },
+  {
+    "id": 46,
+    "subject": "Biology",
+    "topic": "Zoology - Grasshopper",
+    "question": "ঘাসফড়িং এর দর্শন একককে কী বলে?",
+    "options": {
+      "a": "ওসেলি",
+      "b": "ওমাটিডিয়াম",
+      "c": "রেটিনা",
+      "d": "লেন্স"
+    },
+    "correctAnswer": "b",
+    "explanation": "ঘাসফড়িং এর পুঞ্জাক্ষির গঠন ও কাজের একক হলো ওমাটিডিয়াম।"
+  },
+  {
+    "id": 47,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "অবাধ শ্বসনে এক অণু গ্লুকোজ থেকে কতটি ATP পাওয়া যায়?",
+    "options": {
+      "a": "38",
+      "b": "36",
+      "c": "2",
+      "d": "4"
+    },
+    "correctAnswer": "c",
+    "explanation": "অবাধ শ্বসনে নিট ২টি ATP উৎপন্ন হয়।"
+  },
+  {
+    "id": 48,
+    "subject": "Biology",
+    "topic": "Zoology - Genetics",
+    "question": "Rh ফ্যাক্টর কে আবিষ্কার করেন?",
+    "options": {
+      "a": "ল্যান্ডস্টেইনার ও উইনার",
+      "b": "মেন্ডেল",
+      "c": "ডারউইন",
+      "d": "হার্ভে"
+    },
+    "correctAnswer": "a",
+    "explanation": "কার্ল ল্যান্ডস্টেইনার এবং উইনার রেসাস বানরের রক্ত থেকে Rh ফ্যাক্টর আবিষ্কার করেন।"
+  },
+  {
+    "id": 49,
+    "subject": "Biology",
+    "topic": "Botany - Cell Division",
+    "question": "কোষ চক্রের কোন ধাপে DNA অনুলিপন (Replication) হয়?",
+    "options": {
+      "a": "G1 দশা",
+      "b": "S দশা",
+      "c": "G2 দশা",
+      "d": "M দশা"
+    },
+    "correctAnswer": "b",
+    "explanation": "ইন্টারফেজের S দশায় (Synthesis phase) DNA এর প্রতিলিপন বা রেপ্লিকেশন ঘটে।"
+  },
+  {
+    "id": 50,
+    "subject": "Biology",
+    "topic": "Zoology - Blood",
+    "question": "রক্তের pH কত?",
+    "options": {
+      "a": "৬.৫-৭.০",
+      "b": "৭.৩৫-৭.৪৫",
+      "c": "৮.০-৮.৫",
+      "d": "৫.৫-৬.৫"
+    },
+    "correctAnswer": "b",
+    "explanation": "মানুষের রক্তের স্বাভাবিক pH ৭.৩৫ থেকে ৭.৪৫, যা সামান্য ক্ষারীয়।"
+  },
+  {
+    "id": 51,
+    "subject": "Biology",
+    "topic": "Botany - Cell Structure",
+    "question": "70S রাইবোজোম কোথায় পাওয়া যায়?",
+    "options": {
+      "a": "আদি কোষ ও মাইটোকন্ড্রিয়াতে",
+      "b": "প্রকৃত কোষে",
+      "c": "লাইসোজোমে",
+      "d": "গলগি বডিতে"
+    },
+    "correctAnswer": "a",
+    "explanation": "আদি কোষে এবং প্রকৃত কোষের মাইটোকন্ড্রিয়া ও ক্লোরোপ্লাস্টে 70S রাইবোজোম থাকে।"
+  },
+  {
+    "id": 52,
+    "subject": "Biology",
+    "topic": "Zoology - Diversity",
+    "question": "হিমোসিল (Haemocoel) পাওয়া যায় কোন পর্বে?",
+    "options": {
+      "a": "Arthropoda",
+      "b": "Annelida",
+      "c": "Chordata",
+      "d": "Nematoda"
+    },
+    "correctAnswer": "a",
+    "explanation": "আর্থ্রোপোডা (যেমন চিংড়ি, ঘাসফড়িং) পর্বের প্রাণীদের দেহগহ্বর রক্তে পূর্ণ থাকে, একে হিমোসিল বলে।"
+  },
+  {
+    "id": 53,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "কেলভিন চক্রে CO2 গ্রহীতা কে?",
+    "options": {
+      "a": "RuBP",
+      "b": "PGA",
+      "c": "OAA",
+      "d": "PEP"
+    },
+    "correctAnswer": "a",
+    "explanation": "C3 চক্র বা কেলভিন চক্রে রাইবুলোজ-১,৫-বিসফসফেট (RuBP) কার্বন ডাই-অক্সাইড গ্রহণ করে।"
+  },
+  {
+    "id": 54,
+    "subject": "Biology",
+    "topic": "Zoology - Genetics",
+    "question": "অসম্পূর্ণ প্রকটতার অনুপাত কত?",
+    "options": {
+      "a": "৩:১",
+      "b": "১:২:১",
+      "c": "৯:৭",
+      "d": "১৩:৩"
+    },
+    "correctAnswer": "b",
+    "explanation": "সন্ধ্যামালতী ফুলে অসম্পূর্ণ প্রকটতার কারণে লাল ও সাদা ফুলের ক্রসে গোলাপি ফুল হয় এবং F2 জনুতে অনুপাত ১:২:১ হয়।"
+  },
+  {
+    "id": 55,
+    "subject": "Biology",
+    "topic": "Botany - Biotechnology",
+    "question": "টিস্যু কালচারে ব্যবহৃত উদ্ভিদাংশকে কী বলে?",
+    "options": {
+      "a": "এক্সপ্ল্যান্ট",
+      "b": "ক্যালাস",
+      "c": "প্ল্যান্টলেট",
+      "d": "সোমাটিক এমব্রায়ো"
+    },
+    "correctAnswer": "a",
+    "explanation": "মাতৃউদ্ভিদ থেকে যে অংশটি কালচারের জন্য পৃথক করা হয় তাকে এক্সপ্ল্যান্ট বলে।"
+  },
+  {
+    "id": 56,
+    "subject": "Biology",
+    "topic": "Zoology - Hydra",
+    "question": "হাইড্রার দেহপ্রাচীরের মেসোগ্লিয়াতে কোন তন্তু থাকে না?",
+    "options": {
+      "a": "ইলাস্টিন",
+      "b": "কোলাজেন",
+      "c": "স্নায়ুতন্তু",
+      "d": "কোনোটিই থাকে না"
+    },
+    "correctAnswer": "d",
+    "explanation": "মেসোগ্লিয়া হলো অকোষীয় জেলির মতো স্তর। এতে কোনো তন্তু বা কোষ থাকে না।"
+  },
+  {
+    "id": 57,
+    "subject": "Biology",
+    "topic": "Botany - Microbes",
+    "question": "ধানের ব্লাইট রোগ সৃষ্টি করে কোনটি?",
+    "options": {
+      "a": "ভাইরাস",
+      "b": "ব্যাকটেরিয়া",
+      "c": "ছত্রাক",
+      "d": "শৈবাল"
+    },
+    "correctAnswer": "b",
+    "explanation": "Xanthomonas oryzae নামক ব্যাকটেরিয়া ধানের ব্লাইট রোগ সৃষ্টি করে।"
+  },
+  {
+    "id": 58,
+    "subject": "Biology",
+    "topic": "Zoology - Respiration",
+    "question": "শ্বসনিক বৃক্ষ (Respiratory Tree) কোথায় পাওয়া যায়?",
+    "options": {
+      "a": "ফুলকায়",
+      "b": "ফুসফুসে",
+      "c": "ত্বকে",
+      "d": "ট্রাকিয়ায়"
+    },
+    "correctAnswer": "b",
+    "explanation": "মানুষের ফুসফুসের ব্রঙ্কিওলগুলোর শাখা-প্রশাখা দেখতে উল্টানো গাছের মতো, তাই একে শ্বসনিক বৃক্ষ বলে।"
+  },
+  {
+    "id": 59,
+    "subject": "Biology",
+    "topic": "Botany - Tissue",
+    "question": "জাইলেম ও ফ্লোয়েমের মাঝে ক্যাম্বিয়াম থাকলে তাকে কোন ধরনের ভাস্কুলার বান্ডল বলে?",
+    "options": {
+      "a": "বদ্ধ সমপার্শ্বীয়",
+      "b": "মুক্ত সমপার্শ্বীয়",
+      "c": "অরিয়",
+      "d": "কেন্দ্রিক"
+    },
+    "correctAnswer": "b",
+    "explanation": "দ্বিবীজপত্রী উদ্ভিদের কাণ্ডে মুক্ত সমপার্শ্বীয় ভাস্কুলার বান্ডল থাকে (মাঝখানে ক্যাম্বিয়াম থাকে)।"
+  },
+  {
+    "id": 60,
+    "subject": "Biology",
+    "topic": "Zoology - Digestion",
+    "question": "স্থূলতার জন্য দায়ী হরমোন কোনটি?",
+    "options": {
+      "a": "ইনসুলিন",
+      "b": "লেপটিন",
+      "c": "থাইরক্সিন",
+      "d": "অ্যাড্রেনালিন"
+    },
+    "correctAnswer": "b",
+    "explanation": "লেপটিন হরমোন ক্ষুধা নিয়ন্ত্রণ করে। এর অসামঞ্জস্যতা স্থূলতার কারণ হতে পারে।"
+  },
+  {
+    "id": 61,
+    "subject": "Biology",
+    "topic": "Botany - Cell Structure",
+    "question": "DNA ডাবল হেলিক্স মডেল কে দেন?",
+    "options": {
+      "a": "ডারউইন",
+      "b": "ল্যামার্ক",
+      "c": "ওয়াটসন ও ক্রিক",
+      "d": "মেন্ডেল"
+    },
+    "correctAnswer": "c",
+    "explanation": "১৯৫৩ সালে ওয়াটসন ও ক্রিক DNA এর ডাবল হেলিক্স মডেল প্রদান করেন।"
+  },
+  {
+    "id": 62,
+    "subject": "Biology",
+    "topic": "Zoology - Circulation",
+    "question": "রক্তচাপ মাপার যন্ত্রের নাম কী?",
+    "options": {
+      "a": "ব্যারোমিটার",
+      "b": "স্ফিগমোম্যানোমিটার",
+      "c": "ল্যাকটোমিটার",
+      "d": "থার্মোমিটার"
+    },
+    "correctAnswer": "b",
+    "explanation": "স্ফিগমোম্যানোমিটার দিয়ে রক্তচাপ (Blood Pressure) মাপা হয়।"
+  },
+  {
+    "id": 63,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "শালোকসংশ্লেষণে নির্গত অক্সিজেনের উৎস কী?",
+    "options": {
+      "a": "CO2",
+      "b": "পানি (H2O)",
+      "c": "গ্লুকোজ",
+      "d": "ক্লোরোফিল"
+    },
+    "correctAnswer": "b",
+    "explanation": "পানির সালোকবিভাজন বা ফটোলাইসিসের মাধ্যমে অক্সিজেন উৎপন্ন হয়।"
+  },
+  {
+    "id": 64,
+    "subject": "Biology",
+    "topic": "Zoology - Diversity",
+    "question": "নালিকা পদ (Tube feet) কোন পর্বের বৈশিষ্ট্য?",
+    "options": {
+      "a": "Mollusca",
+      "b": "Echinodermata",
+      "c": "Arthropoda",
+      "d": "Cnidaria"
+    },
+    "correctAnswer": "b",
+    "explanation": "একাইনোডার্মাটা (Echinodermata) পর্বের প্রাণীদের (যেমন তারামাছ) চলন অঙ্গ নালিকা পদ।"
+  },
+  {
+    "id": 65,
+    "subject": "Biology",
+    "topic": "Botany - Cell Division",
+    "question": "সেন্ট্রোমিয়ার বিভাজিত হয় কোন ধাপে?",
+    "options": {
+      "a": "প্রোফেজ",
+      "b": "মেটাফেজ",
+      "c": "অ্যানাফেজ",
+      "d": "টেলোফেজ"
+    },
+    "correctAnswer": "c",
+    "explanation": "মাইটোসিসের অ্যানাফেজ ধাপে সেন্ট্রোমিয়ার দুই ভাগে বিভক্ত হয়ে যায়।"
+  },
+  {
+    "id": 66,
+    "subject": "Biology",
+    "topic": "Zoology - Genetics",
+    "question": "লিথাল জিনের প্রভাবে ফিনোটাইপিক অনুপাত কত হয়?",
+    "options": {
+      "a": "৩ : ১",
+      "b": "২ : ১",
+      "c": "১ : ২ : ১",
+      "d": "১ : ১"
+    },
+    "correctAnswer": "b",
+    "explanation": "লিথাল জিনের কারণে হোমোজাইগাস অবস্থায় জীবের মৃত্যু ঘটে, তাই অনুপাত ৩:১ এর বদলে ২:১ হয়।"
+  },
+  {
+    "id": 67,
+    "subject": "Biology",
+    "topic": "Botany - Biotechnology",
+    "question": "GMO এর পূর্ণরূপ কী?",
+    "options": {
+      "a": "Genetically Made Organism",
+      "b": "Genetically Modified Organism",
+      "c": "Gene Modified Organ",
+      "d": "Genetic Mutant Organism"
+    },
+    "correctAnswer": "b",
+    "explanation": "GMO = Genetically Modified Organism।"
+  },
+  {
+    "id": 68,
+    "subject": "Biology",
+    "topic": "Zoology - Blood",
+    "question": "রক্তের লোহিত কণিকার আয়ুষ্কাল কত দিন?",
+    "options": {
+      "a": "৩০ দিন",
+      "b": "৯০ দিন",
+      "c": "১২০ দিন",
+      "d": "১৫ দিন"
+    },
+    "correctAnswer": "c",
+    "explanation": "লোহিত রক্তকণিকা বা RBC এর গড় আয়ু ১২০ দিন বা ৪ মাস।"
+  },
+  {
+    "id": 69,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "উদ্ভিদের অত্যাবশ্যকীয় উপাদান (Essential Elements) কয়টি?",
+    "options": {
+      "a": "১০টি",
+      "b": "১৬টি",
+      "c": "১৭টি",
+      "d": "২০টি"
+    },
+    "correctAnswer": "c",
+    "explanation": "আধুনিক তথ্যমতে উদ্ভিদের পুষ্টির জন্য ১৭টি উপাদান অত্যাবশ্যকীয় (ম্যাক্রো-৯, মাইক্রো-৮)।"
+  },
+  {
+    "id": 70,
+    "subject": "Biology",
+    "topic": "Zoology - Movement",
+    "question": "পেশি টিস্যুর আবরণকে কী বলে?",
+    "options": {
+      "a": "পেরিওস্টিয়াম",
+      "b": "সারকোলেমা",
+      "c": "পেরিকার্ডিয়াম",
+      "d": "প্লুরা"
+    },
+    "correctAnswer": "b",
+    "explanation": "পেশি কোষ বা তন্তুর আবরণী ঝিল্লিকে সারকোলেমা বলে।"
+  },
+  {
+    "id": 71,
+    "subject": "Biology",
+    "topic": "Botany - Cell Structure",
+    "question": "নিউক্লিয়াস কে আবিষ্কার করেন?",
+    "options": {
+      "a": "রবার্ট হুক",
+      "b": "রবার্ট ব্রাউন",
+      "c": "ডারউইন",
+      "d": "মেন্ডেল"
+    },
+    "correctAnswer": "b",
+    "explanation": "১৮৩১ সালে রবার্ট ব্রাউন অর্কিড পাতা কোষে নিউক্লিয়াস আবিষ্কার করেন।"
+  },
+  {
+    "id": 72,
+    "subject": "Biology",
+    "topic": "Zoology - Digestion",
+    "question": "অগ্ন্যাশয় রসে শর্করা পরিপাককারী এনজাইম কোনটি?",
+    "options": {
+      "a": "ট্রিপসিন",
+      "b": "অ্যামাইলেজ",
+      "c": "লাইপেজ",
+      "d": "পেপসিন"
+    },
+    "correctAnswer": "b",
+    "explanation": "অ্যামাইলেজ শর্করা পরিপাক করে। ট্রিপসিন প্রোটিন এবং লাইপেজ লিপিড পরিপাক করে।"
+  },
+  {
+    "id": 73,
+    "subject": "Biology",
+    "topic": "Botany - Cell Division",
+    "question": "মেটাকাইনেসিস ঘটে কোন ধাপে?",
+    "options": {
+      "a": "প্রোফেজ",
+      "b": "মেটাফেজ",
+      "c": "অ্যানাফেজ",
+      "d": "টেলোফেজ"
+    },
+    "correctAnswer": "b",
+    "explanation": "মেটাফেজ ধাপে ক্রোমোজোমগুলো বিষুবীয় অঞ্চলে বিন্যস্ত হওয়াকে মেটাকাইনেসিস বলে।"
+  },
+  {
+    "id": 74,
+    "subject": "Biology",
+    "topic": "Zoology - Hydra",
+    "question": "হাইড্রার পুনরুৎপত্তি ক্ষমতার কথা কে প্রথম উল্লেখ করেন?",
+    "options": {
+      "a": "আব্রাহাম ট্রেম্বলে",
+      "b": "ক্যারোলাস লিনিয়াস",
+      "c": "ল্যামার্ক",
+      "d": "অ্যারিস্টটল"
+    },
+    "correctAnswer": "a",
+    "explanation": "আব্রাহাম ট্রেম্বলে ১৭৪৪ সালে সর্বপ্রথম হাইড্রার পুনরুৎপত্তি ক্ষমতার কথা উল্লেখ করেন।"
+  },
+  {
+    "id": 75,
+    "subject": "Biology",
+    "topic": "Botany - Microbes",
+    "question": "ডেঙ্গু জ্বরের বাহক কে?",
+    "options": {
+      "a": "অ্যানোফিলিস মশা",
+      "b": "কিউলেক্স মশা",
+      "c": "এডিস মশা",
+      "d": "মাছি"
+    },
+    "correctAnswer": "c",
+    "explanation": "Aedes aegypti মশা ডেঙ্গু ভাইরাসের বাহক।"
+  },
+  {
+    "id": 76,
+    "subject": "Biology",
+    "topic": "Zoology - Genetics",
+    "question": "মানুষের সোমাটিক কোষে অটোজোমের সংখ্যা কত?",
+    "options": {
+      "a": "৪৪টি",
+      "b": "২২টি",
+      "c": "৪৬টি",
+      "d": "২টি"
+    },
+    "correctAnswer": "a",
+    "explanation": "মানুষের ২৩ জোড়া ক্রোমোজোমের মধ্যে ২২ জোড়া বা ৪৪টি অটোজোম এবং ১ জোড়া সেক্স ক্রোমোজোম।"
+  },
+  {
+    "id": 77,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "কোন আলোতে সালোকসংশ্লেষণ সবচেয়ে ভালো হয়?",
+    "options": {
+      "a": "সবুজ",
+      "b": "লাল ও নীল",
+      "c": "হলুদ",
+      "d": "বেগুনী"
+    },
+    "correctAnswer": "b",
+    "explanation": "লাল ও নীল আলোতে সালোকসংশ্লেষণের হার সবচেয়ে বেশি। সবুজ আলোতে সবচেয়ে কম।"
+  },
+  {
+    "id": 78,
+    "subject": "Biology",
+    "topic": "Zoology - Blood",
+    "question": "রক্তের pH কত?",
+    "options": {
+      "a": "৬.৫",
+      "b": "৭.০",
+      "c": "৭.৩৫ - ৭.৪৫",
+      "d": "৮.০"
+    },
+    "correctAnswer": "c",
+    "explanation": "মানুষের রক্ত সামান্য ক্ষারীয়, এর pH ৭.৩৫ থেকে ৭.৪৫।"
+  },
+  {
+    "id": 79,
+    "subject": "Biology",
+    "topic": "Botany - Biotechnology",
+    "question": "জীব প্রযুক্তির জনক কে?",
+    "options": {
+      "a": "কার্ল এরেকি",
+      "b": "মেন্ডেল",
+      "c": "লুই পাস্তুর",
+      "d": "ওয়াটসন"
+    },
+    "correctAnswer": "a",
+    "explanation": "১৯১৯ সালে কার্ল এরেকি প্রথম 'Biotechnology' শব্দটি ব্যবহার করেন।"
+  },
+  {
+    "id": 80,
+    "subject": "Biology",
+    "topic": "Zoology - Movement",
+    "question": "মানুষের মেরুদণ্ডে কশেরুকার সংখ্যা কত?",
+    "options": {
+      "a": "৩৩টি",
+      "b": "২৬টি",
+      "c": "৩১টি",
+      "d": "১২টি"
+    },
+    "correctAnswer": "a",
+    "explanation": "শৈশবে ৩৩টি কশেরুকা থাকে, কিন্তু পূর্ণবয়স্ক অবস্থায় স্যাক্রাল ও কক্সিজিল হাড়গুলো একীভূত হয়ে মোট ২৬টি হয়। প্রশ্নে সাধারণত প্রাথমিক সংখ্যা ৩৩টিই জানতে চাওয়া হয়।"
+  },
+  {
+    "id": 81,
+    "subject": "Biology",
+    "topic": "Botany - Cell Structure",
+    "question": "DNA ডাবল হেলিক্স মডেল কে দেন?",
+    "options": {
+      "a": "ওয়াটসন ও ক্রিক",
+      "b": "মেন্ডেল",
+      "c": "ডারউইন",
+      "d": "রবার্ট হুক"
+    },
+    "correctAnswer": "a",
+    "explanation": "১৯৫৩ সালে ওয়াটসন ও ক্রিক DNA এর ডাবল হেলিক্স মডেল প্রদান করেন।"
+  },
+  {
+    "id": 82,
+    "subject": "Biology",
+    "topic": "Zoology - Diversity",
+    "question": "কোন পর্বের প্রাণীদের 'ছিদ্রাল প্রাণী' বলা হয়?",
+    "options": {
+      "a": "Cnidaria",
+      "b": "Porifera",
+      "c": "Mollusca",
+      "d": "Annelida"
+    },
+    "correctAnswer": "b",
+    "explanation": "পরিফেরা (Porifera) পর্বের প্রাণীদের দেহগাত্রে অসংখ্য ছিদ্র (অস্টিয়া) থাকে, তাই এদের ছিদ্রাল প্রাণী বলে।"
+  },
+  {
+    "id": 83,
+    "subject": "Biology",
+    "topic": "Zoology - Digestion",
+    "question": "শর্করা জাতীয় খাদ্যের পরিপাক কোথায় শুরু হয়?",
+    "options": {
+      "a": "পাকস্থলী",
+      "b": "মুখগহ্বর",
+      "c": "ক্ষুদ্রান্ত্র",
+      "d": "বৃহদান্ত্র"
+    },
+    "correctAnswer": "b",
+    "explanation": "লালারসের টায়ালিন এনজাইমের মাধ্যমে মুখগহ্বরেই শর্করা পরিপাক শুরু হয়।"
+  },
+  {
+    "id": 84,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "কেলভিন চক্রে (C3) প্রথম স্থায়ী যৌগ কোনটি?",
+    "options": {
+      "a": "অক্সালো অ্যাসিটিক এসিড",
+      "b": "৩-ফসফোগ্লিসারিক এসিড (3-PGA)",
+      "c": "রাইবুলোজ বিসফসফেট",
+      "d": "গ্লুকোজ"
+    },
+    "correctAnswer": "b",
+    "explanation": "C3 চক্রে ৩-কার্বন বিশিষ্ট ৩-ফসফোগ্লিসারিক এসিড প্রথম স্থায়ী পদার্থ।"
+  },
+  {
+    "id": 85,
+    "subject": "Biology",
+    "topic": "Zoology - Genetics",
+    "question": "বংশগতির ভৌত ভিত্তি কোনটি?",
+    "options": {
+      "a": "ক্রোমোজোম",
+      "b": "DNA",
+      "c": "জিন",
+      "d": "নিউক্লিয়াস"
+    },
+    "correctAnswer": "a",
+    "explanation": "ক্রোমোজোমকে বংশগতির ভৌত ভিত্তি বলা হয় (জিন হলো রাসায়নিক ভিত্তি)।"
+  },
+  {
+    "id": 86,
+    "subject": "Biology",
+    "topic": "Botany - Tissue System",
+    "question": "মূলের ভাস্কুলার বান্ডল কোন ধরনের?",
+    "options": {
+      "a": "সমপার্শ্বীয়",
+      "b": "অরীয়",
+      "c": "কেন্দ্রিক",
+      "d": "বিপরীত"
+    },
+    "correctAnswer": "b",
+    "explanation": "মূলেও জাইলেম ও ফ্লোয়েম ভিন্ন ভিন্ন ব্যাসার্ধে থাকে, তাই এটি অরীয় (Radial)।"
+  },
+  {
+    "id": 87,
+    "subject": "Biology",
+    "topic": "Zoology - Respiration",
+    "question": "এডামস অ্যাপল (Adam's Apple) কোথায় থাকে?",
+    "options": {
+      "a": "ষড়যন্ত্র (Larynx)",
+      "b": "গলবিল",
+      "c": "শ্বাসনালী",
+      "d": "অন্ননালী"
+    },
+    "correctAnswer": "a",
+    "explanation": "পুরুষের ষড়যন্ত্রের থাইরয়েড তরুণাস্থি উঁচু হয়ে এডামস অ্যাপল গঠন করে।"
+  },
+  {
+    "id": 88,
+    "subject": "Biology",
+    "topic": "Botany - Microbes",
+    "question": "ছত্রাকের কোষপ্রাচীর কী দিয়ে তৈরি?",
+    "options": {
+      "a": "সেলুলোজ",
+      "b": "কাইটিন",
+      "c": "পেপটিডোগ্লাইকান",
+      "d": "লিপিড"
+    },
+    "correctAnswer": "b",
+    "explanation": "ছত্রাকের কোষপ্রাচীর কাইটিন নির্মিত। উদ্ভিদের কোষপ্রাচীর সেলুলোজ এবং ব্যাকটেরিয়ার পেপটিডোগ্লাইকান নির্মিত।"
+  },
+  {
+    "id": 89,
+    "subject": "Biology",
+    "topic": "Zoology - Grasshopper",
+    "question": "ঘাসফড়িং এর রক্তকে কী বলে?",
+    "options": {
+      "a": "হিমোগ্লোবিন",
+      "b": "হিমোলিম্ফ",
+      "c": "প্লাজমা",
+      "d": "সিরাম"
+    },
+    "correctAnswer": "b",
+    "explanation": "ঘাসফড়িং এর রক্ত বর্ণহীন এবং সিলোমের রসের সাথে মিশে থাকে বলে একে হিমোলিম্ফ বলে।"
+  },
+  {
+    "id": 90,
+    "subject": "Biology",
+    "topic": "Botany - Cell Division",
+    "question": "মিয়োসিস কোষ বিভাজন কোথায় ঘটে?",
+    "options": {
+      "a": "দেহকোষে",
+      "b": "জনন মাতৃকোষে",
+      "c": "জনন কোষে",
+      "d": "ভ্রূণে"
+    },
+    "correctAnswer": "b",
+    "explanation": "জনন মাতৃকোষে (2n) মিয়োসিস ঘটে হ্যাপ্লয়েড (n) জনন কোষ বা গ্যামিট তৈরি করে।"
+  },
+  {
+    "id": 91,
+    "subject": "Biology",
+    "topic": "Botany - Biotechnology",
+    "question": "GMO এর পূর্ণরূপ কী?",
+    "options": {
+      "a": "Genetically Made Organism",
+      "b": "Genetically Modified Organism",
+      "c": "Gene Made Organism",
+      "d": "Genetic Mutant Organism"
+    },
+    "correctAnswer": "b",
+    "explanation": "GMO = Genetically Modified Organism।"
+  },
+  {
+    "id": 92,
+    "subject": "Biology",
+    "topic": "Zoology - Blood",
+    "question": "ডায়াস্টোল (Diastole) মানে কী?",
+    "options": {
+      "a": "হৃৎপিণ্ডের সংকোচন",
+      "b": "হৃৎপিণ্ডের প্রসারণ",
+      "c": "রক্ত জমাট বাঁধা",
+      "d": "রক্তচাপ বৃদ্ধি"
+    },
+    "correctAnswer": "b",
+    "explanation": "হৃৎপিণ্ডের অলিন্দ বা নিলয়ের প্রসারণকে ডায়াস্টোল এবং সংকোচনকে সিস্টোল বলে।"
+  },
+  {
+    "id": 93,
+    "subject": "Biology",
+    "topic": "Zoology - Hydra",
+    "question": "হাইড্রা কোন ধরনের প্রাণী?",
+    "options": {
+      "a": "একস্তরী",
+      "b": "দ্বি-স্তরী (Diploblastic)",
+      "c": "ত্রি-স্তরী (Triploblastic)",
+      "d": "বহুস্তরী"
+    },
+    "correctAnswer": "b",
+    "explanation": "হাইড্রার দেহপ্রাচীর একটোডার্ম ও এন্ডোডার্ম নামক দুটি স্তরে বিন্যস্ত, তাই এটি দ্বি-স্তরী।"
+  },
+  {
+    "id": 94,
+    "subject": "Biology",
+    "topic": "Botany - Physiology",
+    "question": "Hatch & Slack চক্র কোনটি?",
+    "options": {
+      "a": "C3 চক্র",
+      "b": "C4 চক্র",
+      "c": "CAM চক্র",
+      "d": "গ্লাইকোলাইসিস"
+    },
+    "correctAnswer": "b",
+    "explanation": "C4 চক্রকে হ্যাচ ও স্ল্যাক চক্র বলা হয়।"
+  },
+  {
+    "id": 95,
+    "subject": "Biology",
+    "topic": "Botany - Cell Structure",
+    "question": "নিচের কোনটি লাইসোজোমের কাজ?",
+    "options": {
+      "a": "শক্তি উৎপাদন",
+      "b": "জীবাণু ভক্ষণ (ফ্যাগোসাইটোসিস)",
+      "c": "প্রোটিন তৈরি",
+      "d": "সালোকসংশ্লেষণ"
+    },
+    "correctAnswer": "b",
+    "explanation": "লাইসোজোম এনজাইমের সাহায্যে জীবাণু ধ্বংস করে (ফ্যাগোসাইটোসিস) এবং অটোলাইসিস ঘটায়।"
+  },
+  {
+    "id": 96,
+    "subject": "Biology",
+    "topic": "Zoology - Movement",
+    "question": "মানবদেহের সবচেয়ে বড় অস্থি কোনটি?",
+    "options": {
+      "a": "হিউমেরাস",
+      "b": "ফিমার",
+      "c": "টিবিয়া",
+      "d": "স্টার্নাম"
+    },
+    "correctAnswer": "b",
+    "explanation": "উরু বা থাই-এর অস্থি ফিমার (Femur) মানবদেহের দীর্ঘতম ও শক্ত অস্থি।"
+  },
+  {
+    "id": 97,
+    "subject": "Biology",
+    "topic": "Zoology - Genetics",
+    "question": "Rh ফ্যাক্টর কে আবিষ্কার করেন?",
+    "options": {
+      "a": "ল্যান্ডস্টেইনার ও উইনার",
+      "b": "মেন্ডেল",
+      "c": "ডারউইন",
+      "d": "হুক"
+    },
+    "correctAnswer": "a",
+    "explanation": "রেসাস বানরের রক্তে এটি প্রথম আবিষ্কার করেন কার্ল ল্যান্ডস্টেইনার ও উইনার।"
+  },
+  {
+    "id": 98,
+    "subject": "Biology",
+    "topic": "Botany - Microbes",
+    "question": "COVID-19 এর ভাইরাসের নাম কী?",
+    "options": {
+      "a": "SARS-CoV-2",
+      "b": "HIV",
+      "c": "H1N1",
+      "d": "Influenza"
+    },
+    "correctAnswer": "a",
+    "explanation": "COVID-19 রোগ সৃষ্টিকারী ভাইরাসের নাম SARS-CoV-2।"
+  },
+  {
+    "id": 99,
+    "subject": "Biology",
+    "topic": "Botany - Tissue System",
+    "question": "জাইলেম ও ফ্লোয়েম টিস্যুর মাঝখানে ক্যাম্বিয়াম থাকলে তাকে কী বলে?",
+    "options": {
+      "a": "বদ্ধ সমপার্শ্বীয়",
+      "b": "মুক্ত সমপার্শ্বীয়",
+      "c": "অরীয়",
+      "d": "কেন্দ্রিক"
+    },
+    "correctAnswer": "b",
+    "explanation": "ক্যাম্বিয়াম থাকলে গৌণ বৃদ্ধি হয় এবং একে মুক্ত সমপার্শ্বীয় ভাস্কুলার বান্ডল বলে (যেমন দ্বিবীজপত্রী কাণ্ড)।"
+  },
+  {
+    "id": 100,
+    "subject": "Biology",
+    "topic": "Zoology - Digestion",
+    "question": "স্থূলতার জন্য দায়ী হরমোন কোনটি?",
+    "options": {
+      "a": "ইনসুলিন",
+      "b": "লেপটিন",
+      "c": "থাইরক্সিন",
+      "d": "অ্যাড্রেনালিন"
+    },
+    "correctAnswer": "b",
+    "explanation": "লেপটিন হরমোন ক্ষুধা নিয়ন্ত্রণ করে। এর অসামঞ্জস্যতা স্থূলতার কারণ হতে পারে।"
+  }
+]
