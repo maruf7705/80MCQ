@@ -1,18 +1,1 @@
-[
-  {
-    "studentName": "Maruf Test",
-    "answers": {
-      "57": "c",
-      "89": "a",
-      "100": "c"
-    },
-    "score": 0,
-    "totalMarks": 100,
-    "timestamp": "2026-01-20T09:22:12.671Z",
-    "attempted": 3,
-    "correct": 0,
-    "wrong": 3,
-    "pass": false,
-    "questionFile": "questions.json"
-  }
-]
+[]
