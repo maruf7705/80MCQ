@@ -164,6 +164,7 @@ function MCQContainer({ questions, studentName, questionFile = 'questions.json' 
       if (progress.status === 'success') {
         // Clean up only on confirmed success
         localStorage.removeItem(`mcq_state_v100_${studentName}`)
+        localStorage.removeItem('exam_session_student')
       }
     }).catch(err => {
       console.error('Submission error:', err)

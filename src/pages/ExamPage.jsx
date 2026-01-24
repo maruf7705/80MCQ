@@ -5,7 +5,12 @@ import ErrorBoundary from '../components/ErrorBoundary'
 import { getActiveQuestionFile } from '../utils/api'
 
 function ExamPage() {
-  const [studentName, setStudentName] = useState('')
+  const [studentName, setStudentName] = useState(() => {
+    // Check localStorage for saved session
+    const savedName = localStorage.getItem('exam_session_student')
+    const savedSession = savedName ? localStorage.getItem(`mcq_state_v100_${savedName}`) : null
+    return savedSession ? savedName : ''
+  })
   const [questions, setQuestions] = useState([])
   const [questionFile, setQuestionFile] = useState('questions.json')
   const [loading, setLoading] = useState(true)
@@ -130,6 +135,7 @@ function ExamPage() {
 
   if (!studentName) {
     return <StartScreen onStart={(name) => {
+      localStorage.setItem('exam_session_student', name)
       setStudentName(name)
     }} />
   }
