@@ -21,15 +21,15 @@ async function saveLocally(data) {
   }
 
   // --- CLEANUP LOGIC ---
-  // Remove pending students older than 80 minutes (60 + 10 grace + 10 buffer)
-  const EIGHTY_MINUTES_MS = 80 * 60 * 1000;
+  // Remove pending students older than 3 hours (180 minutes)
+  const THREE_HOURS_MS = 180 * 60 * 1000;
   const now = Date.now();
   const filteredData = currentData.filter(item => {
     if (!item || typeof item !== 'object') return false;
     if (!item.timestamp) return false;
     const itemTime = new Date(item.timestamp).getTime();
     if (isNaN(itemTime)) return false;
-    return (now - itemTime) < EIGHTY_MINUTES_MS;
+    return (now - itemTime) < THREE_HOURS_MS;
   });
 
   // Check for duplicates in the filtered data
@@ -82,15 +82,15 @@ export default async function handler(req, res) {
     const list = Array.isArray(content) ? content : [];
 
     // --- CLEANUP LOGIC ---
-    // Remove pending students older than 80 minutes
-    const EIGHTY_MINUTES_MS = 80 * 60 * 1000;
+    // Remove pending students older than 3 hours (180 minutes)
+    const THREE_HOURS_MS = 180 * 60 * 1000;
     const now = Date.now();
     const filteredList = list.filter(item => {
       if (!item || typeof item !== 'object') return false;
       if (!item.timestamp) return false;
       const itemTime = new Date(item.timestamp).getTime();
       if (isNaN(itemTime)) return false;
-      return (now - itemTime) < EIGHTY_MINUTES_MS;
+      return (now - itemTime) < THREE_HOURS_MS;
     });
 
     // Check for duplicates

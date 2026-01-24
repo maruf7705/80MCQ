@@ -48,16 +48,12 @@ async function saveLocally(data) {
     }
   }
 
-  // --- CLEANUP LOGIC ---
-  const TEN_MINUTES_MS = 10 * 60 * 1000;
-  const now = Date.now();
-  const filteredData = currentData.filter(sub => {
-    if (!sub || typeof sub !== 'object') return false;
-    if (!sub.timestamp) return false;
-    const subTime = new Date(sub.timestamp).getTime();
-    if (isNaN(subTime)) return false;
-    return (now - subTime) < TEN_MINUTES_MS;
-  });
+  // --- CLEANUP LOGIC REMOVED ---
+  // We want to keep all answers permanently.
+  // const TEN_MINUTES_MS = 10 * 60 * 1000;
+  // const now = Date.now();
+  // const filteredData = currentData.filter(...)
+  const filteredData = currentData;
 
   // Generate unique student name before saving
   const uniqueName = getUniqueStudentName(data.studentName, filteredData);
@@ -102,17 +98,12 @@ export default async function handler(req, res) {
     const { content, sha } = await fetchFile();
     const list = Array.isArray(content) ? content : [];
 
-    // --- CLEANUP LOGIC ---
-    // Remove submissions older than 10 minutes (600,000 ms)
-    const TEN_MINUTES_MS = 10 * 60 * 1000;
-    const now = Date.now();
-    const filteredList = list.filter(sub => {
-      if (!sub || typeof sub !== 'object') return false;
-      if (!sub.timestamp) return false;
-      const subTime = new Date(sub.timestamp).getTime();
-      if (isNaN(subTime)) return false;
-      return (now - subTime) < TEN_MINUTES_MS;
-    });
+    // --- CLEANUP LOGIC REMOVED ---
+    // We want to keep all answers permanently.
+    // const TEN_MINUTES_MS = 10 * 60 * 1000;
+    // const now = Date.now();
+    // const filteredList = list.filter(...)
+    const filteredList = list;
 
     // Generate unique student name before saving (using filtered list)
     const uniqueName = getUniqueStudentName(body.studentName, filteredList);
@@ -123,7 +114,7 @@ export default async function handler(req, res) {
     const updated = JSON.stringify(filteredList, null, 2);
     await updateFile(updated, sha);
 
-    console.log(`Saved submission: "${body.studentName}" as "${uniqueName}". Cleanup removed ${list.length - (filteredList.length - 1)} old entries.`);
+    console.log(`Saved submission: "${body.studentName}" as "${uniqueName}".`);
     return res.status(200).json({
       success: true,
       savedName: uniqueName,
