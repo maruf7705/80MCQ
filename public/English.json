@@ -1,0 +1,1602 @@
+[
+    {
+        "id": 1,
+        "subject": "English",
+        "topic": "Tense",
+        "question": "By the time the police arrived, the thief ______ away.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "run",
+            "b": "ran",
+            "c": "had run",
+            "d": "has run"
+        },
+        "correctAnswer": "c",
+        "explanation": "Past Perfect Tense is used for the action completed before another past action. Structure: By the time + Past Indefinite + Past Perfect."
+    },
+    {
+        "id": 2,
+        "subject": "English",
+        "topic": "Conditionals",
+        "question": "If I ______ you, I would not accept this offer.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "was",
+            "b": "am",
+            "c": "were",
+            "d": "had been"
+        },
+        "correctAnswer": "c",
+        "explanation": "In the Second Conditional (unreal past), 'were' is used with all subjects."
+    },
+    {
+        "id": 3,
+        "subject": "English",
+        "topic": "Subject-Verb Agreement",
+        "question": "The jury ______ divided in their opinions.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "was",
+            "b": "were",
+            "c": "is",
+            "d": "has been"
+        },
+        "correctAnswer": "b",
+        "explanation": "When a collective noun (jury) acts individually (divided opinions), it takes a plural verb."
+    },
+    {
+        "id": 4,
+        "subject": "English",
+        "topic": "Right Form of Verbs",
+        "question": "It is high time we ______ our bad habits.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "change",
+            "b": "changed",
+            "c": "have changed",
+            "d": "will change"
+        },
+        "correctAnswer": "b",
+        "explanation": "'It is high time' is followed by the Past Indefinite tense."
+    },
+    {
+        "id": 5,
+        "subject": "English",
+        "topic": "Causative Verbs",
+        "question": "He had the mechanic ______ his car.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "repair",
+            "b": "repaired",
+            "c": "to repair",
+            "d": "repairing"
+        },
+        "correctAnswer": "a",
+        "explanation": "Causative 'have' + person + base form of verb (had + mechanic + repair)."
+    },
+    {
+        "id": 6,
+        "subject": "English",
+        "topic": "Modals",
+        "question": "You ______ better consult a doctor.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "would",
+            "b": "should",
+            "c": "had",
+            "d": "must"
+        },
+        "correctAnswer": "c",
+        "explanation": "'Had better' is a fixed phrase used to give strong advice."
+    },
+    {
+        "id": 7,
+        "subject": "English",
+        "topic": "Tense",
+        "question": "I saw him ______ the road.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "cross",
+            "b": "crossed",
+            "c": "crossing",
+            "d": "to cross"
+        },
+        "correctAnswer": "c",
+        "explanation": "After verbs of perception like 'see', we use V+ing for continuous action."
+    },
+    {
+        "id": 8,
+        "subject": "English",
+        "topic": "Subjunctive",
+        "question": "The doctor suggested that the patient ______ weight.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "loses",
+            "b": "lose",
+            "c": "lost",
+            "d": "losing"
+        },
+        "correctAnswer": "b",
+        "explanation": "In subjunctive mood (after suggested), the base form of the verb is used regardless of the subject."
+    },
+    {
+        "id": 9,
+        "subject": "English",
+        "topic": "Inversion",
+        "question": "No sooner had I reached the station ______ the train left.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "then",
+            "b": "than",
+            "c": "when",
+            "d": "before"
+        },
+        "correctAnswer": "b",
+        "explanation": "Structure: No sooner had ... than."
+    },
+    {
+        "id": 10,
+        "subject": "English",
+        "topic": "Pronouns",
+        "question": "One should do ______ duty properly.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "his",
+            "b": "her",
+            "c": "their",
+            "d": "one's"
+        },
+        "correctAnswer": "d",
+        "explanation": "The possessive form of 'One' is 'one's'."
+    },
+    {
+        "id": 11,
+        "subject": "English",
+        "topic": "Noun Phrase",
+        "question": "Walking is a good exercise. Here 'Walking' is a/an —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Participle",
+            "b": "Gerund",
+            "c": "Infinitive",
+            "d": "Adjective"
+        },
+        "correctAnswer": "b",
+        "explanation": "Verbs ending in -ing that function as nouns are Gerunds."
+    },
+    {
+        "id": 12,
+        "subject": "English",
+        "topic": "Determiners",
+        "question": "______ knowledge is a dangerous thing.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "A little",
+            "b": "Little",
+            "c": "A few",
+            "d": "Few"
+        },
+        "correctAnswer": "a",
+        "explanation": "Proverb: 'A little knowledge is a dangerous thing'. 'Little' means hardly any, 'A little' means some."
+    },
+    {
+        "id": 13,
+        "subject": "English",
+        "topic": "Relative Pronoun",
+        "question": "It is I who ______ to blame.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "is",
+            "b": "am",
+            "c": "are",
+            "d": "was"
+        },
+        "correctAnswer": "b",
+        "explanation": "The verb after a relative pronoun agrees with the antecedent (I -> am)."
+    },
+    {
+        "id": 14,
+        "subject": "English",
+        "topic": "Tag Question",
+        "question": "Everybody hates a liar, ______?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "do they?",
+            "b": "don't they?",
+            "c": "doesn't he?",
+            "d": "don't he?"
+        },
+        "correctAnswer": "b",
+        "explanation": "Everybody takes 'they' in tag questions, so the verb becomes plural (don't)."
+    },
+    {
+        "id": 15,
+        "subject": "English",
+        "topic": "Embedded Question",
+        "question": "Do you know where ______?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "does he live",
+            "b": "he lives",
+            "c": "lives he",
+            "d": "did he live"
+        },
+        "correctAnswer": "b",
+        "explanation": "In an embedded question, the word order is Subject + Verb (not inverted)."
+    },
+    {
+        "id": 16,
+        "subject": "English",
+        "topic": "Appropriate Preposition",
+        "question": "He is devoid ______ common sense.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "of",
+            "b": "from",
+            "c": "in",
+            "d": "to"
+        },
+        "correctAnswer": "a",
+        "explanation": "Devoid of means lacking something."
+    },
+    {
+        "id": 17,
+        "subject": "English",
+        "topic": "Appropriate Preposition",
+        "question": "The man was accused ______ theft.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "for",
+            "b": "with",
+            "c": "of",
+            "d": "about"
+        },
+        "correctAnswer": "c",
+        "explanation": "Accused of is the correct phrase."
+    },
+    {
+        "id": 18,
+        "subject": "English",
+        "topic": "Appropriate Preposition",
+        "question": "I prefer tea ______ coffee.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "than",
+            "b": "to",
+            "c": "over",
+            "d": "more than"
+        },
+        "correctAnswer": "b",
+        "explanation": "Prefer takes 'to' not 'than'."
+    },
+    {
+        "id": 19,
+        "subject": "English",
+        "topic": "Appropriate Preposition",
+        "question": "He burst ______ tears.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "into",
+            "b": "out",
+            "c": "in",
+            "d": "with"
+        },
+        "correctAnswer": "a",
+        "explanation": "Burst into tears; Burst out laughing."
+    },
+    {
+        "id": 20,
+        "subject": "English",
+        "topic": "Appropriate Preposition",
+        "question": "The table is made ______ wood.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "of",
+            "b": "from",
+            "c": "by",
+            "d": "with"
+        },
+        "correctAnswer": "a",
+        "explanation": "Made of: material hasn't changed chemically. Made from: material changed."
+    },
+    {
+        "id": 21,
+        "subject": "English",
+        "topic": "Phrase Meaning",
+        "question": "What is the meaning of 'At sixes and sevens'?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "In order",
+            "b": "Organized",
+            "c": "In a state of confusion",
+            "d": "Counting numbers"
+        },
+        "correctAnswer": "c",
+        "explanation": "At sixes and sevens means in disorder or confusion."
+    },
+    {
+        "id": 22,
+        "subject": "English",
+        "topic": "Phrase Meaning",
+        "question": "'A bolt from the blue' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "A clear sky",
+            "b": "An unexpected danger",
+            "c": "A thunderstorm",
+            "d": "Blue color"
+        },
+        "correctAnswer": "b",
+        "explanation": "A bolt from the blue implies a sudden, unexpected shock."
+    },
+    {
+        "id": 23,
+        "subject": "English",
+        "topic": "Phrase Meaning",
+        "question": "To 'read between the lines' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "To read quickly",
+            "b": "To read carefully",
+            "c": "To understand the hidden meaning",
+            "d": "To read aloud"
+        },
+        "correctAnswer": "c",
+        "explanation": "Understanding the implied meaning."
+    },
+    {
+        "id": 24,
+        "subject": "English",
+        "topic": "Phrase Meaning",
+        "question": "'Maiden speech' refers to —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Last speech",
+            "b": "First speech",
+            "c": "Emotional speech",
+            "d": "Written speech"
+        },
+        "correctAnswer": "b",
+        "explanation": "Maiden speech is the first speech delivered by a person."
+    },
+    {
+        "id": 25,
+        "subject": "English",
+        "topic": "Phrase Meaning",
+        "question": "The phrase 'Null and void' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Valid",
+            "b": "Invalid",
+            "c": "Important",
+            "d": "Empty"
+        },
+        "correctAnswer": "b",
+        "explanation": "Null and void means having no legal force (invalid)."
+    },
+    {
+        "id": 26,
+        "subject": "English",
+        "topic": "Phrasal Verb",
+        "question": "The patient will 'come round' soon. Here 'come round' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Arrive",
+            "b": "Recover",
+            "c": "Die",
+            "d": "Visit"
+        },
+        "correctAnswer": "b",
+        "explanation": "Come round means to recover from illness."
+    },
+    {
+        "id": 27,
+        "subject": "English",
+        "topic": "Phrasal Verb",
+        "question": "You should not 'look down upon' the poor.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Hate/Despise",
+            "b": "Respect",
+            "c": "Help",
+            "d": "Ignore"
+        },
+        "correctAnswer": "a",
+        "explanation": "Look down upon means to despise or regard with contempt."
+    },
+    {
+        "id": 28,
+        "subject": "English",
+        "topic": "Appropriate Preposition",
+        "question": "He died ______ cholera.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "by",
+            "b": "from",
+            "c": "of",
+            "d": "for"
+        },
+        "correctAnswer": "c",
+        "explanation": "Died of (disease); Died from (overeating/injury); Died for (cause)."
+    },
+    {
+        "id": 29,
+        "subject": "English",
+        "topic": "Appropriate Preposition",
+        "question": "She is good ______ English.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "in",
+            "b": "at",
+            "c": "for",
+            "d": "with"
+        },
+        "correctAnswer": "b",
+        "explanation": "Good at means skilled in."
+    },
+    {
+        "id": 30,
+        "subject": "English",
+        "topic": "Phrase Meaning",
+        "question": "'Black sheep' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "A black colored sheep",
+            "b": "A wicked person",
+            "c": "A stranger",
+            "d": "A loved one"
+        },
+        "correctAnswer": "b",
+        "explanation": "A black sheep is a disgrace to the family or group."
+    },
+    {
+        "id": 31,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "The synonym of 'Competent' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Capable",
+            "b": "Inapt",
+            "c": "Foolish",
+            "d": "Weak"
+        },
+        "correctAnswer": "a",
+        "explanation": "Competent means having the necessary ability or skill (Capable)."
+    },
+    {
+        "id": 32,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "What is the synonym of 'Magnificent'?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Ugly",
+            "b": "Splendid",
+            "c": "Modest",
+            "d": "Simple"
+        },
+        "correctAnswer": "b",
+        "explanation": "Magnificent means impressively beautiful or elaborate (Splendid)."
+    },
+    {
+        "id": 33,
+        "subject": "English",
+        "topic": "Antonym",
+        "question": "The antonym of 'Optimist' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Pessimist",
+            "b": "Hopeful",
+            "c": "Idealist",
+            "d": "Positive"
+        },
+        "correctAnswer": "a",
+        "explanation": "Optimist sees the good; Pessimist sees the bad."
+    },
+    {
+        "id": 34,
+        "subject": "English",
+        "topic": "Antonym",
+        "question": "The antonym of 'Frugal' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Miserly",
+            "b": "Economical",
+            "c": "Extravagant",
+            "d": "Saving"
+        },
+        "correctAnswer": "c",
+        "explanation": "Frugal implies saving; Extravagant implies spending wastefully."
+    },
+    {
+        "id": 35,
+        "subject": "English",
+        "topic": "Spelling",
+        "question": "Which spelling is correct?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Lieutenant",
+            "b": "Leutenant",
+            "c": "Leiutenant",
+            "d": "Lieutinant"
+        },
+        "correctAnswer": "a",
+        "explanation": "Mnemonic: Lie - u - ten - ant."
+    },
+    {
+        "id": 36,
+        "subject": "English",
+        "topic": "Spelling",
+        "question": "Identify the correct spelling.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Psychology",
+            "b": "Sychology",
+            "c": "Psycology",
+            "d": "Pschology"
+        },
+        "correctAnswer": "a",
+        "explanation": "Psychology starts with Ps."
+    },
+    {
+        "id": 37,
+        "subject": "English",
+        "topic": "Spelling",
+        "question": "Choose the correct spelling.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Bureaucracy",
+            "b": "Bureacracy",
+            "c": "Burcaucracy",
+            "d": "Beurocracy"
+        },
+        "correctAnswer": "a",
+        "explanation": "Bureau - cracy."
+    },
+    {
+        "id": 38,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "The word 'Indigenous' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Native",
+            "b": "Foreign",
+            "c": "Alien",
+            "d": "Migrant"
+        },
+        "correctAnswer": "a",
+        "explanation": "Indigenous means originating naturally in a particular place (Native)."
+    },
+    {
+        "id": 39,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "'Amicable' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Hostile",
+            "b": "Friendly",
+            "c": "Rude",
+            "d": "Distant"
+        },
+        "correctAnswer": "b",
+        "explanation": "Amicable means characterized by friendliness."
+    },
+    {
+        "id": 40,
+        "subject": "English",
+        "topic": "Antonym",
+        "question": "Antonym of 'Dormant' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Sleeping",
+            "b": "Active",
+            "c": "Hidden",
+            "d": "Passive"
+        },
+        "correctAnswer": "b",
+        "explanation": "Dormant means inactive; its opposite is Active."
+    },
+    {
+        "id": 41,
+        "subject": "English",
+        "topic": "One Word Substitution",
+        "question": "One who knows everything is called —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Omnipotent",
+            "b": "Omnipresent",
+            "c": "Omniscient",
+            "d": "Omnivore"
+        },
+        "correctAnswer": "c",
+        "explanation": "Omniscient means all-knowing."
+    },
+    {
+        "id": 42,
+        "subject": "English",
+        "topic": "Spelling",
+        "question": "Select the correct spelling.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Receive",
+            "b": "Recieve",
+            "c": "Riceive",
+            "d": "Receve"
+        },
+        "correctAnswer": "a",
+        "explanation": "Rule: 'i' before 'e', except after 'c' (Re-ce-ive)."
+    },
+    {
+        "id": 43,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "Synonym of 'Emancipate' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Imprison",
+            "b": "Liberate",
+            "c": "Hold",
+            "d": "Bind"
+        },
+        "correctAnswer": "b",
+        "explanation": "Emancipate means to set free (Liberate)."
+    },
+    {
+        "id": 44,
+        "subject": "English",
+        "topic": "Spelling",
+        "question": "Which one is correct?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Questionnaire",
+            "b": "Questionaire",
+            "c": "Questionnare",
+            "d": "Questonnaire"
+        },
+        "correctAnswer": "a",
+        "explanation": "Double 'n' and 'aire'."
+    },
+    {
+        "id": 45,
+        "subject": "English",
+        "topic": "Homophones",
+        "question": "The ship cast ______ at the port.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Anchor",
+            "b": "Anger",
+            "c": "Anker",
+            "d": "Hanker"
+        },
+        "correctAnswer": "a",
+        "explanation": "Anchor is the heavy object used to moor a ship."
+    },
+    {
+        "id": 46,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "The word 'Fragile' is similar to —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Strong",
+            "b": "Brittle",
+            "c": "Hard",
+            "d": "Flexible"
+        },
+        "correctAnswer": "b",
+        "explanation": "Fragile means easily broken (Brittle)."
+    },
+    {
+        "id": 47,
+        "subject": "English",
+        "topic": "Antonym",
+        "question": "The opposite of 'Diligent' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Hardworking",
+            "b": "Lazy",
+            "c": "Active",
+            "d": "Studious"
+        },
+        "correctAnswer": "b",
+        "explanation": "Diligent means hardworking; opposite is Lazy."
+    },
+    {
+        "id": 48,
+        "subject": "English",
+        "topic": "Meaning",
+        "question": "What does 'Ambiguous' mean?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Clear",
+            "b": "Unclear/Vague",
+            "c": "Bright",
+            "d": "Large"
+        },
+        "correctAnswer": "b",
+        "explanation": "Ambiguous means open to more than one interpretation."
+    },
+    {
+        "id": 49,
+        "subject": "English",
+        "topic": "Spelling",
+        "question": "Find the correct spelling.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Committee",
+            "b": "Comittee",
+            "c": "Commitee",
+            "d": "Comite"
+        },
+        "correctAnswer": "a",
+        "explanation": "Double m, double t, double e."
+    },
+    {
+        "id": 50,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "Synonym of 'Obstinate' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Stubborn",
+            "b": "Flexible",
+            "c": "Yielding",
+            "d": "Obedient"
+        },
+        "correctAnswer": "a",
+        "explanation": "Obstinate means refusing to change one's opinion (Stubborn)."
+    },
+    {
+        "id": 51,
+        "subject": "English",
+        "topic": "Antonym",
+        "question": "Antonym of 'Liberty' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Freedom",
+            "b": "Slavery",
+            "c": "Independence",
+            "d": "Autonomy"
+        },
+        "correctAnswer": "b",
+        "explanation": "Liberty is freedom; Slavery is bondage."
+    },
+    {
+        "id": 52,
+        "subject": "English",
+        "topic": "Root Words",
+        "question": "The word 'Lunar' is related to —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Sun",
+            "b": "Moon",
+            "c": "Earth",
+            "d": "Mars"
+        },
+        "correctAnswer": "b",
+        "explanation": "Lunar relates to the Moon (Solar relates to Sun)."
+    },
+    {
+        "id": 53,
+        "subject": "English",
+        "topic": "Spelling",
+        "question": "Which is correct?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Assessment",
+            "b": "Assesment",
+            "c": "Asessment",
+            "d": "Assassment"
+        },
+        "correctAnswer": "a",
+        "explanation": "Double s, double s."
+    },
+    {
+        "id": 54,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "Synonym for 'Inevitable' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Unavoidable",
+            "b": "Uncertain",
+            "c": "Doubtful",
+            "d": "Preventable"
+        },
+        "correctAnswer": "a",
+        "explanation": "Inevitable means certain to happen."
+    },
+    {
+        "id": 55,
+        "subject": "English",
+        "topic": "Context",
+        "question": "A 'philanthropist' is someone who —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Loves books",
+            "b": "Loves mankind",
+            "c": "Collects stamps",
+            "d": "Hates people"
+        },
+        "correctAnswer": "b",
+        "explanation": "Phil (love) + anthrop (human)."
+    },
+    {
+        "id": 56,
+        "subject": "English",
+        "topic": "Voice Change",
+        "question": "Change the voice: 'Who opened the door?'",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "By whom was the door opened?",
+            "b": "By whom the door was opened?",
+            "c": "Who was the door opened by?",
+            "d": "By whom is the door opened?"
+        },
+        "correctAnswer": "a",
+        "explanation": "Interrogative Passive: By whom + aux + object + V3?"
+    },
+    {
+        "id": 57,
+        "subject": "English",
+        "topic": "Voice Change",
+        "question": "Panic seized the writer. (Passive)",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "The writer was seized with panic.",
+            "b": "The writer was seized by panic.",
+            "c": "Panic was seized by writer.",
+            "d": "The writer is seized with panic."
+        },
+        "correctAnswer": "a",
+        "explanation": "Seize is followed by 'with' in passive, not 'by'."
+    },
+    {
+        "id": 58,
+        "subject": "English",
+        "topic": "Narration",
+        "question": "He said to me, 'May you be happy.'",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "He told me that I might be happy.",
+            "b": "He wished that I might be happy.",
+            "c": "He said that I may be happy.",
+            "d": "He prayed that I am happy."
+        },
+        "correctAnswer": "b",
+        "explanation": "Optative sentence changes to 'wished' or 'prayed' + might."
+    },
+    {
+        "id": 59,
+        "subject": "English",
+        "topic": "Degrees",
+        "question": "No other boy in the class is as good as he. (Superlative)",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "He is the best boy in the class.",
+            "b": "He is better than any other boy.",
+            "c": "He is the very best boy.",
+            "d": "He is goodest boy."
+        },
+        "correctAnswer": "a",
+        "explanation": "Superlative of 'good' is 'best'. Structure: The + best + noun."
+    },
+    {
+        "id": 60,
+        "subject": "English",
+        "topic": "Simple/Complex",
+        "question": "Though he is poor, he is honest. (Simple)",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "In spite of his poverty, he is honest.",
+            "b": "He is poor but honest.",
+            "c": "Because of his poverty he is honest.",
+            "d": "Being poor he is honest."
+        },
+        "correctAnswer": "a",
+        "explanation": "Though/Although converts to 'In spite of' + possessive + noun."
+    },
+    {
+        "id": 61,
+        "subject": "English",
+        "topic": "Redundancy",
+        "question": "Choose the correct sentence.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "He returned back home.",
+            "b": "He returned home.",
+            "c": "He returned to home.",
+            "d": "He returned back to home."
+        },
+        "correctAnswer": "b",
+        "explanation": "'Return' means to come back, so 'back' is redundant."
+    },
+    {
+        "id": 62,
+        "subject": "English",
+        "topic": "Parallelism",
+        "question": "She likes swimming, dancing, and ______.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "to run",
+            "b": "run",
+            "c": "running",
+            "d": "ran"
+        },
+        "correctAnswer": "c",
+        "explanation": "Parallel structure: ing, ing, and ing."
+    },
+    {
+        "id": 63,
+        "subject": "English",
+        "topic": "Negative",
+        "question": "Only Allah can help us. (Negative)",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "None but Allah can help us.",
+            "b": "Nothing but Allah can help us.",
+            "c": "Only not Allah can help us.",
+            "d": "Allah cannot help us."
+        },
+        "correctAnswer": "a",
+        "explanation": "'Only' for a person changes to 'None but'."
+    },
+    {
+        "id": 64,
+        "subject": "English",
+        "topic": "Uncountable Noun",
+        "question": "Choose the correct sentence.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "The sceneries of Cox's Bazar are charming.",
+            "b": "The scenery of Cox's Bazar is charming.",
+            "c": "The scenery of Cox's Bazar are charming.",
+            "d": "The sceneries of Cox's Bazar is charming."
+        },
+        "correctAnswer": "b",
+        "explanation": "'Scenery' is an uncountable noun and takes a singular verb. No plural form."
+    },
+    {
+        "id": 65,
+        "subject": "English",
+        "topic": "Causative",
+        "question": "I made him ______ the work.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "do",
+            "b": "to do",
+            "c": "done",
+            "d": "doing"
+        },
+        "correctAnswer": "a",
+        "explanation": "Make + Person + V1 (base form without to)."
+    },
+    {
+        "id": 66,
+        "subject": "English",
+        "topic": "Infinitive",
+        "question": "He went to market with a view to ______ a shirt.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "buy",
+            "b": "buying",
+            "c": "bought",
+            "d": "to buy"
+        },
+        "correctAnswer": "b",
+        "explanation": "'With a view to' is followed by V+ing."
+    },
+    {
+        "id": 67,
+        "subject": "English",
+        "topic": "Article",
+        "question": "______ Himalayas are in Asia.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "A",
+            "b": "An",
+            "c": "The",
+            "d": "No article"
+        },
+        "correctAnswer": "c",
+        "explanation": "Mountain ranges always take 'the'."
+    },
+    {
+        "id": 68,
+        "subject": "English",
+        "topic": "Conjunction",
+        "question": "______ he is rich, he is unhappy.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Since",
+            "b": "Because",
+            "c": "Though",
+            "d": "So"
+        },
+        "correctAnswer": "c",
+        "explanation": "Though indicates contrast."
+    },
+    {
+        "id": 69,
+        "subject": "English",
+        "topic": "Verb Form",
+        "question": "He talks as if he ______ everything.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "knows",
+            "b": "knew",
+            "c": "known",
+            "d": "know"
+        },
+        "correctAnswer": "b",
+        "explanation": "After 'as if/as though', past tense is used to express unreality."
+    },
+    {
+        "id": 70,
+        "subject": "English",
+        "topic": "Sentence Correction",
+        "question": "He finished ______ the letter.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "write",
+            "b": "to write",
+            "c": "writing",
+            "d": "written"
+        },
+        "correctAnswer": "c",
+        "explanation": "Finish is followed by V+ing."
+    },
+    {
+        "id": 71,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "The word 'Conceal' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Reveal",
+            "b": "Hide",
+            "c": "Show",
+            "d": "Expose"
+        },
+        "correctAnswer": "b",
+        "explanation": "Conceal means to hide."
+    },
+    {
+        "id": 72,
+        "subject": "English",
+        "topic": "Passive Voice",
+        "question": "I know him. (Passive)",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "He is known by me.",
+            "b": "He is known to me.",
+            "c": "He was known to me.",
+            "d": "He has been known to me."
+        },
+        "correctAnswer": "b",
+        "explanation": "Mental state verbs (know, love, like) take 'to' instead of 'by'."
+    },
+    {
+        "id": 73,
+        "subject": "English",
+        "topic": "Sentence Structure",
+        "question": "Man is mortal. (Negative without changing meaning)",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Man is not mortal.",
+            "b": "Man is not immortal.",
+            "c": "Man is immortal.",
+            "d": "No man is immortal."
+        },
+        "correctAnswer": "b",
+        "explanation": "Double negative makes a positive statement."
+    },
+    {
+        "id": 74,
+        "subject": "English",
+        "topic": "Right Form",
+        "question": "We look forward to ______ from you.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "hear",
+            "b": "hearing",
+            "c": "heard",
+            "d": "be hearing"
+        },
+        "correctAnswer": "b",
+        "explanation": "'Look forward to' is followed by V+ing."
+    },
+    {
+        "id": 75,
+        "subject": "English",
+        "topic": "Phrase Meaning",
+        "question": "'Red tape' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Official formalities",
+            "b": "Red colored tape",
+            "c": "Important documents",
+            "d": "Danger"
+        },
+        "correctAnswer": "a",
+        "explanation": "Red tape means excessive bureaucracy or adherence to rules."
+    },
+    {
+        "id": 76,
+        "subject": "English",
+        "topic": "Appropriate Preposition",
+        "question": "I congratulated him ______ his success.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "for",
+            "b": "on",
+            "c": "at",
+            "d": "in"
+        },
+        "correctAnswer": "b",
+        "explanation": "Congratulate takes 'on'."
+    },
+    {
+        "id": 77,
+        "subject": "English",
+        "topic": "Antonym",
+        "question": "The antonym of 'Arrogant' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Proud",
+            "b": "Humble",
+            "c": "Confident",
+            "d": "Bold"
+        },
+        "correctAnswer": "b",
+        "explanation": "Arrogant means overly proud; Humble is the opposite."
+    },
+    {
+        "id": 78,
+        "subject": "English",
+        "topic": "Verb Tense",
+        "question": "When I reached the station, the train ______.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "left",
+            "b": "has left",
+            "c": "had left",
+            "d": "will leave"
+        },
+        "correctAnswer": "c",
+        "explanation": "Past Perfect is used for an action completed before another past action."
+    },
+    {
+        "id": 79,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "'Abundant' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Scarce",
+            "b": "Plentiful",
+            "c": "Rare",
+            "d": "Limited"
+        },
+        "correctAnswer": "b",
+        "explanation": "Abundant means in large quantities (Plentiful)."
+    },
+    {
+        "id": 80,
+        "subject": "English",
+        "topic": "Sentence Structure",
+        "question": "He is too weak ______ walk.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "for",
+            "b": "that",
+            "c": "to",
+            "d": "so"
+        },
+        "correctAnswer": "c",
+        "explanation": "Too + adjective + to + V1 (infinitive)."
+    },
+    {
+        "id": 81,
+        "subject": "English",
+        "topic": "Parts of Speech",
+        "question": "The word 'honesty' is a/an —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Adjective",
+            "b": "Noun",
+            "c": "Verb",
+            "d": "Adverb"
+        },
+        "correctAnswer": "b",
+        "explanation": "Honesty is an abstract noun."
+    },
+    {
+        "id": 82,
+        "subject": "English",
+        "topic": "Vocabulary",
+        "question": "'Epic' is related to —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Poetry",
+            "b": "Drama",
+            "c": "Novel",
+            "d": "Essay"
+        },
+        "correctAnswer": "a",
+        "explanation": "Epic is a long narrative poem."
+    },
+    {
+        "id": 83,
+        "subject": "English",
+        "topic": "Phrase",
+        "question": "'At stake' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "At risk",
+            "b": "At peace",
+            "c": "At ease",
+            "d": "At rest"
+        },
+        "correctAnswer": "a",
+        "explanation": "At stake means at risk or in danger."
+    },
+    {
+        "id": 84,
+        "subject": "English",
+        "topic": "Verb Form",
+        "question": "Would you mind ______ the door?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "close",
+            "b": "to close",
+            "c": "closing",
+            "d": "closed"
+        },
+        "correctAnswer": "c",
+        "explanation": "Mind is followed by V+ing."
+    },
+    {
+        "id": 85,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "'Cease' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Continue",
+            "b": "Stop",
+            "c": "Begin",
+            "d": "Start"
+        },
+        "correctAnswer": "b",
+        "explanation": "Cease means to stop."
+    },
+    {
+        "id": 86,
+        "subject": "English",
+        "topic": "Sentence Correction",
+        "question": "Neither of the two boys ______ present.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "are",
+            "b": "were",
+            "c": "is",
+            "d": "have been"
+        },
+        "correctAnswer": "c",
+        "explanation": "Neither takes a singular verb."
+    },
+    {
+        "id": 87,
+        "subject": "English",
+        "topic": "Antonym",
+        "question": "The opposite of 'Expand' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Contract",
+            "b": "Enlarge",
+            "c": "Increase",
+            "d": "Grow"
+        },
+        "correctAnswer": "a",
+        "explanation": "Expand means to make larger; Contract means to make smaller."
+    },
+    {
+        "id": 88,
+        "subject": "English",
+        "topic": "Appropriate Preposition",
+        "question": "He is suffering ______ fever.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "with",
+            "b": "from",
+            "c": "for",
+            "d": "of"
+        },
+        "correctAnswer": "b",
+        "explanation": "Suffer from (disease); Suffer for (cause)."
+    },
+    {
+        "id": 89,
+        "subject": "English",
+        "topic": "Phrase Meaning",
+        "question": "'In vain' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Successfully",
+            "b": "Without result",
+            "c": "Happily",
+            "d": "Carefully"
+        },
+        "correctAnswer": "b",
+        "explanation": "In vain means without success or result."
+    },
+    {
+        "id": 90,
+        "subject": "English",
+        "topic": "Correct Form",
+        "question": "I am tired of ______ the same work.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "do",
+            "b": "doing",
+            "c": "done",
+            "d": "to do"
+        },
+        "correctAnswer": "b",
+        "explanation": "Tired of is followed by V+ing."
+    },
+    {
+        "id": 91,
+        "subject": "English",
+        "topic": "Synonym",
+        "question": "'Authentic' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Genuine",
+            "b": "Fake",
+            "c": "False",
+            "d": "Artificial"
+        },
+        "correctAnswer": "a",
+        "explanation": "Authentic means genuine or real."
+    },
+    {
+        "id": 92,
+        "subject": "English",
+        "topic": "Voice Change",
+        "question": "Let the door be opened. (Active)",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Open the door.",
+            "b": "The door is opened.",
+            "c": "Opening the door.",
+            "d": "The door opened."
+        },
+        "correctAnswer": "a",
+        "explanation": "Let + object + be + V3 changes to Imperative sentence."
+    },
+    {
+        "id": 93,
+        "subject": "English",
+        "topic": "Sentence Structure",
+        "question": "He is ______ honest man.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "a",
+            "b": "an",
+            "c": "the",
+            "d": "no article"
+        },
+        "correctAnswer": "b",
+        "explanation": "'Honest' starts with a vowel sound, so 'an' is used."
+    },
+    {
+        "id": 94,
+        "subject": "English",
+        "topic": "Antonym",
+        "question": "The antonym of 'Ancient' is —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Old",
+            "b": "Modern",
+            "c": "Past",
+            "d": "Historic"
+        },
+        "correctAnswer": "b",
+        "explanation": "Ancient means very old; Modern is the opposite."
+    },
+    {
+        "id": 95,
+        "subject": "English",
+        "topic": "Meaning",
+        "question": "'Procrastinate' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "To hurry",
+            "b": "To delay",
+            "c": "To finish quickly",
+            "d": "To complete"
+        },
+        "correctAnswer": "b",
+        "explanation": "Procrastinate means to delay or postpone."
+    },
+    {
+        "id": 96,
+        "subject": "English",
+        "topic": "Verb Form",
+        "question": "She kept me ______ for an hour.",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "wait",
+            "b": "to wait",
+            "c": "waiting",
+            "d": "waited"
+        },
+        "correctAnswer": "c",
+        "explanation": "Keep + object + V+ing."
+    },
+    {
+        "id": 97,
+        "subject": "English",
+        "topic": "One Word Substitution",
+        "question": "A person who studies insects is called —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Botanist",
+            "b": "Zoologist",
+            "c": "Entomologist",
+            "d": "Biologist"
+        },
+        "correctAnswer": "c",
+        "explanation": "Entomologist studies insects."
+    },
+    {
+        "id": 98,
+        "subject": "English",
+        "topic": "Phrase Meaning",
+        "question": "'A piece of cake' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Delicious food",
+            "b": "Very easy",
+            "c": "A party",
+            "d": "Something sweet"
+        },
+        "correctAnswer": "b",
+        "explanation": "A piece of cake means something very easy to do."
+    },
+    {
+        "id": 99,
+        "subject": "English",
+        "topic": "Spelling",
+        "question": "What is the plural of 'Physics'?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Physics",
+            "b": "Physicss",
+            "c": "Physices",
+            "d": "None"
+        },
+        "correctAnswer": "d",
+        "explanation": "Physics is singular (subject name). It has no plural in this context."
+    },
+    {
+        "id": 100,
+        "subject": "English",
+        "topic": "Foreign Phrase",
+        "question": "'Vice versa' means —",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "The terms being exchanged",
+            "b": "Very important",
+            "c": "A bad habit",
+            "d": "Face to face"
+        },
+        "correctAnswer": "a",
+        "explanation": "Conversely or the order being reversed."
+    }
+]
