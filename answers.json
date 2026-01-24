@@ -97,25 +97,5 @@
     "wrong": 24,
     "pass": false,
     "questionFile": "Physics-3.json"
-  },
-  {
-    "studentName": "dfad",
-    "answers": {
-      "27": "b",
-      "34": "c",
-      "53": "b",
-      "57": "c",
-      "60": "b",
-      "77": "a",
-      "100": "b"
-    },
-    "score": 0,
-    "totalMarks": 100,
-    "timestamp": "2026-01-24T04:19:16.243Z",
-    "attempted": 7,
-    "correct": 1,
-    "wrong": 6,
-    "pass": false,
-    "questionFile": "English.json"
   }
 ]
