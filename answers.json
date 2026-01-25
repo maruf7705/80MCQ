@@ -302,17 +302,5 @@
     "wrong": 26,
     "pass": true,
     "questionFile": "mode_test1.json"
-  },
-  {
-    "studentName": "Rifah M1",
-    "answers": {},
-    "score": 0,
-    "totalMarks": 100,
-    "timestamp": "2026-01-25T09:17:27.976Z",
-    "attempted": 0,
-    "correct": 0,
-    "wrong": 0,
-    "pass": false,
-    "questionFile": "model_test1.json"
   }
 ]
