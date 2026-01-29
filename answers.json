@@ -111,20 +111,5 @@
     "wrong": 21,
     "pass": true,
     "questionFile": "CUM_test1.json"
-  },
-  {
-    "studentName": "Maruf Test",
-    "answers": {
-      "2": "b",
-      "100": "d"
-    },
-    "score": 0,
-    "totalMarks": 100,
-    "timestamp": "2026-01-29T15:23:56.034Z",
-    "attempted": 2,
-    "correct": 0,
-    "wrong": 2,
-    "pass": false,
-    "questionFile": "CUM_test2.json"
   }
 ]
