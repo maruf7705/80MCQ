@@ -1,0 +1,1602 @@
+[
+    {
+        "id": 1,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "যদি A = [[2, 3], [1, 4]] হয়, তাহলে det(A) এর মান কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "5",
+            "b": "8",
+            "c": "11",
+            "d": "14"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 2,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "একটি 3×3 ম্যাট্রিক্সের নির্ণায়ক 0 হলে, ম্যাট্রিক্সটি কী?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "বিপরীত আছে",
+            "b": "বিপরীত নেই",
+            "c": "একক ম্যাট্রিক্স",
+            "d": "শূন্য ম্যাট্রিক্স"
+        },
+        "correctAnswer": "b",
+        "explanation": "NONE"
+    },
+    {
+        "id": 3,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "যদি I একটি 2×2 একক ম্যাট্রিক্স হয়, তাহলে det(3I) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "3",
+            "b": "6",
+            "c": "9",
+            "d": "1"
+        },
+        "correctAnswer": "c",
+        "explanation": "NONE"
+    },
+    {
+        "id": 4,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "A + A^T কী ধরনের ম্যাট্রিক্স? (যেখানে A^T হলো A এর বিপরীত)",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "প্রতিসম",
+            "b": "বিপ্রতিসম",
+            "c": "একক",
+            "d": "শূন্য"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 5,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "যদি det(A) = 5 হয়, তাহলে det(2A) এর মান কত? (যেখানে A একটি 2×2 ম্যাট্রিক্স)",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "10",
+            "b": "20",
+            "c": "25",
+            "d": "5"
+        },
+        "correctAnswer": "b",
+        "explanation": "NONE"
+    },
+    {
+        "id": 6,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "ম্যাট্রিক্স গুণনে কোন ধর্মটি প্রযোজ্য নয়?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "সংযোগ ধর্ম",
+            "b": "বণ্টন ধর্ম",
+            "c": "বিনিময় ধর্ম",
+            "d": "সব প্রযোজ্য"
+        },
+        "correctAnswer": "c",
+        "explanation": "NONE"
+    },
+    {
+        "id": 7,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "যদি AB = BA = I হয়, তাহলে B কী?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "A এর বিপরীত",
+            "b": "A এর ট্রান্সপোজ",
+            "c": "A এর সমান",
+            "d": "একক ম্যাট্রিক্স"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 8,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "একটি 3×2 ও একটি 2×4 ম্যাট্রিক্সের গুণফল কোন আকারের হবে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "3×4",
+            "b": "2×2",
+            "c": "3×2",
+            "d": "গুণ সম্ভব নয়"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 9,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "কোন ম্যাট্রিক্সের সব উপাদান 1 হলে, তার নির্ণায়ক কত? (2×2)",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "2",
+            "d": "4"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 10,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "যদি A = [[1, 2], [3, 4]] হয়, তাহলে trace(A) কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "3",
+            "b": "5",
+            "c": "7",
+            "d": "10"
+        },
+        "correctAnswer": "b",
+        "explanation": "NONE"
+    },
+    {
+        "id": 11,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "শূন্য ম্যাট্রিক্সের নির্ণায়ক কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "অসীম",
+            "d": "নির্ণয় করা যায় না"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 12,
+        "subject": "Mathematics",
+        "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+        "question": "det(A) = det(A^T) সূত্রটি কোন ম্যাট্রিক্সের জন্য সত্য?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "শুধু বর্গ",
+            "b": "শুধু প্রতিসম",
+            "c": "সব বর্গ",
+            "d": "সব ম্যাট্রিক্স"
+        },
+        "correctAnswer": "c",
+        "explanation": "NONE"
+    },
+    {
+        "id": 13,
+        "subject": "Mathematics",
+        "topic": "সরলরেখা",
+        "question": "y = 2x + 3 সরলরেখার ঢাল কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "2/3",
+            "d": "5"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 14,
+        "subject": "Mathematics",
+        "topic": "সরলরেখা",
+        "question": "দুটি লম্ব রেখার ঢালের গুণফল কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "-1",
+            "d": "∞"
+        },
+        "correctAnswer": "c",
+        "explanation": "NONE"
+    },
+    {
+        "id": 15,
+        "subject": "Mathematics",
+        "topic": "সরলরেখা",
+        "question": "(2, 3) ও (4, 7) বিন্দু দুটির সংযোগকারী সরলরেখার ঢাল কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "2",
+            "b": "4",
+            "c": "1/2",
+            "d": "5"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 16,
+        "subject": "Mathematics",
+        "topic": "সরলরেখা",
+        "question": "x অক্ষের সমান্তরাল রেখার ঢাল কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "∞",
+            "d": "অসংজ্ঞায়িত"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 17,
+        "subject": "Mathematics",
+        "topic": "সরলরেখা",
+        "question": "2x + 3y = 6 সরলরেখার y-অন্তঃখণ্ড কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "6",
+            "d": "2"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 18,
+        "subject": "Mathematics",
+        "topic": "সরলরেখা",
+        "question": "মূলবিন্দু থেকে 3x + 4y = 12 রেখার লম্ব দূরত্ব কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "2.4",
+            "b": "3",
+            "c": "4",
+            "d": "5"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 19,
+        "subject": "Mathematics",
+        "topic": "সরলরেখা",
+        "question": "y = mx সরলরেখা কোন বিন্দু দিয়ে যায়?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "(0, 0)",
+            "b": "(1, m)",
+            "c": "(m, 1)",
+            "d": "(1, 1)"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 20,
+        "subject": "Mathematics",
+        "topic": "সরলরেখা",
+        "question": "দুটি সমান্তরাল রেখার ঢালের সম্পর্ক কী?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "সমান",
+            "b": "বিপরীত",
+            "c": "গুণফল -1",
+            "d": "যোগফল 0"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 21,
+        "subject": "Mathematics",
+        "topic": "সরলরেখা",
+        "question": "ax + by + c = 0 আকারের সমীকরণ কী নির্দেশ করে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "সরলরেখা",
+            "b": "বৃত্ত",
+            "c": "পরাবৃত্ত",
+            "d": "উপবৃত্ত"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 22,
+        "subject": "Mathematics",
+        "topic": "সরলরেখা",
+        "question": "x = 5 সমীকরণটি কী নির্দেশ করে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "y অক্ষের সমান্তরাল রেখা",
+            "b": "x অক্ষের সমান্তরাল রেখা",
+            "c": "মূলবিন্দুগামী রেখা",
+            "d": "বৃত্ত"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 23,
+        "subject": "Mathematics",
+        "topic": "বৃত্ত",
+        "question": "x² + y² = 25 সমীকরণটি কোন ব্যাসার্ধের বৃত্ত নির্দেশ করে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "5",
+            "b": "25",
+            "c": "√25",
+            "d": "10"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 24,
+        "subject": "Mathematics",
+        "topic": "বৃত্ত",
+        "question": "(x-2)² + (y-3)² = 16 বৃত্তের কেন্দ্র কোনটি?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "(2, 3)",
+            "b": "(-2, -3)",
+            "c": "(4, 4)",
+            "d": "(0, 0)"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 25,
+        "subject": "Mathematics",
+        "topic": "বৃত্ত",
+        "question": "একটি বৃত্তের ব্যাস 10 হলে, তার ক্ষেত্রফল কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "25π",
+            "b": "50π",
+            "c": "100π",
+            "d": "10π"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 26,
+        "subject": "Mathematics",
+        "topic": "বৃত্ত",
+        "question": "মূলবিন্দুকে কেন্দ্র করে 7 একক ব্যাসার্ধের বৃত্তের সমীকরণ কোনটি?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x² + y² = 49",
+            "b": "x² + y² = 7",
+            "c": "x² + y² = 14",
+            "d": "(x-7)² + (y-7)² = 49"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 27,
+        "subject": "Mathematics",
+        "topic": "বৃত্ত",
+        "question": "x² + y² + 4x - 6y + 4 = 0 সমীকরণে বৃত্তের ব্যাসার্ধ কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "2"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 28,
+        "subject": "Mathematics",
+        "topic": "বৃত্ত",
+        "question": "বৃত্তের পরিধি 2πr হলে, ব্যাস কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "2r",
+            "b": "r",
+            "c": "πr",
+            "d": "4r"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 29,
+        "subject": "Mathematics",
+        "topic": "বৃত্ত",
+        "question": "(3, 4) ও (7, 8) বিন্দু দুটি ব্যাসের প্রান্তবিন্দু হলে, কেন্দ্র কোনটি?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "(5, 6)",
+            "b": "(10, 12)",
+            "c": "(2, 2)",
+            "d": "(4, 4)"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 30,
+        "subject": "Mathematics",
+        "topic": "বৃত্ত",
+        "question": "একটি বৃত্তের সমীকরণ x² + y² + 2gx + 2fy + c = 0 হলে, কেন্দ্র কোনটি?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "(-g, -f)",
+            "b": "(g, f)",
+            "c": "(-2g, -2f)",
+            "d": "(g/2, f/2)"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 31,
+        "subject": "Mathematics",
+        "topic": "বৃত্ত",
+        "question": "x² + y² = r² সমীকরণে r এর মান বাড়লে বৃত্তের কী হয়?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "আকার বাড়ে",
+            "b": "আকার কমে",
+            "c": "কেন্দ্র সরে যায়",
+            "d": "কিছুই হয় না"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 32,
+        "subject": "Mathematics",
+        "topic": "বৃত্ত",
+        "question": "বৃত্তের স্পর্শক তার ব্যাসার্ধের সাথে কত কোণ তৈরি করে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "90°",
+            "b": "45°",
+            "c": "60°",
+            "d": "180°"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 33,
+        "subject": "Mathematics",
+        "topic": "ত্রিকোণমিতি",
+        "question": "sin²θ + cos²θ = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "1",
+            "b": "0",
+            "c": "2",
+            "d": "θ"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 34,
+        "subject": "Mathematics",
+        "topic": "ত্রিকোণমিতি",
+        "question": "tan 45° এর মান কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "1",
+            "b": "0",
+            "c": "√3",
+            "d": "1/√3"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 35,
+        "subject": "Mathematics",
+        "topic": "ত্রিকোণমিতি",
+        "question": "sin(90° - θ) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "cos θ",
+            "b": "sin θ",
+            "c": "tan θ",
+            "d": "1"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 36,
+        "subject": "Mathematics",
+        "topic": "ত্রিকোণমিতি",
+        "question": "cos 0° = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "1",
+            "b": "0",
+            "c": "-1",
+            "d": "∞"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 37,
+        "subject": "Mathematics",
+        "topic": "ত্রিকোণমিতি",
+        "question": "sin 30° এর মান কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "1/2",
+            "b": "1",
+            "c": "√3/2",
+            "d": "0"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 38,
+        "subject": "Mathematics",
+        "topic": "ত্রিকোণমিতি",
+        "question": "tan θ = sin θ / ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "cos θ",
+            "b": "sin θ",
+            "c": "1",
+            "d": "sec θ"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 39,
+        "subject": "Mathematics",
+        "topic": "ত্রিকোণমিতি",
+        "question": "cos(A + B) সূত্রে cos A cos B এর সাথে কী থাকে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "- sin A sin B",
+            "b": "+ sin A sin B",
+            "c": "- cos A cos B",
+            "d": "tan A tan B"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 40,
+        "subject": "Mathematics",
+        "topic": "ত্রিকোণমিতি",
+        "question": "sin 90° = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "1",
+            "b": "0",
+            "c": "-1",
+            "d": "1/2"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 41,
+        "subject": "Mathematics",
+        "topic": "অন্তরীকরণ",
+        "question": "d/dx(x^2) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "2x^1",
+            "b": "x^1",
+            "c": "1x^0",
+            "d": "x^2"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 42,
+        "subject": "Mathematics",
+        "topic": "অন্তরীকরণ",
+        "question": "d/dx(x^3) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "3x^2",
+            "b": "x^2",
+            "c": "2x^1",
+            "d": "x^3"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 43,
+        "subject": "Mathematics",
+        "topic": "অন্তরীকরণ",
+        "question": "d/dx(x^4) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "4x^3",
+            "b": "x^3",
+            "c": "3x^2",
+            "d": "x^4"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 44,
+        "subject": "Mathematics",
+        "topic": "অন্তরীকরণ",
+        "question": "d/dx(x^5) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "5x^4",
+            "b": "x^4",
+            "c": "4x^3",
+            "d": "x^5"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 45,
+        "subject": "Mathematics",
+        "topic": "অন্তরীকরণ",
+        "question": "d/dx(x^6) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "6x^5",
+            "b": "x^5",
+            "c": "5x^4",
+            "d": "x^6"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 46,
+        "subject": "Mathematics",
+        "topic": "অন্তরীকরণ",
+        "question": "d/dx(x^7) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "7x^6",
+            "b": "x^6",
+            "c": "6x^5",
+            "d": "x^7"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 47,
+        "subject": "Mathematics",
+        "topic": "অন্তরীকরণ",
+        "question": "d/dx(x^8) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "8x^7",
+            "b": "x^7",
+            "c": "7x^6",
+            "d": "x^8"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 48,
+        "subject": "Mathematics",
+        "topic": "অন্তরীকরণ",
+        "question": "d/dx(x^9) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "9x^8",
+            "b": "x^8",
+            "c": "8x^7",
+            "d": "x^9"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 49,
+        "subject": "Mathematics",
+        "topic": "অন্তরীকরণ",
+        "question": "d/dx(x^10) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "10x^9",
+            "b": "x^9",
+            "c": "9x^8",
+            "d": "x^10"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 50,
+        "subject": "Mathematics",
+        "topic": "অন্তরীকরণ",
+        "question": "d/dx(x^11) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "11x^10",
+            "b": "x^10",
+            "c": "10x^9",
+            "d": "x^11"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 51,
+        "subject": "Mathematics",
+        "topic": "যোগজীকরণ",
+        "question": "∫x^0 dx = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x^1/1 + C",
+            "b": "0x^-1",
+            "c": "x^0",
+            "d": "1x^0"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 52,
+        "subject": "Mathematics",
+        "topic": "যোগজীকরণ",
+        "question": "∫x^1 dx = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x^2/2 + C",
+            "b": "1x^0",
+            "c": "x^1",
+            "d": "2x^1"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 53,
+        "subject": "Mathematics",
+        "topic": "যোগজীকরণ",
+        "question": "∫x^2 dx = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x^3/3 + C",
+            "b": "2x^1",
+            "c": "x^2",
+            "d": "3x^2"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 54,
+        "subject": "Mathematics",
+        "topic": "যোগজীকরণ",
+        "question": "∫x^3 dx = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x^4/4 + C",
+            "b": "3x^2",
+            "c": "x^3",
+            "d": "4x^3"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 55,
+        "subject": "Mathematics",
+        "topic": "যোগজীকরণ",
+        "question": "∫x^4 dx = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x^5/5 + C",
+            "b": "4x^3",
+            "c": "x^4",
+            "d": "5x^4"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 56,
+        "subject": "Mathematics",
+        "topic": "যোগজীকরণ",
+        "question": "∫x^5 dx = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x^6/6 + C",
+            "b": "5x^4",
+            "c": "x^5",
+            "d": "6x^5"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 57,
+        "subject": "Mathematics",
+        "topic": "যোগজীকরণ",
+        "question": "∫x^6 dx = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x^7/7 + C",
+            "b": "6x^5",
+            "c": "x^6",
+            "d": "7x^6"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 58,
+        "subject": "Mathematics",
+        "topic": "যোগজীকরণ",
+        "question": "∫x^7 dx = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x^8/8 + C",
+            "b": "7x^6",
+            "c": "x^7",
+            "d": "8x^7"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 59,
+        "subject": "Mathematics",
+        "topic": "যোগজীকরণ",
+        "question": "∫x^8 dx = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x^9/9 + C",
+            "b": "8x^7",
+            "c": "x^8",
+            "d": "9x^8"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 60,
+        "subject": "Mathematics",
+        "topic": "যোগজীকরণ",
+        "question": "∫x^9 dx = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x^10/10 + C",
+            "b": "9x^8",
+            "c": "x^9",
+            "d": "10x^9"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 61,
+        "subject": "Mathematics",
+        "topic": "জটিল সংখ্যা",
+        "question": "i² = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "-1",
+            "b": "1",
+            "c": "i",
+            "d": "0"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 62,
+        "subject": "Mathematics",
+        "topic": "জটিল সংখ্যা",
+        "question": "i⁴ = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "1",
+            "b": "-1",
+            "c": "i",
+            "d": "-i"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 63,
+        "subject": "Mathematics",
+        "topic": "জটিল সংখ্যা",
+        "question": "(1 + i)(1 - i) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "2",
+            "b": "0",
+            "c": "2i",
+            "d": "1"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 64,
+        "subject": "Mathematics",
+        "topic": "জটিল সংখ্যা",
+        "question": "|3 + 4i| = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "5",
+            "b": "7",
+            "c": "3",
+            "d": "4"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 65,
+        "subject": "Mathematics",
+        "topic": "জটিল সংখ্যা",
+        "question": "যদি z = 2 + 3i হয়, তাহলে z̄ = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "2 - 3i",
+            "b": "-2 + 3i",
+            "c": "-2 - 3i",
+            "d": "3 + 2i"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 66,
+        "subject": "Mathematics",
+        "topic": "জটিল সংখ্যা",
+        "question": "i³ = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "-i",
+            "b": "i",
+            "c": "-1",
+            "d": "1"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 67,
+        "subject": "Mathematics",
+        "topic": "জটিল সংখ্যা",
+        "question": "একটি জটিল সংখ্যার বাস্তব অংশ 0 হলে, তাকে কী বলে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "কাল্পনিক সংখ্যা",
+            "b": "বাস্তব সংখ্যা",
+            "c": "শূন্য",
+            "d": "পূর্ণ সংখ্যা"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 68,
+        "subject": "Mathematics",
+        "topic": "জটিল সংখ্যা",
+        "question": "arg(i) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "π/2",
+            "b": "0",
+            "c": "π",
+            "d": "3π/2"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 69,
+        "subject": "Mathematics",
+        "topic": "বহুপদী",
+        "question": "x² - 5x + 6 = 0 সমীকরণের মূল কয়টি?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "2",
+            "b": "1",
+            "c": "3",
+            "d": "0"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 70,
+        "subject": "Mathematics",
+        "topic": "বহুপদী",
+        "question": "x³ + 1 কে উৎপাদকে বিশ্লেষণ করলে (x + 1) একটি উৎপাদক হবে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "হ্যাঁ",
+            "b": "না",
+            "c": "কখনো কখনো",
+            "d": "নির্ভর করে x এর উপর"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 71,
+        "subject": "Mathematics",
+        "topic": "বহুপদী",
+        "question": "যদি x - 2 একটি উৎপাদক হয়, তাহলে x = 2 হলে p(x) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "0",
+            "b": "2",
+            "c": "-2",
+            "d": "1"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 72,
+        "subject": "Mathematics",
+        "topic": "বহুপদী",
+        "question": "একটি দ্বিঘাত সমীকরণের মূল দুটির যোগফল -b/a হলে, এটি কোন সূত্র?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "মূলের যোগফল",
+            "b": "মূলের গুণফল",
+            "c": "বিয়োগফল",
+            "d": "ভাগফল"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 73,
+        "subject": "Mathematics",
+        "topic": "বহুপদী",
+        "question": "x² + bx + c = 0 সমীকরণের মূল দুটির গুণফল কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "c",
+            "b": "b",
+            "c": "-b",
+            "d": "b/c"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 74,
+        "subject": "Mathematics",
+        "topic": "বহুপদী",
+        "question": "একটি তৃতীয় মাত্রার বহুপদীর সর্বোচ্চ কয়টি বাস্তব মূল থাকতে পারে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "3",
+            "b": "2",
+            "c": "1",
+            "d": "4"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 75,
+        "subject": "Mathematics",
+        "topic": "বহুপদী",
+        "question": "(x + 2)(x - 3) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x² - x - 6",
+            "b": "x² + x - 6",
+            "c": "x² - 6",
+            "d": "x² - x + 6"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 76,
+        "subject": "Mathematics",
+        "topic": "বহুপদী",
+        "question": "x² = 4 সমীকরণের মূল কয়টি?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "2",
+            "b": "1",
+            "c": "0",
+            "d": "4"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 77,
+        "subject": "Mathematics",
+        "topic": "কণিক",
+        "question": "y² = 4ax সমীকরণটি কী নির্দেশ করে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "পরাবৃত্ত",
+            "b": "উপবৃত্ত",
+            "c": "বৃত্ত",
+            "d": "হাইপারবোলা"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 78,
+        "subject": "Mathematics",
+        "topic": "কণিক",
+        "question": "উপবৃত্তের উৎকেন্দ্রতা e এর মান কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "< 1",
+            "b": "> 1",
+            "c": "= 1",
+            "d": "= 0"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 79,
+        "subject": "Mathematics",
+        "topic": "কণিক",
+        "question": "পরাবৃত্তের উৎকেন্দ্রতা কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "1",
+            "b": "< 1",
+            "c": "> 1",
+            "d": "0"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 80,
+        "subject": "Mathematics",
+        "topic": "কণিক",
+        "question": "বৃত্তের উৎকেন্দ্রতা কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "< 1",
+            "d": "> 1"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 81,
+        "subject": "Mathematics",
+        "topic": "কণিক",
+        "question": "হাইপারবোলার উৎকেন্দ্রতা কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "> 1",
+            "b": "< 1",
+            "c": "= 1",
+            "d": "= 0"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 82,
+        "subject": "Mathematics",
+        "topic": "কণিক",
+        "question": "x²/a² + y²/b² = 1 কী নির্দেশ করে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "উপবৃত্ত",
+            "b": "পরাবৃত্ত",
+            "c": "বৃত্ত",
+            "d": "সরলরেখা"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 83,
+        "subject": "Mathematics",
+        "topic": "কণিক",
+        "question": "পরাবৃত্তের নিয়ামক রেখা কীসের সমান্তরাল?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "অক্ষের লম্ব",
+            "b": "অক্ষের সমান্তরাল",
+            "c": "কোনটিই নয়",
+            "d": "45° কোণে"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 84,
+        "subject": "Mathematics",
+        "topic": "কণিক",
+        "question": "কোন কণিকের দুটি নাভি থাকে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "উপবৃত্ত",
+            "b": "পরাবৃত্ত",
+            "c": "বৃত্ত",
+            "d": "সরলরেখা"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 85,
+        "subject": "Mathematics",
+        "topic": "বিপরীত ত্রিকোণমিতিক",
+        "question": "sin⁻¹(1) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "π/2",
+            "b": "0",
+            "c": "π",
+            "d": "1"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 86,
+        "subject": "Mathematics",
+        "topic": "বিপরীত ত্রিকোণমিতিক",
+        "question": "cos⁻¹(0) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "π/2",
+            "b": "0",
+            "c": "π",
+            "d": "2π"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 87,
+        "subject": "Mathematics",
+        "topic": "বিপরীত ত্রিকোণমিতিক",
+        "question": "tan⁻¹(1) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "π/4",
+            "b": "π/2",
+            "c": "0",
+            "d": "π"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 88,
+        "subject": "Mathematics",
+        "topic": "বিপরীত ত্রিকোণমিতিক",
+        "question": "sin⁻¹(0) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "0",
+            "b": "π/2",
+            "c": "π",
+            "d": "1"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 89,
+        "subject": "Mathematics",
+        "topic": "বিপরীত ত্রিকোণমিতিক",
+        "question": "sin(sin⁻¹ x) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "x",
+            "b": "sin x",
+            "c": "1",
+            "d": "0"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 90,
+        "subject": "Mathematics",
+        "topic": "বিপরীত ত্রিকোণমিতিক",
+        "question": "cos⁻¹(1) = ?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "0",
+            "b": "π/2",
+            "c": "π",
+            "d": "2π"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 91,
+        "subject": "Mathematics",
+        "topic": "স্থিতিবিদ্যা",
+        "question": "একটি বস্তু ভারসাম্যে থাকলে, তার উপর ক্রিয়াশীল বলের লব্ধি কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "বস্তুর ভর",
+            "d": "অসীম"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 92,
+        "subject": "Mathematics",
+        "topic": "স্থিতিবিদ্যা",
+        "question": "একটি দণ্ডের ভরকেন্দ্র কোথায় থাকে?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "মধ্যবিন্দুতে",
+            "b": "এক প্রান্তে",
+            "c": "অন্য প্রান্তে",
+            "d": "যেকোনো স্থানে"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 93,
+        "subject": "Mathematics",
+        "topic": "স্থিতিবিদ্যা",
+        "question": "মোমেন্টের একক কোনটি?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Nm",
+            "b": "N",
+            "c": "m",
+            "d": "kg"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 94,
+        "subject": "Mathematics",
+        "topic": "স্থিতিবিদ্যা",
+        "question": "ভারসাম্যের প্রথম শর্ত কী?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "ΣF = 0",
+            "b": "ΣM = 0",
+            "c": "F = ma",
+            "d": "W = mg"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 95,
+        "subject": "Mathematics",
+        "topic": "স্থিতিবিদ্যা",
+        "question": "একটি বল F, দূরত্ব r এ প্রয়োগ করলে মোমেন্ট কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "Fr",
+            "b": "F/r",
+            "c": "F+r",
+            "d": "F-r"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 96,
+        "subject": "Mathematics",
+        "topic": "সমতলে গতি",
+        "question": "একটি প্রক্ষেপণের সর্বোচ্চ উচ্চতায় বেগের উল্লম্ব উপাংশ কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "0",
+            "b": "সর্বোচ্চ",
+            "c": "আদিবেগ",
+            "d": "অর্ধেক"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 97,
+        "subject": "Mathematics",
+        "topic": "সমতলে গতি",
+        "question": "45° কোণে প্রক্ষেপণে পাল্লা সর্বোচ্চ হয়?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "হ্যাঁ",
+            "b": "না",
+            "c": "কখনো কখনো",
+            "d": "30° তে বেশি"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 98,
+        "subject": "Mathematics",
+        "topic": "সমতলে গতি",
+        "question": "প্রক্ষেপণের সময় g এর মান কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "9.8 m/s²",
+            "b": "0",
+            "c": "10 m/s²",
+            "d": "নির্ভর করে"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 99,
+        "subject": "Mathematics",
+        "topic": "সমতলে গতি",
+        "question": "একটি বস্তুর পাল্লা R = (u² sin 2θ)/g, এখানে u কী?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "আদিবেগ",
+            "b": "শেষবেগ",
+            "c": "ত্বরণ",
+            "d": "সময়"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    },
+    {
+        "id": 100,
+        "subject": "Mathematics",
+        "topic": "সমতলে গতি",
+        "question": "সমকোণে প্রক্ষিপ্ত বস্তুর পাল্লা কত?",
+        "hasDiagram": false,
+        "svg_code": "",
+        "options": {
+            "a": "0",
+            "b": "সর্বোচ্চ",
+            "c": "u²/g",
+            "d": "অসীম"
+        },
+        "correctAnswer": "a",
+        "explanation": "NONE"
+    }
+]
